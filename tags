@@ -1,0 +1,2293 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.9~svn20110310	//
+ABORT_SYM	sql_yacc.cpp	/^    ABORT_SYM = 258,$/;"	e	enum:yytokentype	file:
+ABORT_SYM	sql_yacc.hpp	/^    ABORT_SYM = 258,$/;"	e	enum:yytokentype
+ACCESSIBLE_SYM	sql_yacc.cpp	/^    ACCESSIBLE_SYM = 259,$/;"	e	enum:yytokentype	file:
+ACCESSIBLE_SYM	sql_yacc.hpp	/^    ACCESSIBLE_SYM = 259,$/;"	e	enum:yytokentype
+ACTION	sql_yacc.cpp	/^    ACTION = 260,$/;"	e	enum:yytokentype	file:
+ACTION	sql_yacc.hpp	/^    ACTION = 260,$/;"	e	enum:yytokentype
+ADD	sql_yacc.cpp	/^    ADD = 261,$/;"	e	enum:yytokentype	file:
+ADD	sql_yacc.hpp	/^    ADD = 261,$/;"	e	enum:yytokentype
+ADDDATE_SYM	sql_yacc.cpp	/^    ADDDATE_SYM = 262,$/;"	e	enum:yytokentype	file:
+ADDDATE_SYM	sql_yacc.hpp	/^    ADDDATE_SYM = 262,$/;"	e	enum:yytokentype
+AFTER_SYM	sql_yacc.cpp	/^    AFTER_SYM = 263,$/;"	e	enum:yytokentype	file:
+AFTER_SYM	sql_yacc.hpp	/^    AFTER_SYM = 263,$/;"	e	enum:yytokentype
+AGAINST	sql_yacc.cpp	/^    AGAINST = 264,$/;"	e	enum:yytokentype	file:
+AGAINST	sql_yacc.hpp	/^    AGAINST = 264,$/;"	e	enum:yytokentype
+AGGREGATE_SYM	sql_yacc.cpp	/^    AGGREGATE_SYM = 265,$/;"	e	enum:yytokentype	file:
+AGGREGATE_SYM	sql_yacc.hpp	/^    AGGREGATE_SYM = 265,$/;"	e	enum:yytokentype
+ALGORITHM_SYM	sql_yacc.cpp	/^    ALGORITHM_SYM = 266,$/;"	e	enum:yytokentype	file:
+ALGORITHM_SYM	sql_yacc.hpp	/^    ALGORITHM_SYM = 266,$/;"	e	enum:yytokentype
+ALL	sql_yacc.cpp	/^    ALL = 267,$/;"	e	enum:yytokentype	file:
+ALL	sql_yacc.hpp	/^    ALL = 267,$/;"	e	enum:yytokentype
+ALTER	sql_yacc.cpp	/^    ALTER = 268,$/;"	e	enum:yytokentype	file:
+ALTER	sql_yacc.hpp	/^    ALTER = 268,$/;"	e	enum:yytokentype
+ANALYSE_SYM	sql_yacc.cpp	/^    ANALYSE_SYM = 269,$/;"	e	enum:yytokentype	file:
+ANALYSE_SYM	sql_yacc.hpp	/^    ANALYSE_SYM = 269,$/;"	e	enum:yytokentype
+ANALYZE_SYM	sql_yacc.cpp	/^    ANALYZE_SYM = 270,$/;"	e	enum:yytokentype	file:
+ANALYZE_SYM	sql_yacc.hpp	/^    ANALYZE_SYM = 270,$/;"	e	enum:yytokentype
+AND_AND_SYM	sql_yacc.cpp	/^    AND_AND_SYM = 271,$/;"	e	enum:yytokentype	file:
+AND_AND_SYM	sql_yacc.hpp	/^    AND_AND_SYM = 271,$/;"	e	enum:yytokentype
+AND_SYM	sql_yacc.cpp	/^    AND_SYM = 272,$/;"	e	enum:yytokentype	file:
+AND_SYM	sql_yacc.hpp	/^    AND_SYM = 272,$/;"	e	enum:yytokentype
+ANY_SYM	sql_yacc.cpp	/^    ANY_SYM = 273,$/;"	e	enum:yytokentype	file:
+ANY_SYM	sql_yacc.hpp	/^    ANY_SYM = 273,$/;"	e	enum:yytokentype
+AS	sql_yacc.cpp	/^    AS = 274,$/;"	e	enum:yytokentype	file:
+AS	sql_yacc.hpp	/^    AS = 274,$/;"	e	enum:yytokentype
+ASC	sql_yacc.cpp	/^    ASC = 275,$/;"	e	enum:yytokentype	file:
+ASC	sql_yacc.hpp	/^    ASC = 275,$/;"	e	enum:yytokentype
+ASCII_SYM	sql_yacc.cpp	/^    ASCII_SYM = 276,$/;"	e	enum:yytokentype	file:
+ASCII_SYM	sql_yacc.hpp	/^    ASCII_SYM = 276,$/;"	e	enum:yytokentype
+ASENSITIVE_SYM	sql_yacc.cpp	/^    ASENSITIVE_SYM = 277,$/;"	e	enum:yytokentype	file:
+ASENSITIVE_SYM	sql_yacc.hpp	/^    ASENSITIVE_SYM = 277,$/;"	e	enum:yytokentype
+AT_SYM	sql_yacc.cpp	/^    AT_SYM = 278,$/;"	e	enum:yytokentype	file:
+AT_SYM	sql_yacc.hpp	/^    AT_SYM = 278,$/;"	e	enum:yytokentype
+AUTOEXTEND_SIZE_SYM	sql_yacc.cpp	/^    AUTOEXTEND_SIZE_SYM = 279,$/;"	e	enum:yytokentype	file:
+AUTOEXTEND_SIZE_SYM	sql_yacc.hpp	/^    AUTOEXTEND_SIZE_SYM = 279,$/;"	e	enum:yytokentype
+AUTO_INC	sql_yacc.cpp	/^    AUTO_INC = 280,$/;"	e	enum:yytokentype	file:
+AUTO_INC	sql_yacc.hpp	/^    AUTO_INC = 280,$/;"	e	enum:yytokentype
+AVG_ROW_LENGTH	sql_yacc.cpp	/^    AVG_ROW_LENGTH = 281,$/;"	e	enum:yytokentype	file:
+AVG_ROW_LENGTH	sql_yacc.hpp	/^    AVG_ROW_LENGTH = 281,$/;"	e	enum:yytokentype
+AVG_SYM	sql_yacc.cpp	/^    AVG_SYM = 282,$/;"	e	enum:yytokentype	file:
+AVG_SYM	sql_yacc.hpp	/^    AVG_SYM = 282,$/;"	e	enum:yytokentype
+BACKUP_SYM	sql_yacc.cpp	/^    BACKUP_SYM = 283,$/;"	e	enum:yytokentype	file:
+BACKUP_SYM	sql_yacc.hpp	/^    BACKUP_SYM = 283,$/;"	e	enum:yytokentype
+BEFORE_SYM	sql_yacc.cpp	/^    BEFORE_SYM = 284,$/;"	e	enum:yytokentype	file:
+BEFORE_SYM	sql_yacc.hpp	/^    BEFORE_SYM = 284,$/;"	e	enum:yytokentype
+BEGIN	sql_lex.cpp	17;"	d	file:
+BEGIN_SYM	sql_yacc.cpp	/^    BEGIN_SYM = 285,$/;"	e	enum:yytokentype	file:
+BEGIN_SYM	sql_yacc.hpp	/^    BEGIN_SYM = 285,$/;"	e	enum:yytokentype
+BETWEEN_SYM	sql_yacc.cpp	/^    BETWEEN_SYM = 286,$/;"	e	enum:yytokentype	file:
+BETWEEN_SYM	sql_yacc.hpp	/^    BETWEEN_SYM = 286,$/;"	e	enum:yytokentype
+BIGINT	sql_yacc.cpp	/^    BIGINT = 287,$/;"	e	enum:yytokentype	file:
+BIGINT	sql_yacc.hpp	/^    BIGINT = 287,$/;"	e	enum:yytokentype
+BINARY	sql_yacc.cpp	/^    BINARY = 288,$/;"	e	enum:yytokentype	file:
+BINARY	sql_yacc.hpp	/^    BINARY = 288,$/;"	e	enum:yytokentype
+BINLOG_SYM	sql_yacc.cpp	/^    BINLOG_SYM = 289,$/;"	e	enum:yytokentype	file:
+BINLOG_SYM	sql_yacc.hpp	/^    BINLOG_SYM = 289,$/;"	e	enum:yytokentype
+BIN_NUM	sql_yacc.cpp	/^    BIN_NUM = 290,$/;"	e	enum:yytokentype	file:
+BIN_NUM	sql_yacc.hpp	/^    BIN_NUM = 290,$/;"	e	enum:yytokentype
+BIT_AND	sql_yacc.cpp	/^    BIT_AND = 291,$/;"	e	enum:yytokentype	file:
+BIT_AND	sql_yacc.hpp	/^    BIT_AND = 291,$/;"	e	enum:yytokentype
+BIT_OR	sql_yacc.cpp	/^    BIT_OR = 292,$/;"	e	enum:yytokentype	file:
+BIT_OR	sql_yacc.hpp	/^    BIT_OR = 292,$/;"	e	enum:yytokentype
+BIT_SYM	sql_yacc.cpp	/^    BIT_SYM = 293,$/;"	e	enum:yytokentype	file:
+BIT_SYM	sql_yacc.hpp	/^    BIT_SYM = 293,$/;"	e	enum:yytokentype
+BIT_XOR	sql_yacc.cpp	/^    BIT_XOR = 294,$/;"	e	enum:yytokentype	file:
+BIT_XOR	sql_yacc.hpp	/^    BIT_XOR = 294,$/;"	e	enum:yytokentype
+BLOB_SYM	sql_yacc.cpp	/^    BLOB_SYM = 295,$/;"	e	enum:yytokentype	file:
+BLOB_SYM	sql_yacc.hpp	/^    BLOB_SYM = 295,$/;"	e	enum:yytokentype
+BLOCK_SYM	sql_yacc.cpp	/^    BLOCK_SYM = 296,$/;"	e	enum:yytokentype	file:
+BLOCK_SYM	sql_yacc.hpp	/^    BLOCK_SYM = 296,$/;"	e	enum:yytokentype
+BOOLEAN_SYM	sql_yacc.cpp	/^    BOOLEAN_SYM = 297,$/;"	e	enum:yytokentype	file:
+BOOLEAN_SYM	sql_yacc.hpp	/^    BOOLEAN_SYM = 297,$/;"	e	enum:yytokentype
+BOOL_SYM	sql_yacc.cpp	/^    BOOL_SYM = 298,$/;"	e	enum:yytokentype	file:
+BOOL_SYM	sql_yacc.hpp	/^    BOOL_SYM = 298,$/;"	e	enum:yytokentype
+BOTH	sql_yacc.cpp	/^    BOTH = 299,$/;"	e	enum:yytokentype	file:
+BOTH	sql_yacc.hpp	/^    BOTH = 299,$/;"	e	enum:yytokentype
+BTREE_SYM	sql_yacc.cpp	/^    BTREE_SYM = 300,$/;"	e	enum:yytokentype	file:
+BTREE_SYM	sql_yacc.hpp	/^    BTREE_SYM = 300,$/;"	e	enum:yytokentype
+BY	sql_yacc.cpp	/^    BY = 301,$/;"	e	enum:yytokentype	file:
+BY	sql_yacc.hpp	/^    BY = 301,$/;"	e	enum:yytokentype
+BYTE_SYM	sql_yacc.cpp	/^    BYTE_SYM = 302,$/;"	e	enum:yytokentype	file:
+BYTE_SYM	sql_yacc.hpp	/^    BYTE_SYM = 302,$/;"	e	enum:yytokentype
+CACHE_SYM	sql_yacc.cpp	/^    CACHE_SYM = 303,$/;"	e	enum:yytokentype	file:
+CACHE_SYM	sql_yacc.hpp	/^    CACHE_SYM = 303,$/;"	e	enum:yytokentype
+CALL_SYM	sql_yacc.cpp	/^    CALL_SYM = 304,$/;"	e	enum:yytokentype	file:
+CALL_SYM	sql_yacc.hpp	/^    CALL_SYM = 304,$/;"	e	enum:yytokentype
+CASCADE	sql_yacc.cpp	/^    CASCADE = 305,$/;"	e	enum:yytokentype	file:
+CASCADE	sql_yacc.hpp	/^    CASCADE = 305,$/;"	e	enum:yytokentype
+CASCADED	sql_yacc.cpp	/^    CASCADED = 306,$/;"	e	enum:yytokentype	file:
+CASCADED	sql_yacc.hpp	/^    CASCADED = 306,$/;"	e	enum:yytokentype
+CASE_SYM	sql_yacc.cpp	/^    CASE_SYM = 307,$/;"	e	enum:yytokentype	file:
+CASE_SYM	sql_yacc.hpp	/^    CASE_SYM = 307,$/;"	e	enum:yytokentype
+CAST_SYM	sql_yacc.cpp	/^    CAST_SYM = 308,$/;"	e	enum:yytokentype	file:
+CAST_SYM	sql_yacc.hpp	/^    CAST_SYM = 308,$/;"	e	enum:yytokentype
+CATALOG_NAME_SYM	sql_yacc.cpp	/^    CATALOG_NAME_SYM = 309,$/;"	e	enum:yytokentype	file:
+CATALOG_NAME_SYM	sql_yacc.hpp	/^    CATALOG_NAME_SYM = 309,$/;"	e	enum:yytokentype
+CC	Makefile	/^CC=g++$/;"	m
+CC_FLAG	Makefile	/^CC_FLAG=-Wall -g -O2$/;"	m
+CHAIN_SYM	sql_yacc.cpp	/^    CHAIN_SYM = 310,$/;"	e	enum:yytokentype	file:
+CHAIN_SYM	sql_yacc.hpp	/^    CHAIN_SYM = 310,$/;"	e	enum:yytokentype
+CHANGE	sql_yacc.cpp	/^    CHANGE = 311,$/;"	e	enum:yytokentype	file:
+CHANGE	sql_yacc.hpp	/^    CHANGE = 311,$/;"	e	enum:yytokentype
+CHANGED	sql_yacc.cpp	/^    CHANGED = 312,$/;"	e	enum:yytokentype	file:
+CHANGED	sql_yacc.hpp	/^    CHANGED = 312,$/;"	e	enum:yytokentype
+CHARSET	sql_yacc.cpp	/^    CHARSET = 313,$/;"	e	enum:yytokentype	file:
+CHARSET	sql_yacc.hpp	/^    CHARSET = 313,$/;"	e	enum:yytokentype
+CHAR_SYM	sql_yacc.cpp	/^    CHAR_SYM = 314,$/;"	e	enum:yytokentype	file:
+CHAR_SYM	sql_yacc.hpp	/^    CHAR_SYM = 314,$/;"	e	enum:yytokentype
+CHECKSUM_SYM	sql_yacc.cpp	/^    CHECKSUM_SYM = 315,$/;"	e	enum:yytokentype	file:
+CHECKSUM_SYM	sql_yacc.hpp	/^    CHECKSUM_SYM = 315,$/;"	e	enum:yytokentype
+CHECK_SYM	sql_yacc.cpp	/^    CHECK_SYM = 316,$/;"	e	enum:yytokentype	file:
+CHECK_SYM	sql_yacc.hpp	/^    CHECK_SYM = 316,$/;"	e	enum:yytokentype
+CIPHER_SYM	sql_yacc.cpp	/^    CIPHER_SYM = 317,$/;"	e	enum:yytokentype	file:
+CIPHER_SYM	sql_yacc.hpp	/^    CIPHER_SYM = 317,$/;"	e	enum:yytokentype
+CLASS_ORIGIN_SYM	sql_yacc.cpp	/^    CLASS_ORIGIN_SYM = 318,$/;"	e	enum:yytokentype	file:
+CLASS_ORIGIN_SYM	sql_yacc.hpp	/^    CLASS_ORIGIN_SYM = 318,$/;"	e	enum:yytokentype
+CLIENT_SYM	sql_yacc.cpp	/^    CLIENT_SYM = 319,$/;"	e	enum:yytokentype	file:
+CLIENT_SYM	sql_yacc.hpp	/^    CLIENT_SYM = 319,$/;"	e	enum:yytokentype
+CLOSE_SYM	sql_yacc.cpp	/^    CLOSE_SYM = 320,$/;"	e	enum:yytokentype	file:
+CLOSE_SYM	sql_yacc.hpp	/^    CLOSE_SYM = 320,$/;"	e	enum:yytokentype
+COALESCE	sql_yacc.cpp	/^    COALESCE = 321,$/;"	e	enum:yytokentype	file:
+COALESCE	sql_yacc.hpp	/^    COALESCE = 321,$/;"	e	enum:yytokentype
+CODE_SYM	sql_yacc.cpp	/^    CODE_SYM = 322,$/;"	e	enum:yytokentype	file:
+CODE_SYM	sql_yacc.hpp	/^    CODE_SYM = 322,$/;"	e	enum:yytokentype
+COLLATE_SYM	sql_yacc.cpp	/^    COLLATE_SYM = 323,$/;"	e	enum:yytokentype	file:
+COLLATE_SYM	sql_yacc.hpp	/^    COLLATE_SYM = 323,$/;"	e	enum:yytokentype
+COLLATION_SYM	sql_yacc.cpp	/^    COLLATION_SYM = 324,$/;"	e	enum:yytokentype	file:
+COLLATION_SYM	sql_yacc.hpp	/^    COLLATION_SYM = 324,$/;"	e	enum:yytokentype
+COLUMNS	sql_yacc.cpp	/^    COLUMNS = 325,$/;"	e	enum:yytokentype	file:
+COLUMNS	sql_yacc.hpp	/^    COLUMNS = 325,$/;"	e	enum:yytokentype
+COLUMN_FORMAT_SYM	sql_yacc.cpp	/^    COLUMN_FORMAT_SYM = 327,$/;"	e	enum:yytokentype	file:
+COLUMN_FORMAT_SYM	sql_yacc.hpp	/^    COLUMN_FORMAT_SYM = 327,$/;"	e	enum:yytokentype
+COLUMN_NAME_SYM	sql_yacc.cpp	/^    COLUMN_NAME_SYM = 328,$/;"	e	enum:yytokentype	file:
+COLUMN_NAME_SYM	sql_yacc.hpp	/^    COLUMN_NAME_SYM = 328,$/;"	e	enum:yytokentype
+COLUMN_SYM	sql_yacc.cpp	/^    COLUMN_SYM = 326,$/;"	e	enum:yytokentype	file:
+COLUMN_SYM	sql_yacc.hpp	/^    COLUMN_SYM = 326,$/;"	e	enum:yytokentype
+COMMENT_SYM	sql_yacc.cpp	/^    COMMENT_SYM = 329,$/;"	e	enum:yytokentype	file:
+COMMENT_SYM	sql_yacc.hpp	/^    COMMENT_SYM = 329,$/;"	e	enum:yytokentype
+COMMITTED_SYM	sql_yacc.cpp	/^    COMMITTED_SYM = 330,$/;"	e	enum:yytokentype	file:
+COMMITTED_SYM	sql_yacc.hpp	/^    COMMITTED_SYM = 330,$/;"	e	enum:yytokentype
+COMMIT_SYM	sql_yacc.cpp	/^    COMMIT_SYM = 331,$/;"	e	enum:yytokentype	file:
+COMMIT_SYM	sql_yacc.hpp	/^    COMMIT_SYM = 331,$/;"	e	enum:yytokentype
+COMPACT_SYM	sql_yacc.cpp	/^    COMPACT_SYM = 332,$/;"	e	enum:yytokentype	file:
+COMPACT_SYM	sql_yacc.hpp	/^    COMPACT_SYM = 332,$/;"	e	enum:yytokentype
+COMPLETION_SYM	sql_yacc.cpp	/^    COMPLETION_SYM = 333,$/;"	e	enum:yytokentype	file:
+COMPLETION_SYM	sql_yacc.hpp	/^    COMPLETION_SYM = 333,$/;"	e	enum:yytokentype
+COMPRESSED_SYM	sql_yacc.cpp	/^    COMPRESSED_SYM = 334,$/;"	e	enum:yytokentype	file:
+COMPRESSED_SYM	sql_yacc.hpp	/^    COMPRESSED_SYM = 334,$/;"	e	enum:yytokentype
+CONCURRENT	sql_yacc.cpp	/^    CONCURRENT = 335,$/;"	e	enum:yytokentype	file:
+CONCURRENT	sql_yacc.hpp	/^    CONCURRENT = 335,$/;"	e	enum:yytokentype
+CONDITION_SYM	sql_yacc.cpp	/^    CONDITION_SYM = 336,$/;"	e	enum:yytokentype	file:
+CONDITION_SYM	sql_yacc.hpp	/^    CONDITION_SYM = 336,$/;"	e	enum:yytokentype
+CONNECTION_SYM	sql_yacc.cpp	/^    CONNECTION_SYM = 337,$/;"	e	enum:yytokentype	file:
+CONNECTION_SYM	sql_yacc.hpp	/^    CONNECTION_SYM = 337,$/;"	e	enum:yytokentype
+CONSISTENT_SYM	sql_yacc.cpp	/^    CONSISTENT_SYM = 338,$/;"	e	enum:yytokentype	file:
+CONSISTENT_SYM	sql_yacc.hpp	/^    CONSISTENT_SYM = 338,$/;"	e	enum:yytokentype
+CONSTRAINT	sql_yacc.cpp	/^    CONSTRAINT = 339,$/;"	e	enum:yytokentype	file:
+CONSTRAINT	sql_yacc.hpp	/^    CONSTRAINT = 339,$/;"	e	enum:yytokentype
+CONSTRAINT_CATALOG_SYM	sql_yacc.cpp	/^    CONSTRAINT_CATALOG_SYM = 340,$/;"	e	enum:yytokentype	file:
+CONSTRAINT_CATALOG_SYM	sql_yacc.hpp	/^    CONSTRAINT_CATALOG_SYM = 340,$/;"	e	enum:yytokentype
+CONSTRAINT_NAME_SYM	sql_yacc.cpp	/^    CONSTRAINT_NAME_SYM = 341,$/;"	e	enum:yytokentype	file:
+CONSTRAINT_NAME_SYM	sql_yacc.hpp	/^    CONSTRAINT_NAME_SYM = 341,$/;"	e	enum:yytokentype
+CONSTRAINT_SCHEMA_SYM	sql_yacc.cpp	/^    CONSTRAINT_SCHEMA_SYM = 342,$/;"	e	enum:yytokentype	file:
+CONSTRAINT_SCHEMA_SYM	sql_yacc.hpp	/^    CONSTRAINT_SCHEMA_SYM = 342,$/;"	e	enum:yytokentype
+CONTAINS_SYM	sql_yacc.cpp	/^    CONTAINS_SYM = 343,$/;"	e	enum:yytokentype	file:
+CONTAINS_SYM	sql_yacc.hpp	/^    CONTAINS_SYM = 343,$/;"	e	enum:yytokentype
+CONTEXT_SYM	sql_yacc.cpp	/^    CONTEXT_SYM = 344,$/;"	e	enum:yytokentype	file:
+CONTEXT_SYM	sql_yacc.hpp	/^    CONTEXT_SYM = 344,$/;"	e	enum:yytokentype
+CONTINUE_SYM	sql_yacc.cpp	/^    CONTINUE_SYM = 345,$/;"	e	enum:yytokentype	file:
+CONTINUE_SYM	sql_yacc.hpp	/^    CONTINUE_SYM = 345,$/;"	e	enum:yytokentype
+CONVERT_SYM	sql_yacc.cpp	/^    CONVERT_SYM = 346,$/;"	e	enum:yytokentype	file:
+CONVERT_SYM	sql_yacc.hpp	/^    CONVERT_SYM = 346,$/;"	e	enum:yytokentype
+COUNT_SYM	sql_yacc.cpp	/^    COUNT_SYM = 347,$/;"	e	enum:yytokentype	file:
+COUNT_SYM	sql_yacc.hpp	/^    COUNT_SYM = 347,$/;"	e	enum:yytokentype
+CPU_SYM	sql_yacc.cpp	/^    CPU_SYM = 348,$/;"	e	enum:yytokentype	file:
+CPU_SYM	sql_yacc.hpp	/^    CPU_SYM = 348,$/;"	e	enum:yytokentype
+CREATE	sql_yacc.cpp	/^    CREATE = 349,$/;"	e	enum:yytokentype	file:
+CREATE	sql_yacc.hpp	/^    CREATE = 349,$/;"	e	enum:yytokentype
+CROSS	sql_yacc.cpp	/^    CROSS = 350,$/;"	e	enum:yytokentype	file:
+CROSS	sql_yacc.hpp	/^    CROSS = 350,$/;"	e	enum:yytokentype
+CUBE_SYM	sql_yacc.cpp	/^    CUBE_SYM = 351,$/;"	e	enum:yytokentype	file:
+CUBE_SYM	sql_yacc.hpp	/^    CUBE_SYM = 351,$/;"	e	enum:yytokentype
+CURDATE	sql_yacc.cpp	/^    CURDATE = 352,$/;"	e	enum:yytokentype	file:
+CURDATE	sql_yacc.hpp	/^    CURDATE = 352,$/;"	e	enum:yytokentype
+CURRENT_SYM	sql_yacc.cpp	/^    CURRENT_SYM = 353,$/;"	e	enum:yytokentype	file:
+CURRENT_SYM	sql_yacc.hpp	/^    CURRENT_SYM = 353,$/;"	e	enum:yytokentype
+CURRENT_USER	sql_yacc.cpp	/^    CURRENT_USER = 354,$/;"	e	enum:yytokentype	file:
+CURRENT_USER	sql_yacc.hpp	/^    CURRENT_USER = 354,$/;"	e	enum:yytokentype
+CURSOR_NAME_SYM	sql_yacc.cpp	/^    CURSOR_NAME_SYM = 356,$/;"	e	enum:yytokentype	file:
+CURSOR_NAME_SYM	sql_yacc.hpp	/^    CURSOR_NAME_SYM = 356,$/;"	e	enum:yytokentype
+CURSOR_SYM	sql_yacc.cpp	/^    CURSOR_SYM = 355,$/;"	e	enum:yytokentype	file:
+CURSOR_SYM	sql_yacc.hpp	/^    CURSOR_SYM = 355,$/;"	e	enum:yytokentype
+CURTIME	sql_yacc.cpp	/^    CURTIME = 357,$/;"	e	enum:yytokentype	file:
+CURTIME	sql_yacc.hpp	/^    CURTIME = 357,$/;"	e	enum:yytokentype
+DATABASE	sql_yacc.cpp	/^    DATABASE = 358,$/;"	e	enum:yytokentype	file:
+DATABASE	sql_yacc.hpp	/^    DATABASE = 358,$/;"	e	enum:yytokentype
+DATABASES	sql_yacc.cpp	/^    DATABASES = 359,$/;"	e	enum:yytokentype	file:
+DATABASES	sql_yacc.hpp	/^    DATABASES = 359,$/;"	e	enum:yytokentype
+DATAFILE_SYM	sql_yacc.cpp	/^    DATAFILE_SYM = 360,$/;"	e	enum:yytokentype	file:
+DATAFILE_SYM	sql_yacc.hpp	/^    DATAFILE_SYM = 360,$/;"	e	enum:yytokentype
+DATA_SYM	sql_yacc.cpp	/^    DATA_SYM = 361,$/;"	e	enum:yytokentype	file:
+DATA_SYM	sql_yacc.hpp	/^    DATA_SYM = 361,$/;"	e	enum:yytokentype
+DATETIME	sql_yacc.cpp	/^    DATETIME = 362,$/;"	e	enum:yytokentype	file:
+DATETIME	sql_yacc.hpp	/^    DATETIME = 362,$/;"	e	enum:yytokentype
+DATE_ADD_INTERVAL	sql_yacc.cpp	/^    DATE_ADD_INTERVAL = 363,$/;"	e	enum:yytokentype	file:
+DATE_ADD_INTERVAL	sql_yacc.hpp	/^    DATE_ADD_INTERVAL = 363,$/;"	e	enum:yytokentype
+DATE_SUB_INTERVAL	sql_yacc.cpp	/^    DATE_SUB_INTERVAL = 364,$/;"	e	enum:yytokentype	file:
+DATE_SUB_INTERVAL	sql_yacc.hpp	/^    DATE_SUB_INTERVAL = 364,$/;"	e	enum:yytokentype
+DATE_SYM	sql_yacc.cpp	/^    DATE_SYM = 365,$/;"	e	enum:yytokentype	file:
+DATE_SYM	sql_yacc.hpp	/^    DATE_SYM = 365,$/;"	e	enum:yytokentype
+DAY_HOUR_SYM	sql_yacc.cpp	/^    DAY_HOUR_SYM = 366,$/;"	e	enum:yytokentype	file:
+DAY_HOUR_SYM	sql_yacc.hpp	/^    DAY_HOUR_SYM = 366,$/;"	e	enum:yytokentype
+DAY_MICROSECOND_SYM	sql_yacc.cpp	/^    DAY_MICROSECOND_SYM = 367,$/;"	e	enum:yytokentype	file:
+DAY_MICROSECOND_SYM	sql_yacc.hpp	/^    DAY_MICROSECOND_SYM = 367,$/;"	e	enum:yytokentype
+DAY_MINUTE_SYM	sql_yacc.cpp	/^    DAY_MINUTE_SYM = 368,$/;"	e	enum:yytokentype	file:
+DAY_MINUTE_SYM	sql_yacc.hpp	/^    DAY_MINUTE_SYM = 368,$/;"	e	enum:yytokentype
+DAY_SECOND_SYM	sql_yacc.cpp	/^    DAY_SECOND_SYM = 369,$/;"	e	enum:yytokentype	file:
+DAY_SECOND_SYM	sql_yacc.hpp	/^    DAY_SECOND_SYM = 369,$/;"	e	enum:yytokentype
+DAY_SYM	sql_yacc.cpp	/^    DAY_SYM = 370,$/;"	e	enum:yytokentype	file:
+DAY_SYM	sql_yacc.hpp	/^    DAY_SYM = 370,$/;"	e	enum:yytokentype
+DB_table	sql_desc.h	/^  DB_table():db(NULL), table(NULL){}$/;"	f	class:DB_table
+DB_table	sql_desc.h	/^  DB_table(std::string *db, std::string *table){$/;"	f	class:DB_table
+DB_table	sql_desc.h	/^class DB_table{$/;"	c
+DEALLOCATE_SYM	sql_yacc.cpp	/^    DEALLOCATE_SYM = 371,$/;"	e	enum:yytokentype	file:
+DEALLOCATE_SYM	sql_yacc.hpp	/^    DEALLOCATE_SYM = 371,$/;"	e	enum:yytokentype
+DECIMAL_NUM	sql_yacc.cpp	/^    DECIMAL_NUM = 372,$/;"	e	enum:yytokentype	file:
+DECIMAL_NUM	sql_yacc.hpp	/^    DECIMAL_NUM = 372,$/;"	e	enum:yytokentype
+DECIMAL_SYM	sql_yacc.cpp	/^    DECIMAL_SYM = 373,$/;"	e	enum:yytokentype	file:
+DECIMAL_SYM	sql_yacc.hpp	/^    DECIMAL_SYM = 373,$/;"	e	enum:yytokentype
+DECLARE_SYM	sql_yacc.cpp	/^    DECLARE_SYM = 374,$/;"	e	enum:yytokentype	file:
+DECLARE_SYM	sql_yacc.hpp	/^    DECLARE_SYM = 374,$/;"	e	enum:yytokentype
+DEFAULT	sql_yacc.cpp	/^    DEFAULT = 375,$/;"	e	enum:yytokentype	file:
+DEFAULT	sql_yacc.hpp	/^    DEFAULT = 375,$/;"	e	enum:yytokentype
+DEFAULT_AUTH_SYM	sql_yacc.cpp	/^    DEFAULT_AUTH_SYM = 376,$/;"	e	enum:yytokentype	file:
+DEFAULT_AUTH_SYM	sql_yacc.hpp	/^    DEFAULT_AUTH_SYM = 376,$/;"	e	enum:yytokentype
+DEFINER_SYM	sql_yacc.cpp	/^    DEFINER_SYM = 377,$/;"	e	enum:yytokentype	file:
+DEFINER_SYM	sql_yacc.hpp	/^    DEFINER_SYM = 377,$/;"	e	enum:yytokentype
+DELAYED_SYM	sql_yacc.cpp	/^    DELAYED_SYM = 378,$/;"	e	enum:yytokentype	file:
+DELAYED_SYM	sql_yacc.hpp	/^    DELAYED_SYM = 378,$/;"	e	enum:yytokentype
+DELAY_KEY_WRITE_SYM	sql_yacc.cpp	/^    DELAY_KEY_WRITE_SYM = 379,$/;"	e	enum:yytokentype	file:
+DELAY_KEY_WRITE_SYM	sql_yacc.hpp	/^    DELAY_KEY_WRITE_SYM = 379,$/;"	e	enum:yytokentype
+DELETE_SYM	sql_yacc.cpp	/^    DELETE_SYM = 380,$/;"	e	enum:yytokentype	file:
+DELETE_SYM	sql_yacc.hpp	/^    DELETE_SYM = 380,$/;"	e	enum:yytokentype
+DESC	sql_yacc.cpp	/^    DESC = 381,$/;"	e	enum:yytokentype	file:
+DESC	sql_yacc.hpp	/^    DESC = 381,$/;"	e	enum:yytokentype
+DESCRIBE	sql_yacc.cpp	/^    DESCRIBE = 382,$/;"	e	enum:yytokentype	file:
+DESCRIBE	sql_yacc.hpp	/^    DESCRIBE = 382,$/;"	e	enum:yytokentype
+DES_KEY_FILE	sql_yacc.cpp	/^    DES_KEY_FILE = 383,$/;"	e	enum:yytokentype	file:
+DES_KEY_FILE	sql_yacc.hpp	/^    DES_KEY_FILE = 383,$/;"	e	enum:yytokentype
+DETERMINISTIC_SYM	sql_yacc.cpp	/^    DETERMINISTIC_SYM = 384,$/;"	e	enum:yytokentype	file:
+DETERMINISTIC_SYM	sql_yacc.hpp	/^    DETERMINISTIC_SYM = 384,$/;"	e	enum:yytokentype
+DIAGNOSTICS_SYM	sql_yacc.cpp	/^    DIAGNOSTICS_SYM = 385,$/;"	e	enum:yytokentype	file:
+DIAGNOSTICS_SYM	sql_yacc.hpp	/^    DIAGNOSTICS_SYM = 385,$/;"	e	enum:yytokentype
+DIRECTORY_SYM	sql_yacc.cpp	/^    DIRECTORY_SYM = 386,$/;"	e	enum:yytokentype	file:
+DIRECTORY_SYM	sql_yacc.hpp	/^    DIRECTORY_SYM = 386,$/;"	e	enum:yytokentype
+DISABLE_SYM	sql_yacc.cpp	/^    DISABLE_SYM = 387,$/;"	e	enum:yytokentype	file:
+DISABLE_SYM	sql_yacc.hpp	/^    DISABLE_SYM = 387,$/;"	e	enum:yytokentype
+DISCARD	sql_yacc.cpp	/^    DISCARD = 388,$/;"	e	enum:yytokentype	file:
+DISCARD	sql_yacc.hpp	/^    DISCARD = 388,$/;"	e	enum:yytokentype
+DISK_SYM	sql_yacc.cpp	/^    DISK_SYM = 389,$/;"	e	enum:yytokentype	file:
+DISK_SYM	sql_yacc.hpp	/^    DISK_SYM = 389,$/;"	e	enum:yytokentype
+DISTINCT	sql_yacc.cpp	/^    DISTINCT = 390,$/;"	e	enum:yytokentype	file:
+DISTINCT	sql_yacc.hpp	/^    DISTINCT = 390,$/;"	e	enum:yytokentype
+DIV_SYM	sql_yacc.cpp	/^    DIV_SYM = 391,$/;"	e	enum:yytokentype	file:
+DIV_SYM	sql_yacc.hpp	/^    DIV_SYM = 391,$/;"	e	enum:yytokentype
+DOUBLE_SYM	sql_yacc.cpp	/^    DOUBLE_SYM = 392,$/;"	e	enum:yytokentype	file:
+DOUBLE_SYM	sql_yacc.hpp	/^    DOUBLE_SYM = 392,$/;"	e	enum:yytokentype
+DO_SYM	sql_yacc.cpp	/^    DO_SYM = 393,$/;"	e	enum:yytokentype	file:
+DO_SYM	sql_yacc.hpp	/^    DO_SYM = 393,$/;"	e	enum:yytokentype
+DROP	sql_yacc.cpp	/^    DROP = 394,$/;"	e	enum:yytokentype	file:
+DROP	sql_yacc.hpp	/^    DROP = 394,$/;"	e	enum:yytokentype
+DUAL_SYM	sql_yacc.cpp	/^    DUAL_SYM = 395,$/;"	e	enum:yytokentype	file:
+DUAL_SYM	sql_yacc.hpp	/^    DUAL_SYM = 395,$/;"	e	enum:yytokentype
+DUMPFILE	sql_yacc.cpp	/^    DUMPFILE = 396,$/;"	e	enum:yytokentype	file:
+DUMPFILE	sql_yacc.hpp	/^    DUMPFILE = 396,$/;"	e	enum:yytokentype
+DUPLICATE_SYM	sql_yacc.cpp	/^    DUPLICATE_SYM = 397,$/;"	e	enum:yytokentype	file:
+DUPLICATE_SYM	sql_yacc.hpp	/^    DUPLICATE_SYM = 397,$/;"	e	enum:yytokentype
+DYNAMIC_SYM	sql_yacc.cpp	/^    DYNAMIC_SYM = 398,$/;"	e	enum:yytokentype	file:
+DYNAMIC_SYM	sql_yacc.hpp	/^    DYNAMIC_SYM = 398,$/;"	e	enum:yytokentype
+EACH_SYM	sql_yacc.cpp	/^    EACH_SYM = 399,$/;"	e	enum:yytokentype	file:
+EACH_SYM	sql_yacc.hpp	/^    EACH_SYM = 399,$/;"	e	enum:yytokentype
+ELSE	sql_yacc.cpp	/^    ELSE = 400,$/;"	e	enum:yytokentype	file:
+ELSE	sql_yacc.hpp	/^    ELSE = 400,$/;"	e	enum:yytokentype
+ELSEIF_SYM	sql_yacc.cpp	/^    ELSEIF_SYM = 401,$/;"	e	enum:yytokentype	file:
+ELSEIF_SYM	sql_yacc.hpp	/^    ELSEIF_SYM = 401,$/;"	e	enum:yytokentype
+ENABLE_SYM	sql_yacc.cpp	/^    ENABLE_SYM = 402,$/;"	e	enum:yytokentype	file:
+ENABLE_SYM	sql_yacc.hpp	/^    ENABLE_SYM = 402,$/;"	e	enum:yytokentype
+ENCLOSED	sql_yacc.cpp	/^    ENCLOSED = 403,$/;"	e	enum:yytokentype	file:
+ENCLOSED	sql_yacc.hpp	/^    ENCLOSED = 403,$/;"	e	enum:yytokentype
+END	sql_yacc.cpp	/^    END = 404,$/;"	e	enum:yytokentype	file:
+END	sql_yacc.hpp	/^    END = 404,$/;"	e	enum:yytokentype
+ENDS_SYM	sql_yacc.cpp	/^    ENDS_SYM = 405,$/;"	e	enum:yytokentype	file:
+ENDS_SYM	sql_yacc.hpp	/^    ENDS_SYM = 405,$/;"	e	enum:yytokentype
+END_OF_INPUT	sql_yacc.cpp	/^    END_OF_INPUT = 406,$/;"	e	enum:yytokentype	file:
+END_OF_INPUT	sql_yacc.hpp	/^    END_OF_INPUT = 406,$/;"	e	enum:yytokentype
+ENGINES_SYM	sql_yacc.cpp	/^    ENGINES_SYM = 407,$/;"	e	enum:yytokentype	file:
+ENGINES_SYM	sql_yacc.hpp	/^    ENGINES_SYM = 407,$/;"	e	enum:yytokentype
+ENGINE_SYM	sql_yacc.cpp	/^    ENGINE_SYM = 408,$/;"	e	enum:yytokentype	file:
+ENGINE_SYM	sql_yacc.hpp	/^    ENGINE_SYM = 408,$/;"	e	enum:yytokentype
+ENUM	sql_yacc.cpp	/^    ENUM = 409,$/;"	e	enum:yytokentype	file:
+ENUM	sql_yacc.hpp	/^    ENUM = 409,$/;"	e	enum:yytokentype
+EQ	sql_yacc.cpp	/^    EQ = 410,$/;"	e	enum:yytokentype	file:
+EQ	sql_yacc.hpp	/^    EQ = 410,$/;"	e	enum:yytokentype
+EQUAL_SYM	sql_yacc.cpp	/^    EQUAL_SYM = 411,$/;"	e	enum:yytokentype	file:
+EQUAL_SYM	sql_yacc.hpp	/^    EQUAL_SYM = 411,$/;"	e	enum:yytokentype
+ERRORS	sql_yacc.cpp	/^    ERRORS = 413,$/;"	e	enum:yytokentype	file:
+ERRORS	sql_yacc.hpp	/^    ERRORS = 413,$/;"	e	enum:yytokentype
+ERROR_SYM	sql_yacc.cpp	/^    ERROR_SYM = 412,$/;"	e	enum:yytokentype	file:
+ERROR_SYM	sql_yacc.hpp	/^    ERROR_SYM = 412,$/;"	e	enum:yytokentype
+ESCAPED	sql_yacc.cpp	/^    ESCAPED = 414,$/;"	e	enum:yytokentype	file:
+ESCAPED	sql_yacc.hpp	/^    ESCAPED = 414,$/;"	e	enum:yytokentype
+ESCAPE_SYM	sql_yacc.cpp	/^    ESCAPE_SYM = 415,$/;"	e	enum:yytokentype	file:
+ESCAPE_SYM	sql_yacc.hpp	/^    ESCAPE_SYM = 415,$/;"	e	enum:yytokentype
+EVENTS_SYM	sql_yacc.cpp	/^    EVENTS_SYM = 416,$/;"	e	enum:yytokentype	file:
+EVENTS_SYM	sql_yacc.hpp	/^    EVENTS_SYM = 416,$/;"	e	enum:yytokentype
+EVENT_SYM	sql_yacc.cpp	/^    EVENT_SYM = 417,$/;"	e	enum:yytokentype	file:
+EVENT_SYM	sql_yacc.hpp	/^    EVENT_SYM = 417,$/;"	e	enum:yytokentype
+EVERY_SYM	sql_yacc.cpp	/^    EVERY_SYM = 418,$/;"	e	enum:yytokentype	file:
+EVERY_SYM	sql_yacc.hpp	/^    EVERY_SYM = 418,$/;"	e	enum:yytokentype
+EXCHANGE_SYM	sql_yacc.cpp	/^    EXCHANGE_SYM = 419,$/;"	e	enum:yytokentype	file:
+EXCHANGE_SYM	sql_yacc.hpp	/^    EXCHANGE_SYM = 419,$/;"	e	enum:yytokentype
+EXECUTE_SYM	sql_yacc.cpp	/^    EXECUTE_SYM = 420,$/;"	e	enum:yytokentype	file:
+EXECUTE_SYM	sql_yacc.hpp	/^    EXECUTE_SYM = 420,$/;"	e	enum:yytokentype
+EXISTS	sql_yacc.cpp	/^    EXISTS = 421,$/;"	e	enum:yytokentype	file:
+EXISTS	sql_yacc.hpp	/^    EXISTS = 421,$/;"	e	enum:yytokentype
+EXIT_SUCCESS	sql_yacc.cpp	914;"	d	file:
+EXIT_SUCCESS	sql_yacc.cpp	942;"	d	file:
+EXIT_SYM	sql_yacc.cpp	/^    EXIT_SYM = 422,$/;"	e	enum:yytokentype	file:
+EXIT_SYM	sql_yacc.hpp	/^    EXIT_SYM = 422,$/;"	e	enum:yytokentype
+EXPANSION_SYM	sql_yacc.cpp	/^    EXPANSION_SYM = 423,$/;"	e	enum:yytokentype	file:
+EXPANSION_SYM	sql_yacc.hpp	/^    EXPANSION_SYM = 423,$/;"	e	enum:yytokentype
+EXPIRE_SYM	sql_yacc.cpp	/^    EXPIRE_SYM = 424,$/;"	e	enum:yytokentype	file:
+EXPIRE_SYM	sql_yacc.hpp	/^    EXPIRE_SYM = 424,$/;"	e	enum:yytokentype
+EXPORT_SYM	sql_yacc.cpp	/^    EXPORT_SYM = 425,$/;"	e	enum:yytokentype	file:
+EXPORT_SYM	sql_yacc.hpp	/^    EXPORT_SYM = 425,$/;"	e	enum:yytokentype
+EXTENDED_SYM	sql_yacc.cpp	/^    EXTENDED_SYM = 426,$/;"	e	enum:yytokentype	file:
+EXTENDED_SYM	sql_yacc.hpp	/^    EXTENDED_SYM = 426,$/;"	e	enum:yytokentype
+EXTENT_SIZE_SYM	sql_yacc.cpp	/^    EXTENT_SIZE_SYM = 427,$/;"	e	enum:yytokentype	file:
+EXTENT_SIZE_SYM	sql_yacc.hpp	/^    EXTENT_SIZE_SYM = 427,$/;"	e	enum:yytokentype
+EXTRACT_SYM	sql_yacc.cpp	/^    EXTRACT_SYM = 428,$/;"	e	enum:yytokentype	file:
+EXTRACT_SYM	sql_yacc.hpp	/^    EXTRACT_SYM = 428,$/;"	e	enum:yytokentype
+FALSE_SYM	sql_yacc.cpp	/^    FALSE_SYM = 429,$/;"	e	enum:yytokentype	file:
+FALSE_SYM	sql_yacc.hpp	/^    FALSE_SYM = 429,$/;"	e	enum:yytokentype
+FAST_SYM	sql_yacc.cpp	/^    FAST_SYM = 430,$/;"	e	enum:yytokentype	file:
+FAST_SYM	sql_yacc.hpp	/^    FAST_SYM = 430,$/;"	e	enum:yytokentype
+FAULTS_SYM	sql_yacc.cpp	/^    FAULTS_SYM = 431,$/;"	e	enum:yytokentype	file:
+FAULTS_SYM	sql_yacc.hpp	/^    FAULTS_SYM = 431,$/;"	e	enum:yytokentype
+FETCH_SYM	sql_yacc.cpp	/^    FETCH_SYM = 432,$/;"	e	enum:yytokentype	file:
+FETCH_SYM	sql_yacc.hpp	/^    FETCH_SYM = 432,$/;"	e	enum:yytokentype
+FILE_SYM	sql_yacc.cpp	/^    FILE_SYM = 433,$/;"	e	enum:yytokentype	file:
+FILE_SYM	sql_yacc.hpp	/^    FILE_SYM = 433,$/;"	e	enum:yytokentype
+FILTER_SYM	sql_yacc.cpp	/^    FILTER_SYM = 434,$/;"	e	enum:yytokentype	file:
+FILTER_SYM	sql_yacc.hpp	/^    FILTER_SYM = 434,$/;"	e	enum:yytokentype
+FIRST_SYM	sql_yacc.cpp	/^    FIRST_SYM = 435,$/;"	e	enum:yytokentype	file:
+FIRST_SYM	sql_yacc.hpp	/^    FIRST_SYM = 435,$/;"	e	enum:yytokentype
+FIXED_SYM	sql_yacc.cpp	/^    FIXED_SYM = 436,$/;"	e	enum:yytokentype	file:
+FIXED_SYM	sql_yacc.hpp	/^    FIXED_SYM = 436,$/;"	e	enum:yytokentype
+FLOAT_NUM	sql_yacc.cpp	/^    FLOAT_NUM = 437,$/;"	e	enum:yytokentype	file:
+FLOAT_NUM	sql_yacc.hpp	/^    FLOAT_NUM = 437,$/;"	e	enum:yytokentype
+FLOAT_SYM	sql_yacc.cpp	/^    FLOAT_SYM = 438,$/;"	e	enum:yytokentype	file:
+FLOAT_SYM	sql_yacc.hpp	/^    FLOAT_SYM = 438,$/;"	e	enum:yytokentype
+FLUSH_SYM	sql_yacc.cpp	/^    FLUSH_SYM = 439,$/;"	e	enum:yytokentype	file:
+FLUSH_SYM	sql_yacc.hpp	/^    FLUSH_SYM = 439,$/;"	e	enum:yytokentype
+FOLLOWS_SYM	sql_yacc.cpp	/^    FOLLOWS_SYM = 440,$/;"	e	enum:yytokentype	file:
+FOLLOWS_SYM	sql_yacc.hpp	/^    FOLLOWS_SYM = 440,$/;"	e	enum:yytokentype
+FORCE_SYM	sql_yacc.cpp	/^    FORCE_SYM = 441,$/;"	e	enum:yytokentype	file:
+FORCE_SYM	sql_yacc.hpp	/^    FORCE_SYM = 441,$/;"	e	enum:yytokentype
+FOREIGN	sql_yacc.cpp	/^    FOREIGN = 442,$/;"	e	enum:yytokentype	file:
+FOREIGN	sql_yacc.hpp	/^    FOREIGN = 442,$/;"	e	enum:yytokentype
+FORMAT_SYM	sql_yacc.cpp	/^    FORMAT_SYM = 444,$/;"	e	enum:yytokentype	file:
+FORMAT_SYM	sql_yacc.hpp	/^    FORMAT_SYM = 444,$/;"	e	enum:yytokentype
+FOR_SYM	sql_yacc.cpp	/^    FOR_SYM = 443,$/;"	e	enum:yytokentype	file:
+FOR_SYM	sql_yacc.hpp	/^    FOR_SYM = 443,$/;"	e	enum:yytokentype
+FOUND_SYM	sql_yacc.cpp	/^    FOUND_SYM = 445,$/;"	e	enum:yytokentype	file:
+FOUND_SYM	sql_yacc.hpp	/^    FOUND_SYM = 445,$/;"	e	enum:yytokentype
+FROM	sql_yacc.cpp	/^    FROM = 446,$/;"	e	enum:yytokentype	file:
+FROM	sql_yacc.hpp	/^    FROM = 446,$/;"	e	enum:yytokentype
+FULL	sql_yacc.cpp	/^    FULL = 447,$/;"	e	enum:yytokentype	file:
+FULL	sql_yacc.hpp	/^    FULL = 447,$/;"	e	enum:yytokentype
+FULLTEXT_SYM	sql_yacc.cpp	/^    FULLTEXT_SYM = 448,$/;"	e	enum:yytokentype	file:
+FULLTEXT_SYM	sql_yacc.hpp	/^    FULLTEXT_SYM = 448,$/;"	e	enum:yytokentype
+FUNCTION_SYM	sql_yacc.cpp	/^    FUNCTION_SYM = 449,$/;"	e	enum:yytokentype	file:
+FUNCTION_SYM	sql_yacc.hpp	/^    FUNCTION_SYM = 449,$/;"	e	enum:yytokentype
+GE	sql_yacc.cpp	/^    GE = 450,$/;"	e	enum:yytokentype	file:
+GE	sql_yacc.hpp	/^    GE = 450,$/;"	e	enum:yytokentype
+GENERAL	sql_yacc.cpp	/^    GENERAL = 451,$/;"	e	enum:yytokentype	file:
+GENERAL	sql_yacc.hpp	/^    GENERAL = 451,$/;"	e	enum:yytokentype
+GEOMETRYCOLLECTION	sql_yacc.cpp	/^    GEOMETRYCOLLECTION = 452,$/;"	e	enum:yytokentype	file:
+GEOMETRYCOLLECTION	sql_yacc.hpp	/^    GEOMETRYCOLLECTION = 452,$/;"	e	enum:yytokentype
+GEOMETRY_SYM	sql_yacc.cpp	/^    GEOMETRY_SYM = 453,$/;"	e	enum:yytokentype	file:
+GEOMETRY_SYM	sql_yacc.hpp	/^    GEOMETRY_SYM = 453,$/;"	e	enum:yytokentype
+GET_FORMAT	sql_yacc.cpp	/^    GET_FORMAT = 454,$/;"	e	enum:yytokentype	file:
+GET_FORMAT	sql_yacc.hpp	/^    GET_FORMAT = 454,$/;"	e	enum:yytokentype
+GET_SYM	sql_yacc.cpp	/^    GET_SYM = 455,$/;"	e	enum:yytokentype	file:
+GET_SYM	sql_yacc.hpp	/^    GET_SYM = 455,$/;"	e	enum:yytokentype
+GLOBAL_SYM	sql_yacc.cpp	/^    GLOBAL_SYM = 456,$/;"	e	enum:yytokentype	file:
+GLOBAL_SYM	sql_yacc.hpp	/^    GLOBAL_SYM = 456,$/;"	e	enum:yytokentype
+GRANT	sql_yacc.cpp	/^    GRANT = 457,$/;"	e	enum:yytokentype	file:
+GRANT	sql_yacc.hpp	/^    GRANT = 457,$/;"	e	enum:yytokentype
+GRANTS	sql_yacc.cpp	/^    GRANTS = 458,$/;"	e	enum:yytokentype	file:
+GRANTS	sql_yacc.hpp	/^    GRANTS = 458,$/;"	e	enum:yytokentype
+GROUP_CONCAT_SYM	sql_yacc.cpp	/^    GROUP_CONCAT_SYM = 460,$/;"	e	enum:yytokentype	file:
+GROUP_CONCAT_SYM	sql_yacc.hpp	/^    GROUP_CONCAT_SYM = 460,$/;"	e	enum:yytokentype
+GROUP_SYM	sql_yacc.cpp	/^    GROUP_SYM = 459,$/;"	e	enum:yytokentype	file:
+GROUP_SYM	sql_yacc.hpp	/^    GROUP_SYM = 459,$/;"	e	enum:yytokentype
+GS	sql_lex.cpp	14;"	d	file:
+GT_SYM	sql_yacc.cpp	/^    GT_SYM = 461,$/;"	e	enum:yytokentype	file:
+GT_SYM	sql_yacc.hpp	/^    GT_SYM = 461,$/;"	e	enum:yytokentype
+HANDLER_SYM	sql_yacc.cpp	/^    HANDLER_SYM = 462,$/;"	e	enum:yytokentype	file:
+HANDLER_SYM	sql_yacc.hpp	/^    HANDLER_SYM = 462,$/;"	e	enum:yytokentype
+HASH_SYM	sql_yacc.cpp	/^    HASH_SYM = 463,$/;"	e	enum:yytokentype	file:
+HASH_SYM	sql_yacc.hpp	/^    HASH_SYM = 463,$/;"	e	enum:yytokentype
+HAVING	sql_yacc.cpp	/^    HAVING = 464,$/;"	e	enum:yytokentype	file:
+HAVING	sql_yacc.hpp	/^    HAVING = 464,$/;"	e	enum:yytokentype
+HELP_SYM	sql_yacc.cpp	/^    HELP_SYM = 465,$/;"	e	enum:yytokentype	file:
+HELP_SYM	sql_yacc.hpp	/^    HELP_SYM = 465,$/;"	e	enum:yytokentype
+HEX_NUM	sql_yacc.cpp	/^    HEX_NUM = 466,$/;"	e	enum:yytokentype	file:
+HEX_NUM	sql_yacc.hpp	/^    HEX_NUM = 466,$/;"	e	enum:yytokentype
+HIGH_PRIORITY	sql_yacc.cpp	/^    HIGH_PRIORITY = 467,$/;"	e	enum:yytokentype	file:
+HIGH_PRIORITY	sql_yacc.hpp	/^    HIGH_PRIORITY = 467,$/;"	e	enum:yytokentype
+HOSTS_SYM	sql_yacc.cpp	/^    HOSTS_SYM = 469,$/;"	e	enum:yytokentype	file:
+HOSTS_SYM	sql_yacc.hpp	/^    HOSTS_SYM = 469,$/;"	e	enum:yytokentype
+HOST_SYM	sql_yacc.cpp	/^    HOST_SYM = 468,$/;"	e	enum:yytokentype	file:
+HOST_SYM	sql_yacc.hpp	/^    HOST_SYM = 468,$/;"	e	enum:yytokentype
+HOUR_MICROSECOND_SYM	sql_yacc.cpp	/^    HOUR_MICROSECOND_SYM = 470,$/;"	e	enum:yytokentype	file:
+HOUR_MICROSECOND_SYM	sql_yacc.hpp	/^    HOUR_MICROSECOND_SYM = 470,$/;"	e	enum:yytokentype
+HOUR_MINUTE_SYM	sql_yacc.cpp	/^    HOUR_MINUTE_SYM = 471,$/;"	e	enum:yytokentype	file:
+HOUR_MINUTE_SYM	sql_yacc.hpp	/^    HOUR_MINUTE_SYM = 471,$/;"	e	enum:yytokentype
+HOUR_SECOND_SYM	sql_yacc.cpp	/^    HOUR_SECOND_SYM = 472,$/;"	e	enum:yytokentype	file:
+HOUR_SECOND_SYM	sql_yacc.hpp	/^    HOUR_SECOND_SYM = 472,$/;"	e	enum:yytokentype
+HOUR_SYM	sql_yacc.cpp	/^    HOUR_SYM = 473,$/;"	e	enum:yytokentype	file:
+HOUR_SYM	sql_yacc.hpp	/^    HOUR_SYM = 473,$/;"	e	enum:yytokentype
+IDENT	sql_yacc.cpp	/^    IDENT = 474,$/;"	e	enum:yytokentype	file:
+IDENT	sql_yacc.hpp	/^    IDENT = 474,$/;"	e	enum:yytokentype
+IDENTIFIED_SYM	sql_yacc.cpp	/^    IDENTIFIED_SYM = 475,$/;"	e	enum:yytokentype	file:
+IDENTIFIED_SYM	sql_yacc.hpp	/^    IDENTIFIED_SYM = 475,$/;"	e	enum:yytokentype
+IDENT_QUOTED	sql_yacc.cpp	/^    IDENT_QUOTED = 476,$/;"	e	enum:yytokentype	file:
+IDENT_QUOTED	sql_yacc.hpp	/^    IDENT_QUOTED = 476,$/;"	e	enum:yytokentype
+IDENT_sys	sql_yacc.y	/^IDENT_sys:$/;"	l
+IDENT_sys	sql_yacc_simple.y	/^IDENT_sys:$/;"	l
+IF	sql_yacc.cpp	/^    IF = 477,$/;"	e	enum:yytokentype	file:
+IF	sql_yacc.hpp	/^    IF = 477,$/;"	e	enum:yytokentype
+IGNORE_SERVER_IDS_SYM	sql_yacc.cpp	/^    IGNORE_SERVER_IDS_SYM = 479,$/;"	e	enum:yytokentype	file:
+IGNORE_SERVER_IDS_SYM	sql_yacc.hpp	/^    IGNORE_SERVER_IDS_SYM = 479,$/;"	e	enum:yytokentype
+IGNORE_SYM	sql_yacc.cpp	/^    IGNORE_SYM = 478,$/;"	e	enum:yytokentype	file:
+IGNORE_SYM	sql_yacc.hpp	/^    IGNORE_SYM = 478,$/;"	e	enum:yytokentype
+IMPORT	sql_yacc.cpp	/^    IMPORT = 480,$/;"	e	enum:yytokentype	file:
+IMPORT	sql_yacc.hpp	/^    IMPORT = 480,$/;"	e	enum:yytokentype
+INDEXES	sql_yacc.cpp	/^    INDEXES = 481,$/;"	e	enum:yytokentype	file:
+INDEXES	sql_yacc.hpp	/^    INDEXES = 481,$/;"	e	enum:yytokentype
+INDEX_SYM	sql_yacc.cpp	/^    INDEX_SYM = 482,$/;"	e	enum:yytokentype	file:
+INDEX_SYM	sql_yacc.hpp	/^    INDEX_SYM = 482,$/;"	e	enum:yytokentype
+INFILE	sql_yacc.cpp	/^    INFILE = 483,$/;"	e	enum:yytokentype	file:
+INFILE	sql_yacc.hpp	/^    INFILE = 483,$/;"	e	enum:yytokentype
+INITIAL_SIZE_SYM	sql_yacc.cpp	/^    INITIAL_SIZE_SYM = 484,$/;"	e	enum:yytokentype	file:
+INITIAL_SIZE_SYM	sql_yacc.hpp	/^    INITIAL_SIZE_SYM = 484,$/;"	e	enum:yytokentype
+INNER_SYM	sql_yacc.cpp	/^    INNER_SYM = 485,$/;"	e	enum:yytokentype	file:
+INNER_SYM	sql_yacc.hpp	/^    INNER_SYM = 485,$/;"	e	enum:yytokentype
+INOUT_SYM	sql_yacc.cpp	/^    INOUT_SYM = 486,$/;"	e	enum:yytokentype	file:
+INOUT_SYM	sql_yacc.hpp	/^    INOUT_SYM = 486,$/;"	e	enum:yytokentype
+INSENSITIVE_SYM	sql_yacc.cpp	/^    INSENSITIVE_SYM = 487,$/;"	e	enum:yytokentype	file:
+INSENSITIVE_SYM	sql_yacc.hpp	/^    INSENSITIVE_SYM = 487,$/;"	e	enum:yytokentype
+INSERT	sql_yacc.cpp	/^    INSERT = 488,$/;"	e	enum:yytokentype	file:
+INSERT	sql_yacc.hpp	/^    INSERT = 488,$/;"	e	enum:yytokentype
+INSERT_METHOD	sql_yacc.cpp	/^    INSERT_METHOD = 489,$/;"	e	enum:yytokentype	file:
+INSERT_METHOD	sql_yacc.hpp	/^    INSERT_METHOD = 489,$/;"	e	enum:yytokentype
+INSTALL_SYM	sql_yacc.cpp	/^    INSTALL_SYM = 490,$/;"	e	enum:yytokentype	file:
+INSTALL_SYM	sql_yacc.hpp	/^    INSTALL_SYM = 490,$/;"	e	enum:yytokentype
+INTERVAL_SYM	sql_yacc.cpp	/^    INTERVAL_SYM = 491,$/;"	e	enum:yytokentype	file:
+INTERVAL_SYM	sql_yacc.hpp	/^    INTERVAL_SYM = 491,$/;"	e	enum:yytokentype
+INTO	sql_yacc.cpp	/^    INTO = 492,$/;"	e	enum:yytokentype	file:
+INTO	sql_yacc.hpp	/^    INTO = 492,$/;"	e	enum:yytokentype
+INT_SYM	sql_yacc.cpp	/^    INT_SYM = 493,$/;"	e	enum:yytokentype	file:
+INT_SYM	sql_yacc.hpp	/^    INT_SYM = 493,$/;"	e	enum:yytokentype
+INVOKER_SYM	sql_yacc.cpp	/^    INVOKER_SYM = 494,$/;"	e	enum:yytokentype	file:
+INVOKER_SYM	sql_yacc.hpp	/^    INVOKER_SYM = 494,$/;"	e	enum:yytokentype
+IN_SYM	sql_yacc.cpp	/^    IN_SYM = 495,$/;"	e	enum:yytokentype	file:
+IN_SYM	sql_yacc.hpp	/^    IN_SYM = 495,$/;"	e	enum:yytokentype
+IO_AFTER_GTIDS	sql_yacc.cpp	/^    IO_AFTER_GTIDS = 496,$/;"	e	enum:yytokentype	file:
+IO_AFTER_GTIDS	sql_yacc.hpp	/^    IO_AFTER_GTIDS = 496,$/;"	e	enum:yytokentype
+IO_BEFORE_GTIDS	sql_yacc.cpp	/^    IO_BEFORE_GTIDS = 497,$/;"	e	enum:yytokentype	file:
+IO_BEFORE_GTIDS	sql_yacc.hpp	/^    IO_BEFORE_GTIDS = 497,$/;"	e	enum:yytokentype
+IO_SYM	sql_yacc.cpp	/^    IO_SYM = 498,$/;"	e	enum:yytokentype	file:
+IO_SYM	sql_yacc.hpp	/^    IO_SYM = 498,$/;"	e	enum:yytokentype
+IPC_SYM	sql_yacc.cpp	/^    IPC_SYM = 499,$/;"	e	enum:yytokentype	file:
+IPC_SYM	sql_yacc.hpp	/^    IPC_SYM = 499,$/;"	e	enum:yytokentype
+IS	sql_yacc.cpp	/^    IS = 500,$/;"	e	enum:yytokentype	file:
+IS	sql_yacc.hpp	/^    IS = 500,$/;"	e	enum:yytokentype
+ISOLATION	sql_yacc.cpp	/^    ISOLATION = 501,$/;"	e	enum:yytokentype	file:
+ISOLATION	sql_yacc.hpp	/^    ISOLATION = 501,$/;"	e	enum:yytokentype
+ISSUER_SYM	sql_yacc.cpp	/^    ISSUER_SYM = 502,$/;"	e	enum:yytokentype	file:
+ISSUER_SYM	sql_yacc.hpp	/^    ISSUER_SYM = 502,$/;"	e	enum:yytokentype
+ITERATE_SYM	sql_yacc.cpp	/^    ITERATE_SYM = 503,$/;"	e	enum:yytokentype	file:
+ITERATE_SYM	sql_yacc.hpp	/^    ITERATE_SYM = 503,$/;"	e	enum:yytokentype
+JOIN_SYM	sql_yacc.cpp	/^    JOIN_SYM = 504,$/;"	e	enum:yytokentype	file:
+JOIN_SYM	sql_yacc.hpp	/^    JOIN_SYM = 504,$/;"	e	enum:yytokentype
+KEYS	sql_yacc.cpp	/^    KEYS = 505,$/;"	e	enum:yytokentype	file:
+KEYS	sql_yacc.hpp	/^    KEYS = 505,$/;"	e	enum:yytokentype
+KEY_BLOCK_SIZE	sql_yacc.cpp	/^    KEY_BLOCK_SIZE = 506,$/;"	e	enum:yytokentype	file:
+KEY_BLOCK_SIZE	sql_yacc.hpp	/^    KEY_BLOCK_SIZE = 506,$/;"	e	enum:yytokentype
+KEY_SYM	sql_yacc.cpp	/^    KEY_SYM = 507,$/;"	e	enum:yytokentype	file:
+KEY_SYM	sql_yacc.hpp	/^    KEY_SYM = 507,$/;"	e	enum:yytokentype
+KILL_SYM	sql_yacc.cpp	/^    KILL_SYM = 508,$/;"	e	enum:yytokentype	file:
+KILL_SYM	sql_yacc.hpp	/^    KILL_SYM = 508,$/;"	e	enum:yytokentype
+LANGUAGE_SYM	sql_yacc.cpp	/^    LANGUAGE_SYM = 509,$/;"	e	enum:yytokentype	file:
+LANGUAGE_SYM	sql_yacc.hpp	/^    LANGUAGE_SYM = 509,$/;"	e	enum:yytokentype
+LAST_SYM	sql_yacc.cpp	/^    LAST_SYM = 510,$/;"	e	enum:yytokentype	file:
+LAST_SYM	sql_yacc.hpp	/^    LAST_SYM = 510,$/;"	e	enum:yytokentype
+LE	sql_yacc.cpp	/^    LE = 511,$/;"	e	enum:yytokentype	file:
+LE	sql_yacc.hpp	/^    LE = 511,$/;"	e	enum:yytokentype
+LEADING	sql_yacc.cpp	/^    LEADING = 512,$/;"	e	enum:yytokentype	file:
+LEADING	sql_yacc.hpp	/^    LEADING = 512,$/;"	e	enum:yytokentype
+LEAVES	sql_yacc.cpp	/^    LEAVES = 513,$/;"	e	enum:yytokentype	file:
+LEAVES	sql_yacc.hpp	/^    LEAVES = 513,$/;"	e	enum:yytokentype
+LEAVE_SYM	sql_yacc.cpp	/^    LEAVE_SYM = 514,$/;"	e	enum:yytokentype	file:
+LEAVE_SYM	sql_yacc.hpp	/^    LEAVE_SYM = 514,$/;"	e	enum:yytokentype
+LEFT	sql_yacc.cpp	/^    LEFT = 515,$/;"	e	enum:yytokentype	file:
+LEFT	sql_yacc.hpp	/^    LEFT = 515,$/;"	e	enum:yytokentype
+LESS_SYM	sql_yacc.cpp	/^    LESS_SYM = 516,$/;"	e	enum:yytokentype	file:
+LESS_SYM	sql_yacc.hpp	/^    LESS_SYM = 516,$/;"	e	enum:yytokentype
+LEVEL_SYM	sql_yacc.cpp	/^    LEVEL_SYM = 517,$/;"	e	enum:yytokentype	file:
+LEVEL_SYM	sql_yacc.hpp	/^    LEVEL_SYM = 517,$/;"	e	enum:yytokentype
+LEXFILE	Makefile	/^LEXFILE=sql_lex$/;"	m
+LEX_GLOBAL	lex_global.h	2;"	d
+LEX_HOSTNAME	sql_yacc.cpp	/^    LEX_HOSTNAME = 518,$/;"	e	enum:yytokentype	file:
+LEX_HOSTNAME	sql_yacc.hpp	/^    LEX_HOSTNAME = 518,$/;"	e	enum:yytokentype
+LIKE	sql_yacc.cpp	/^    LIKE = 519,$/;"	e	enum:yytokentype	file:
+LIKE	sql_yacc.hpp	/^    LIKE = 519,$/;"	e	enum:yytokentype
+LIMIT	sql_yacc.cpp	/^    LIMIT = 520,$/;"	e	enum:yytokentype	file:
+LIMIT	sql_yacc.hpp	/^    LIMIT = 520,$/;"	e	enum:yytokentype
+LINEAR_SYM	sql_yacc.cpp	/^    LINEAR_SYM = 521,$/;"	e	enum:yytokentype	file:
+LINEAR_SYM	sql_yacc.hpp	/^    LINEAR_SYM = 521,$/;"	e	enum:yytokentype
+LINES	sql_yacc.cpp	/^    LINES = 522,$/;"	e	enum:yytokentype	file:
+LINES	sql_yacc.hpp	/^    LINES = 522,$/;"	e	enum:yytokentype
+LINESTRING	sql_yacc.cpp	/^    LINESTRING = 523,$/;"	e	enum:yytokentype	file:
+LINESTRING	sql_yacc.hpp	/^    LINESTRING = 523,$/;"	e	enum:yytokentype
+LIST_SYM	sql_yacc.cpp	/^    LIST_SYM = 524,$/;"	e	enum:yytokentype	file:
+LIST_SYM	sql_yacc.hpp	/^    LIST_SYM = 524,$/;"	e	enum:yytokentype
+LOAD	sql_yacc.cpp	/^    LOAD = 525,$/;"	e	enum:yytokentype	file:
+LOAD	sql_yacc.hpp	/^    LOAD = 525,$/;"	e	enum:yytokentype
+LOCAL_SYM	sql_yacc.cpp	/^    LOCAL_SYM = 526,$/;"	e	enum:yytokentype	file:
+LOCAL_SYM	sql_yacc.hpp	/^    LOCAL_SYM = 526,$/;"	e	enum:yytokentype
+LOCATOR_SYM	sql_yacc.cpp	/^    LOCATOR_SYM = 527,$/;"	e	enum:yytokentype	file:
+LOCATOR_SYM	sql_yacc.hpp	/^    LOCATOR_SYM = 527,$/;"	e	enum:yytokentype
+LOCKS_SYM	sql_yacc.cpp	/^    LOCKS_SYM = 528,$/;"	e	enum:yytokentype	file:
+LOCKS_SYM	sql_yacc.hpp	/^    LOCKS_SYM = 528,$/;"	e	enum:yytokentype
+LOCK_SYM	sql_yacc.cpp	/^    LOCK_SYM = 529,$/;"	e	enum:yytokentype	file:
+LOCK_SYM	sql_yacc.hpp	/^    LOCK_SYM = 529,$/;"	e	enum:yytokentype
+LOGFILE_SYM	sql_yacc.cpp	/^    LOGFILE_SYM = 530,$/;"	e	enum:yytokentype	file:
+LOGFILE_SYM	sql_yacc.hpp	/^    LOGFILE_SYM = 530,$/;"	e	enum:yytokentype
+LOGS_SYM	sql_yacc.cpp	/^    LOGS_SYM = 531,$/;"	e	enum:yytokentype	file:
+LOGS_SYM	sql_yacc.hpp	/^    LOGS_SYM = 531,$/;"	e	enum:yytokentype
+LONGBLOB	sql_yacc.cpp	/^    LONGBLOB = 532,$/;"	e	enum:yytokentype	file:
+LONGBLOB	sql_yacc.hpp	/^    LONGBLOB = 532,$/;"	e	enum:yytokentype
+LONGTEXT	sql_yacc.cpp	/^    LONGTEXT = 533,$/;"	e	enum:yytokentype	file:
+LONGTEXT	sql_yacc.hpp	/^    LONGTEXT = 533,$/;"	e	enum:yytokentype
+LONG_NUM	sql_yacc.cpp	/^    LONG_NUM = 534,$/;"	e	enum:yytokentype	file:
+LONG_NUM	sql_yacc.hpp	/^    LONG_NUM = 534,$/;"	e	enum:yytokentype
+LONG_SYM	sql_yacc.cpp	/^    LONG_SYM = 535,$/;"	e	enum:yytokentype	file:
+LONG_SYM	sql_yacc.hpp	/^    LONG_SYM = 535,$/;"	e	enum:yytokentype
+LOOP_SYM	sql_yacc.cpp	/^    LOOP_SYM = 536,$/;"	e	enum:yytokentype	file:
+LOOP_SYM	sql_yacc.hpp	/^    LOOP_SYM = 536,$/;"	e	enum:yytokentype
+LOW_PRIORITY	sql_yacc.cpp	/^    LOW_PRIORITY = 537,$/;"	e	enum:yytokentype	file:
+LOW_PRIORITY	sql_yacc.hpp	/^    LOW_PRIORITY = 537,$/;"	e	enum:yytokentype
+LT	sql_yacc.cpp	/^    LT = 538,$/;"	e	enum:yytokentype	file:
+LT	sql_yacc.hpp	/^    LT = 538,$/;"	e	enum:yytokentype
+MASTER_AUTO_POSITION_SYM	sql_yacc.cpp	/^    MASTER_AUTO_POSITION_SYM = 539,$/;"	e	enum:yytokentype	file:
+MASTER_AUTO_POSITION_SYM	sql_yacc.hpp	/^    MASTER_AUTO_POSITION_SYM = 539,$/;"	e	enum:yytokentype
+MASTER_BIND_SYM	sql_yacc.cpp	/^    MASTER_BIND_SYM = 540,$/;"	e	enum:yytokentype	file:
+MASTER_BIND_SYM	sql_yacc.hpp	/^    MASTER_BIND_SYM = 540,$/;"	e	enum:yytokentype
+MASTER_CONNECT_RETRY_SYM	sql_yacc.cpp	/^    MASTER_CONNECT_RETRY_SYM = 541,$/;"	e	enum:yytokentype	file:
+MASTER_CONNECT_RETRY_SYM	sql_yacc.hpp	/^    MASTER_CONNECT_RETRY_SYM = 541,$/;"	e	enum:yytokentype
+MASTER_DELAY_SYM	sql_yacc.cpp	/^    MASTER_DELAY_SYM = 542,$/;"	e	enum:yytokentype	file:
+MASTER_DELAY_SYM	sql_yacc.hpp	/^    MASTER_DELAY_SYM = 542,$/;"	e	enum:yytokentype
+MASTER_HEARTBEAT_PERIOD_SYM	sql_yacc.cpp	/^    MASTER_HEARTBEAT_PERIOD_SYM = 561,$/;"	e	enum:yytokentype	file:
+MASTER_HEARTBEAT_PERIOD_SYM	sql_yacc.hpp	/^    MASTER_HEARTBEAT_PERIOD_SYM = 561,$/;"	e	enum:yytokentype
+MASTER_HOST_SYM	sql_yacc.cpp	/^    MASTER_HOST_SYM = 543,$/;"	e	enum:yytokentype	file:
+MASTER_HOST_SYM	sql_yacc.hpp	/^    MASTER_HOST_SYM = 543,$/;"	e	enum:yytokentype
+MASTER_LOG_FILE_SYM	sql_yacc.cpp	/^    MASTER_LOG_FILE_SYM = 544,$/;"	e	enum:yytokentype	file:
+MASTER_LOG_FILE_SYM	sql_yacc.hpp	/^    MASTER_LOG_FILE_SYM = 544,$/;"	e	enum:yytokentype
+MASTER_LOG_POS_SYM	sql_yacc.cpp	/^    MASTER_LOG_POS_SYM = 545,$/;"	e	enum:yytokentype	file:
+MASTER_LOG_POS_SYM	sql_yacc.hpp	/^    MASTER_LOG_POS_SYM = 545,$/;"	e	enum:yytokentype
+MASTER_PASSWORD_SYM	sql_yacc.cpp	/^    MASTER_PASSWORD_SYM = 546,$/;"	e	enum:yytokentype	file:
+MASTER_PASSWORD_SYM	sql_yacc.hpp	/^    MASTER_PASSWORD_SYM = 546,$/;"	e	enum:yytokentype
+MASTER_PORT_SYM	sql_yacc.cpp	/^    MASTER_PORT_SYM = 547,$/;"	e	enum:yytokentype	file:
+MASTER_PORT_SYM	sql_yacc.hpp	/^    MASTER_PORT_SYM = 547,$/;"	e	enum:yytokentype
+MASTER_RETRY_COUNT_SYM	sql_yacc.cpp	/^    MASTER_RETRY_COUNT_SYM = 548,$/;"	e	enum:yytokentype	file:
+MASTER_RETRY_COUNT_SYM	sql_yacc.hpp	/^    MASTER_RETRY_COUNT_SYM = 548,$/;"	e	enum:yytokentype
+MASTER_SERVER_ID_SYM	sql_yacc.cpp	/^    MASTER_SERVER_ID_SYM = 549,$/;"	e	enum:yytokentype	file:
+MASTER_SERVER_ID_SYM	sql_yacc.hpp	/^    MASTER_SERVER_ID_SYM = 549,$/;"	e	enum:yytokentype
+MASTER_SSL_CAPATH_SYM	sql_yacc.cpp	/^    MASTER_SSL_CAPATH_SYM = 550,$/;"	e	enum:yytokentype	file:
+MASTER_SSL_CAPATH_SYM	sql_yacc.hpp	/^    MASTER_SSL_CAPATH_SYM = 550,$/;"	e	enum:yytokentype
+MASTER_SSL_CA_SYM	sql_yacc.cpp	/^    MASTER_SSL_CA_SYM = 551,$/;"	e	enum:yytokentype	file:
+MASTER_SSL_CA_SYM	sql_yacc.hpp	/^    MASTER_SSL_CA_SYM = 551,$/;"	e	enum:yytokentype
+MASTER_SSL_CERT_SYM	sql_yacc.cpp	/^    MASTER_SSL_CERT_SYM = 552,$/;"	e	enum:yytokentype	file:
+MASTER_SSL_CERT_SYM	sql_yacc.hpp	/^    MASTER_SSL_CERT_SYM = 552,$/;"	e	enum:yytokentype
+MASTER_SSL_CIPHER_SYM	sql_yacc.cpp	/^    MASTER_SSL_CIPHER_SYM = 553,$/;"	e	enum:yytokentype	file:
+MASTER_SSL_CIPHER_SYM	sql_yacc.hpp	/^    MASTER_SSL_CIPHER_SYM = 553,$/;"	e	enum:yytokentype
+MASTER_SSL_CRLPATH_SYM	sql_yacc.cpp	/^    MASTER_SSL_CRLPATH_SYM = 555,$/;"	e	enum:yytokentype	file:
+MASTER_SSL_CRLPATH_SYM	sql_yacc.hpp	/^    MASTER_SSL_CRLPATH_SYM = 555,$/;"	e	enum:yytokentype
+MASTER_SSL_CRL_SYM	sql_yacc.cpp	/^    MASTER_SSL_CRL_SYM = 554,$/;"	e	enum:yytokentype	file:
+MASTER_SSL_CRL_SYM	sql_yacc.hpp	/^    MASTER_SSL_CRL_SYM = 554,$/;"	e	enum:yytokentype
+MASTER_SSL_KEY_SYM	sql_yacc.cpp	/^    MASTER_SSL_KEY_SYM = 556,$/;"	e	enum:yytokentype	file:
+MASTER_SSL_KEY_SYM	sql_yacc.hpp	/^    MASTER_SSL_KEY_SYM = 556,$/;"	e	enum:yytokentype
+MASTER_SSL_SYM	sql_yacc.cpp	/^    MASTER_SSL_SYM = 557,$/;"	e	enum:yytokentype	file:
+MASTER_SSL_SYM	sql_yacc.hpp	/^    MASTER_SSL_SYM = 557,$/;"	e	enum:yytokentype
+MASTER_SSL_VERIFY_SERVER_CERT_SYM	sql_yacc.cpp	/^    MASTER_SSL_VERIFY_SERVER_CERT_SYM = 558,$/;"	e	enum:yytokentype	file:
+MASTER_SSL_VERIFY_SERVER_CERT_SYM	sql_yacc.hpp	/^    MASTER_SSL_VERIFY_SERVER_CERT_SYM = 558,$/;"	e	enum:yytokentype
+MASTER_SYM	sql_yacc.cpp	/^    MASTER_SYM = 559,$/;"	e	enum:yytokentype	file:
+MASTER_SYM	sql_yacc.hpp	/^    MASTER_SYM = 559,$/;"	e	enum:yytokentype
+MASTER_USER_SYM	sql_yacc.cpp	/^    MASTER_USER_SYM = 560,$/;"	e	enum:yytokentype	file:
+MASTER_USER_SYM	sql_yacc.hpp	/^    MASTER_USER_SYM = 560,$/;"	e	enum:yytokentype
+MATCH	sql_yacc.cpp	/^    MATCH = 562,$/;"	e	enum:yytokentype	file:
+MATCH	sql_yacc.hpp	/^    MATCH = 562,$/;"	e	enum:yytokentype
+MAX_CONNECTIONS_PER_HOUR	sql_yacc.cpp	/^    MAX_CONNECTIONS_PER_HOUR = 563,$/;"	e	enum:yytokentype	file:
+MAX_CONNECTIONS_PER_HOUR	sql_yacc.hpp	/^    MAX_CONNECTIONS_PER_HOUR = 563,$/;"	e	enum:yytokentype
+MAX_QUERIES_PER_HOUR	sql_yacc.cpp	/^    MAX_QUERIES_PER_HOUR = 564,$/;"	e	enum:yytokentype	file:
+MAX_QUERIES_PER_HOUR	sql_yacc.hpp	/^    MAX_QUERIES_PER_HOUR = 564,$/;"	e	enum:yytokentype
+MAX_ROWS	sql_yacc.cpp	/^    MAX_ROWS = 566,$/;"	e	enum:yytokentype	file:
+MAX_ROWS	sql_yacc.hpp	/^    MAX_ROWS = 566,$/;"	e	enum:yytokentype
+MAX_SIZE_SYM	sql_yacc.cpp	/^    MAX_SIZE_SYM = 567,$/;"	e	enum:yytokentype	file:
+MAX_SIZE_SYM	sql_yacc.hpp	/^    MAX_SIZE_SYM = 567,$/;"	e	enum:yytokentype
+MAX_STATEMENT_TIME_SYM	sql_yacc.cpp	/^    MAX_STATEMENT_TIME_SYM = 565,$/;"	e	enum:yytokentype	file:
+MAX_STATEMENT_TIME_SYM	sql_yacc.hpp	/^    MAX_STATEMENT_TIME_SYM = 565,$/;"	e	enum:yytokentype
+MAX_SYM	sql_yacc.cpp	/^    MAX_SYM = 568,$/;"	e	enum:yytokentype	file:
+MAX_SYM	sql_yacc.hpp	/^    MAX_SYM = 568,$/;"	e	enum:yytokentype
+MAX_UPDATES_PER_HOUR	sql_yacc.cpp	/^    MAX_UPDATES_PER_HOUR = 569,$/;"	e	enum:yytokentype	file:
+MAX_UPDATES_PER_HOUR	sql_yacc.hpp	/^    MAX_UPDATES_PER_HOUR = 569,$/;"	e	enum:yytokentype
+MAX_USER_CONNECTIONS_SYM	sql_yacc.cpp	/^    MAX_USER_CONNECTIONS_SYM = 570,$/;"	e	enum:yytokentype	file:
+MAX_USER_CONNECTIONS_SYM	sql_yacc.hpp	/^    MAX_USER_CONNECTIONS_SYM = 570,$/;"	e	enum:yytokentype
+MAX_VALUE_SYM	sql_yacc.cpp	/^    MAX_VALUE_SYM = 571,$/;"	e	enum:yytokentype	file:
+MAX_VALUE_SYM	sql_yacc.hpp	/^    MAX_VALUE_SYM = 571,$/;"	e	enum:yytokentype
+MEDIUMBLOB	sql_yacc.cpp	/^    MEDIUMBLOB = 572,$/;"	e	enum:yytokentype	file:
+MEDIUMBLOB	sql_yacc.hpp	/^    MEDIUMBLOB = 572,$/;"	e	enum:yytokentype
+MEDIUMINT	sql_yacc.cpp	/^    MEDIUMINT = 573,$/;"	e	enum:yytokentype	file:
+MEDIUMINT	sql_yacc.hpp	/^    MEDIUMINT = 573,$/;"	e	enum:yytokentype
+MEDIUMTEXT	sql_yacc.cpp	/^    MEDIUMTEXT = 574,$/;"	e	enum:yytokentype	file:
+MEDIUMTEXT	sql_yacc.hpp	/^    MEDIUMTEXT = 574,$/;"	e	enum:yytokentype
+MEDIUM_SYM	sql_yacc.cpp	/^    MEDIUM_SYM = 575,$/;"	e	enum:yytokentype	file:
+MEDIUM_SYM	sql_yacc.hpp	/^    MEDIUM_SYM = 575,$/;"	e	enum:yytokentype
+MEMORY_SYM	sql_yacc.cpp	/^    MEMORY_SYM = 576,$/;"	e	enum:yytokentype	file:
+MEMORY_SYM	sql_yacc.hpp	/^    MEMORY_SYM = 576,$/;"	e	enum:yytokentype
+MERGE_SYM	sql_yacc.cpp	/^    MERGE_SYM = 577,$/;"	e	enum:yytokentype	file:
+MERGE_SYM	sql_yacc.hpp	/^    MERGE_SYM = 577,$/;"	e	enum:yytokentype
+MESSAGE_TEXT_SYM	sql_yacc.cpp	/^    MESSAGE_TEXT_SYM = 578,$/;"	e	enum:yytokentype	file:
+MESSAGE_TEXT_SYM	sql_yacc.hpp	/^    MESSAGE_TEXT_SYM = 578,$/;"	e	enum:yytokentype
+MICROSECOND_SYM	sql_yacc.cpp	/^    MICROSECOND_SYM = 579,$/;"	e	enum:yytokentype	file:
+MICROSECOND_SYM	sql_yacc.hpp	/^    MICROSECOND_SYM = 579,$/;"	e	enum:yytokentype
+MIGRATE_SYM	sql_yacc.cpp	/^    MIGRATE_SYM = 580,$/;"	e	enum:yytokentype	file:
+MIGRATE_SYM	sql_yacc.hpp	/^    MIGRATE_SYM = 580,$/;"	e	enum:yytokentype
+MINUTE_MICROSECOND_SYM	sql_yacc.cpp	/^    MINUTE_MICROSECOND_SYM = 581,$/;"	e	enum:yytokentype	file:
+MINUTE_MICROSECOND_SYM	sql_yacc.hpp	/^    MINUTE_MICROSECOND_SYM = 581,$/;"	e	enum:yytokentype
+MINUTE_SECOND_SYM	sql_yacc.cpp	/^    MINUTE_SECOND_SYM = 582,$/;"	e	enum:yytokentype	file:
+MINUTE_SECOND_SYM	sql_yacc.hpp	/^    MINUTE_SECOND_SYM = 582,$/;"	e	enum:yytokentype
+MINUTE_SYM	sql_yacc.cpp	/^    MINUTE_SYM = 583,$/;"	e	enum:yytokentype	file:
+MINUTE_SYM	sql_yacc.hpp	/^    MINUTE_SYM = 583,$/;"	e	enum:yytokentype
+MIN_ROWS	sql_yacc.cpp	/^    MIN_ROWS = 584,$/;"	e	enum:yytokentype	file:
+MIN_ROWS	sql_yacc.hpp	/^    MIN_ROWS = 584,$/;"	e	enum:yytokentype
+MIN_SYM	sql_yacc.cpp	/^    MIN_SYM = 585,$/;"	e	enum:yytokentype	file:
+MIN_SYM	sql_yacc.hpp	/^    MIN_SYM = 585,$/;"	e	enum:yytokentype
+MODE_SYM	sql_yacc.cpp	/^    MODE_SYM = 586,$/;"	e	enum:yytokentype	file:
+MODE_SYM	sql_yacc.hpp	/^    MODE_SYM = 586,$/;"	e	enum:yytokentype
+MODIFIES_SYM	sql_yacc.cpp	/^    MODIFIES_SYM = 587,$/;"	e	enum:yytokentype	file:
+MODIFIES_SYM	sql_yacc.hpp	/^    MODIFIES_SYM = 587,$/;"	e	enum:yytokentype
+MODIFY_SYM	sql_yacc.cpp	/^    MODIFY_SYM = 588,$/;"	e	enum:yytokentype	file:
+MODIFY_SYM	sql_yacc.hpp	/^    MODIFY_SYM = 588,$/;"	e	enum:yytokentype
+MOD_SYM	sql_yacc.cpp	/^    MOD_SYM = 589,$/;"	e	enum:yytokentype	file:
+MOD_SYM	sql_yacc.hpp	/^    MOD_SYM = 589,$/;"	e	enum:yytokentype
+MONTH_SYM	sql_yacc.cpp	/^    MONTH_SYM = 590,$/;"	e	enum:yytokentype	file:
+MONTH_SYM	sql_yacc.hpp	/^    MONTH_SYM = 590,$/;"	e	enum:yytokentype
+MULTILINESTRING	sql_yacc.cpp	/^    MULTILINESTRING = 591,$/;"	e	enum:yytokentype	file:
+MULTILINESTRING	sql_yacc.hpp	/^    MULTILINESTRING = 591,$/;"	e	enum:yytokentype
+MULTIPOINT	sql_yacc.cpp	/^    MULTIPOINT = 592,$/;"	e	enum:yytokentype	file:
+MULTIPOINT	sql_yacc.hpp	/^    MULTIPOINT = 592,$/;"	e	enum:yytokentype
+MULTIPOLYGON	sql_yacc.cpp	/^    MULTIPOLYGON = 593,$/;"	e	enum:yytokentype	file:
+MULTIPOLYGON	sql_yacc.hpp	/^    MULTIPOLYGON = 593,$/;"	e	enum:yytokentype
+MUTEX_SYM	sql_yacc.cpp	/^    MUTEX_SYM = 594,$/;"	e	enum:yytokentype	file:
+MUTEX_SYM	sql_yacc.hpp	/^    MUTEX_SYM = 594,$/;"	e	enum:yytokentype
+MYSQL_ERRNO_SYM	sql_yacc.cpp	/^    MYSQL_ERRNO_SYM = 595,$/;"	e	enum:yytokentype	file:
+MYSQL_ERRNO_SYM	sql_yacc.hpp	/^    MYSQL_ERRNO_SYM = 595,$/;"	e	enum:yytokentype
+NAMES_SYM	sql_yacc.cpp	/^    NAMES_SYM = 596,$/;"	e	enum:yytokentype	file:
+NAMES_SYM	sql_yacc.hpp	/^    NAMES_SYM = 596,$/;"	e	enum:yytokentype
+NAME_SYM	sql_yacc.cpp	/^    NAME_SYM = 597,$/;"	e	enum:yytokentype	file:
+NAME_SYM	sql_yacc.hpp	/^    NAME_SYM = 597,$/;"	e	enum:yytokentype
+NATIONAL_SYM	sql_yacc.cpp	/^    NATIONAL_SYM = 598,$/;"	e	enum:yytokentype	file:
+NATIONAL_SYM	sql_yacc.hpp	/^    NATIONAL_SYM = 598,$/;"	e	enum:yytokentype
+NATURAL	sql_yacc.cpp	/^    NATURAL = 599,$/;"	e	enum:yytokentype	file:
+NATURAL	sql_yacc.hpp	/^    NATURAL = 599,$/;"	e	enum:yytokentype
+NCHAR_STRING	sql_yacc.cpp	/^    NCHAR_STRING = 600,$/;"	e	enum:yytokentype	file:
+NCHAR_STRING	sql_yacc.hpp	/^    NCHAR_STRING = 600,$/;"	e	enum:yytokentype
+NCHAR_SYM	sql_yacc.cpp	/^    NCHAR_SYM = 601,$/;"	e	enum:yytokentype	file:
+NCHAR_SYM	sql_yacc.hpp	/^    NCHAR_SYM = 601,$/;"	e	enum:yytokentype
+NDBCLUSTER_SYM	sql_yacc.cpp	/^    NDBCLUSTER_SYM = 602,$/;"	e	enum:yytokentype	file:
+NDBCLUSTER_SYM	sql_yacc.hpp	/^    NDBCLUSTER_SYM = 602,$/;"	e	enum:yytokentype
+NE	sql_yacc.cpp	/^    NE = 603,$/;"	e	enum:yytokentype	file:
+NE	sql_yacc.hpp	/^    NE = 603,$/;"	e	enum:yytokentype
+NEG	sql_yacc.cpp	/^    NEG = 604,$/;"	e	enum:yytokentype	file:
+NEG	sql_yacc.hpp	/^    NEG = 604,$/;"	e	enum:yytokentype
+NEVER_SYM	sql_yacc.cpp	/^    NEVER_SYM = 605,$/;"	e	enum:yytokentype	file:
+NEVER_SYM	sql_yacc.hpp	/^    NEVER_SYM = 605,$/;"	e	enum:yytokentype
+NEW_SYM	sql_yacc.cpp	/^    NEW_SYM = 606,$/;"	e	enum:yytokentype	file:
+NEW_SYM	sql_yacc.hpp	/^    NEW_SYM = 606,$/;"	e	enum:yytokentype
+NEXT_SYM	sql_yacc.cpp	/^    NEXT_SYM = 607,$/;"	e	enum:yytokentype	file:
+NEXT_SYM	sql_yacc.hpp	/^    NEXT_SYM = 607,$/;"	e	enum:yytokentype
+NODEGROUP_SYM	sql_yacc.cpp	/^    NODEGROUP_SYM = 608,$/;"	e	enum:yytokentype	file:
+NODEGROUP_SYM	sql_yacc.hpp	/^    NODEGROUP_SYM = 608,$/;"	e	enum:yytokentype
+NONBLOCKING_SYM	sql_yacc.cpp	/^    NONBLOCKING_SYM = 786,$/;"	e	enum:yytokentype	file:
+NONBLOCKING_SYM	sql_yacc.hpp	/^    NONBLOCKING_SYM = 786,$/;"	e	enum:yytokentype
+NONE_SYM	sql_yacc.cpp	/^    NONE_SYM = 609,$/;"	e	enum:yytokentype	file:
+NONE_SYM	sql_yacc.hpp	/^    NONE_SYM = 609,$/;"	e	enum:yytokentype
+NOT2_SYM	sql_yacc.cpp	/^    NOT2_SYM = 610,$/;"	e	enum:yytokentype	file:
+NOT2_SYM	sql_yacc.hpp	/^    NOT2_SYM = 610,$/;"	e	enum:yytokentype
+NOT_SYM	sql_yacc.cpp	/^    NOT_SYM = 611,$/;"	e	enum:yytokentype	file:
+NOT_SYM	sql_yacc.hpp	/^    NOT_SYM = 611,$/;"	e	enum:yytokentype
+NOW_SYM	sql_yacc.cpp	/^    NOW_SYM = 612,$/;"	e	enum:yytokentype	file:
+NOW_SYM	sql_yacc.hpp	/^    NOW_SYM = 612,$/;"	e	enum:yytokentype
+NO_SYM	sql_yacc.cpp	/^    NO_SYM = 613,$/;"	e	enum:yytokentype	file:
+NO_SYM	sql_yacc.hpp	/^    NO_SYM = 613,$/;"	e	enum:yytokentype
+NO_WAIT_SYM	sql_yacc.cpp	/^    NO_WAIT_SYM = 614,$/;"	e	enum:yytokentype	file:
+NO_WAIT_SYM	sql_yacc.hpp	/^    NO_WAIT_SYM = 614,$/;"	e	enum:yytokentype
+NO_WRITE_TO_BINLOG	sql_yacc.cpp	/^    NO_WRITE_TO_BINLOG = 615,$/;"	e	enum:yytokentype	file:
+NO_WRITE_TO_BINLOG	sql_yacc.hpp	/^    NO_WRITE_TO_BINLOG = 615,$/;"	e	enum:yytokentype
+NULL_SYM	sql_yacc.cpp	/^    NULL_SYM = 616,$/;"	e	enum:yytokentype	file:
+NULL_SYM	sql_yacc.hpp	/^    NULL_SYM = 616,$/;"	e	enum:yytokentype
+NUM	sql_yacc.cpp	/^    NUM = 617,$/;"	e	enum:yytokentype	file:
+NUM	sql_yacc.hpp	/^    NUM = 617,$/;"	e	enum:yytokentype
+NUMBER_SYM	sql_yacc.cpp	/^    NUMBER_SYM = 618,$/;"	e	enum:yytokentype	file:
+NUMBER_SYM	sql_yacc.hpp	/^    NUMBER_SYM = 618,$/;"	e	enum:yytokentype
+NUMERIC_SYM	sql_yacc.cpp	/^    NUMERIC_SYM = 619,$/;"	e	enum:yytokentype	file:
+NUMERIC_SYM	sql_yacc.hpp	/^    NUMERIC_SYM = 619,$/;"	e	enum:yytokentype
+NUM_literal	sql_yacc.y	/^NUM_literal:$/;"	l
+NUM_literal	sql_yacc_simple.y	/^NUM_literal:$/;"	l
+NVARCHAR_SYM	sql_yacc.cpp	/^    NVARCHAR_SYM = 620,$/;"	e	enum:yytokentype	file:
+NVARCHAR_SYM	sql_yacc.hpp	/^    NVARCHAR_SYM = 620,$/;"	e	enum:yytokentype
+OBJ	Makefile	/^OBJ=sql_parser.o sql_yacc.o sql_lex.o sql_desc.o$/;"	m
+OFFSET_SYM	sql_yacc.cpp	/^    OFFSET_SYM = 621,$/;"	e	enum:yytokentype	file:
+OFFSET_SYM	sql_yacc.hpp	/^    OFFSET_SYM = 621,$/;"	e	enum:yytokentype
+ON	sql_yacc.cpp	/^    ON = 622,$/;"	e	enum:yytokentype	file:
+ON	sql_yacc.hpp	/^    ON = 622,$/;"	e	enum:yytokentype
+ONE_SYM	sql_yacc.cpp	/^    ONE_SYM = 623,$/;"	e	enum:yytokentype	file:
+ONE_SYM	sql_yacc.hpp	/^    ONE_SYM = 623,$/;"	e	enum:yytokentype
+ONLY_SYM	sql_yacc.cpp	/^    ONLY_SYM = 624,$/;"	e	enum:yytokentype	file:
+ONLY_SYM	sql_yacc.hpp	/^    ONLY_SYM = 624,$/;"	e	enum:yytokentype
+OPEN_SYM	sql_yacc.cpp	/^    OPEN_SYM = 625,$/;"	e	enum:yytokentype	file:
+OPEN_SYM	sql_yacc.hpp	/^    OPEN_SYM = 625,$/;"	e	enum:yytokentype
+OPTIMIZE	sql_yacc.cpp	/^    OPTIMIZE = 626,$/;"	e	enum:yytokentype	file:
+OPTIMIZE	sql_yacc.hpp	/^    OPTIMIZE = 626,$/;"	e	enum:yytokentype
+OPTIMIZER_COSTS_SYM	sql_yacc.cpp	/^    OPTIMIZER_COSTS_SYM = 627,$/;"	e	enum:yytokentype	file:
+OPTIMIZER_COSTS_SYM	sql_yacc.hpp	/^    OPTIMIZER_COSTS_SYM = 627,$/;"	e	enum:yytokentype
+OPTION	sql_yacc.cpp	/^    OPTION = 629,$/;"	e	enum:yytokentype	file:
+OPTION	sql_yacc.hpp	/^    OPTION = 629,$/;"	e	enum:yytokentype
+OPTIONALLY	sql_yacc.cpp	/^    OPTIONALLY = 630,$/;"	e	enum:yytokentype	file:
+OPTIONALLY	sql_yacc.hpp	/^    OPTIONALLY = 630,$/;"	e	enum:yytokentype
+OPTIONS_SYM	sql_yacc.cpp	/^    OPTIONS_SYM = 628,$/;"	e	enum:yytokentype	file:
+OPTIONS_SYM	sql_yacc.hpp	/^    OPTIONS_SYM = 628,$/;"	e	enum:yytokentype
+OR2_SYM	sql_yacc.cpp	/^    OR2_SYM = 631,$/;"	e	enum:yytokentype	file:
+OR2_SYM	sql_yacc.hpp	/^    OR2_SYM = 631,$/;"	e	enum:yytokentype
+ORDER_SYM	sql_yacc.cpp	/^    ORDER_SYM = 632,$/;"	e	enum:yytokentype	file:
+ORDER_SYM	sql_yacc.hpp	/^    ORDER_SYM = 632,$/;"	e	enum:yytokentype
+OR_OR_SYM	sql_yacc.cpp	/^    OR_OR_SYM = 633,$/;"	e	enum:yytokentype	file:
+OR_OR_SYM	sql_yacc.hpp	/^    OR_OR_SYM = 633,$/;"	e	enum:yytokentype
+OR_SYM	sql_yacc.cpp	/^    OR_SYM = 634,$/;"	e	enum:yytokentype	file:
+OR_SYM	sql_yacc.hpp	/^    OR_SYM = 634,$/;"	e	enum:yytokentype
+OUTER	sql_yacc.cpp	/^    OUTER = 635,$/;"	e	enum:yytokentype	file:
+OUTER	sql_yacc.hpp	/^    OUTER = 635,$/;"	e	enum:yytokentype
+OUTFILE	sql_yacc.cpp	/^    OUTFILE = 636,$/;"	e	enum:yytokentype	file:
+OUTFILE	sql_yacc.hpp	/^    OUTFILE = 636,$/;"	e	enum:yytokentype
+OUT_SYM	sql_yacc.cpp	/^    OUT_SYM = 637,$/;"	e	enum:yytokentype	file:
+OUT_SYM	sql_yacc.hpp	/^    OUT_SYM = 637,$/;"	e	enum:yytokentype
+OWNER_SYM	sql_yacc.cpp	/^    OWNER_SYM = 638,$/;"	e	enum:yytokentype	file:
+OWNER_SYM	sql_yacc.hpp	/^    OWNER_SYM = 638,$/;"	e	enum:yytokentype
+PACK_KEYS_SYM	sql_yacc.cpp	/^    PACK_KEYS_SYM = 639,$/;"	e	enum:yytokentype	file:
+PACK_KEYS_SYM	sql_yacc.hpp	/^    PACK_KEYS_SYM = 639,$/;"	e	enum:yytokentype
+PAGE_SYM	sql_yacc.cpp	/^    PAGE_SYM = 640,$/;"	e	enum:yytokentype	file:
+PAGE_SYM	sql_yacc.hpp	/^    PAGE_SYM = 640,$/;"	e	enum:yytokentype
+PARAM_MARKER	sql_yacc.cpp	/^    PARAM_MARKER = 641,$/;"	e	enum:yytokentype	file:
+PARAM_MARKER	sql_yacc.hpp	/^    PARAM_MARKER = 641,$/;"	e	enum:yytokentype
+PARSER_SYM	sql_yacc.cpp	/^    PARSER_SYM = 642,$/;"	e	enum:yytokentype	file:
+PARSER_SYM	sql_yacc.hpp	/^    PARSER_SYM = 642,$/;"	e	enum:yytokentype
+PARTIAL	sql_yacc.cpp	/^    PARTIAL = 643,$/;"	e	enum:yytokentype	file:
+PARTIAL	sql_yacc.hpp	/^    PARTIAL = 643,$/;"	e	enum:yytokentype
+PARTITIONING_SYM	sql_yacc.cpp	/^    PARTITIONING_SYM = 646,$/;"	e	enum:yytokentype	file:
+PARTITIONING_SYM	sql_yacc.hpp	/^    PARTITIONING_SYM = 646,$/;"	e	enum:yytokentype
+PARTITIONS_SYM	sql_yacc.cpp	/^    PARTITIONS_SYM = 645,$/;"	e	enum:yytokentype	file:
+PARTITIONS_SYM	sql_yacc.hpp	/^    PARTITIONS_SYM = 645,$/;"	e	enum:yytokentype
+PARTITION_SYM	sql_yacc.cpp	/^    PARTITION_SYM = 644,$/;"	e	enum:yytokentype	file:
+PARTITION_SYM	sql_yacc.hpp	/^    PARTITION_SYM = 644,$/;"	e	enum:yytokentype
+PASSWORD	sql_yacc.cpp	/^    PASSWORD = 647,$/;"	e	enum:yytokentype	file:
+PASSWORD	sql_yacc.hpp	/^    PASSWORD = 647,$/;"	e	enum:yytokentype
+PHASE_SYM	sql_yacc.cpp	/^    PHASE_SYM = 648,$/;"	e	enum:yytokentype	file:
+PHASE_SYM	sql_yacc.hpp	/^    PHASE_SYM = 648,$/;"	e	enum:yytokentype
+PLUGINS_SYM	sql_yacc.cpp	/^    PLUGINS_SYM = 651,$/;"	e	enum:yytokentype	file:
+PLUGINS_SYM	sql_yacc.hpp	/^    PLUGINS_SYM = 651,$/;"	e	enum:yytokentype
+PLUGIN_DIR_SYM	sql_yacc.cpp	/^    PLUGIN_DIR_SYM = 649,$/;"	e	enum:yytokentype	file:
+PLUGIN_DIR_SYM	sql_yacc.hpp	/^    PLUGIN_DIR_SYM = 649,$/;"	e	enum:yytokentype
+PLUGIN_SYM	sql_yacc.cpp	/^    PLUGIN_SYM = 650,$/;"	e	enum:yytokentype	file:
+PLUGIN_SYM	sql_yacc.hpp	/^    PLUGIN_SYM = 650,$/;"	e	enum:yytokentype
+POINT_SYM	sql_yacc.cpp	/^    POINT_SYM = 652,$/;"	e	enum:yytokentype	file:
+POINT_SYM	sql_yacc.hpp	/^    POINT_SYM = 652,$/;"	e	enum:yytokentype
+POLYGON	sql_yacc.cpp	/^    POLYGON = 653,$/;"	e	enum:yytokentype	file:
+POLYGON	sql_yacc.hpp	/^    POLYGON = 653,$/;"	e	enum:yytokentype
+PORT_SYM	sql_yacc.cpp	/^    PORT_SYM = 654,$/;"	e	enum:yytokentype	file:
+PORT_SYM	sql_yacc.hpp	/^    PORT_SYM = 654,$/;"	e	enum:yytokentype
+POSITION_SYM	sql_yacc.cpp	/^    POSITION_SYM = 655,$/;"	e	enum:yytokentype	file:
+POSITION_SYM	sql_yacc.hpp	/^    POSITION_SYM = 655,$/;"	e	enum:yytokentype
+PRECEDES_SYM	sql_yacc.cpp	/^    PRECEDES_SYM = 656,$/;"	e	enum:yytokentype	file:
+PRECEDES_SYM	sql_yacc.hpp	/^    PRECEDES_SYM = 656,$/;"	e	enum:yytokentype
+PRECISION	sql_yacc.cpp	/^    PRECISION = 657,$/;"	e	enum:yytokentype	file:
+PRECISION	sql_yacc.hpp	/^    PRECISION = 657,$/;"	e	enum:yytokentype
+PREPARE_SYM	sql_yacc.cpp	/^    PREPARE_SYM = 658,$/;"	e	enum:yytokentype	file:
+PREPARE_SYM	sql_yacc.hpp	/^    PREPARE_SYM = 658,$/;"	e	enum:yytokentype
+PRESERVE_SYM	sql_yacc.cpp	/^    PRESERVE_SYM = 659,$/;"	e	enum:yytokentype	file:
+PRESERVE_SYM	sql_yacc.hpp	/^    PRESERVE_SYM = 659,$/;"	e	enum:yytokentype
+PREV_SYM	sql_yacc.cpp	/^    PREV_SYM = 660,$/;"	e	enum:yytokentype	file:
+PREV_SYM	sql_yacc.hpp	/^    PREV_SYM = 660,$/;"	e	enum:yytokentype
+PRG	Makefile	/^PRG=sql_parser$/;"	m
+PRIMARY_SYM	sql_yacc.cpp	/^    PRIMARY_SYM = 661,$/;"	e	enum:yytokentype	file:
+PRIMARY_SYM	sql_yacc.hpp	/^    PRIMARY_SYM = 661,$/;"	e	enum:yytokentype
+PRIVILEGES	sql_yacc.cpp	/^    PRIVILEGES = 662,$/;"	e	enum:yytokentype	file:
+PRIVILEGES	sql_yacc.hpp	/^    PRIVILEGES = 662,$/;"	e	enum:yytokentype
+PROCEDURE_SYM	sql_yacc.cpp	/^    PROCEDURE_SYM = 663,$/;"	e	enum:yytokentype	file:
+PROCEDURE_SYM	sql_yacc.hpp	/^    PROCEDURE_SYM = 663,$/;"	e	enum:yytokentype
+PROCESS	sql_yacc.cpp	/^    PROCESS = 664,$/;"	e	enum:yytokentype	file:
+PROCESS	sql_yacc.hpp	/^    PROCESS = 664,$/;"	e	enum:yytokentype
+PROCESSLIST_SYM	sql_yacc.cpp	/^    PROCESSLIST_SYM = 665,$/;"	e	enum:yytokentype	file:
+PROCESSLIST_SYM	sql_yacc.hpp	/^    PROCESSLIST_SYM = 665,$/;"	e	enum:yytokentype
+PROFILES_SYM	sql_yacc.cpp	/^    PROFILES_SYM = 667,$/;"	e	enum:yytokentype	file:
+PROFILES_SYM	sql_yacc.hpp	/^    PROFILES_SYM = 667,$/;"	e	enum:yytokentype
+PROFILE_SYM	sql_yacc.cpp	/^    PROFILE_SYM = 666,$/;"	e	enum:yytokentype	file:
+PROFILE_SYM	sql_yacc.hpp	/^    PROFILE_SYM = 666,$/;"	e	enum:yytokentype
+PROXY_SYM	sql_yacc.cpp	/^    PROXY_SYM = 668,$/;"	e	enum:yytokentype	file:
+PROXY_SYM	sql_yacc.hpp	/^    PROXY_SYM = 668,$/;"	e	enum:yytokentype
+PURGE	sql_yacc.cpp	/^    PURGE = 669,$/;"	e	enum:yytokentype	file:
+PURGE	sql_yacc.hpp	/^    PURGE = 669,$/;"	e	enum:yytokentype
+QUARTER_SYM	sql_yacc.cpp	/^    QUARTER_SYM = 670,$/;"	e	enum:yytokentype	file:
+QUARTER_SYM	sql_yacc.hpp	/^    QUARTER_SYM = 670,$/;"	e	enum:yytokentype
+QUERY_SYM	sql_yacc.cpp	/^    QUERY_SYM = 671,$/;"	e	enum:yytokentype	file:
+QUERY_SYM	sql_yacc.hpp	/^    QUERY_SYM = 671,$/;"	e	enum:yytokentype
+QUICK	sql_yacc.cpp	/^    QUICK = 672,$/;"	e	enum:yytokentype	file:
+QUICK	sql_yacc.hpp	/^    QUICK = 672,$/;"	e	enum:yytokentype
+RANGE_SYM	sql_yacc.cpp	/^    RANGE_SYM = 673,$/;"	e	enum:yytokentype	file:
+RANGE_SYM	sql_yacc.hpp	/^    RANGE_SYM = 673,$/;"	e	enum:yytokentype
+READS_SYM	sql_yacc.cpp	/^    READS_SYM = 674,$/;"	e	enum:yytokentype	file:
+READS_SYM	sql_yacc.hpp	/^    READS_SYM = 674,$/;"	e	enum:yytokentype
+READ_ONLY_SYM	sql_yacc.cpp	/^    READ_ONLY_SYM = 675,$/;"	e	enum:yytokentype	file:
+READ_ONLY_SYM	sql_yacc.hpp	/^    READ_ONLY_SYM = 675,$/;"	e	enum:yytokentype
+READ_SYM	sql_yacc.cpp	/^    READ_SYM = 676,$/;"	e	enum:yytokentype	file:
+READ_SYM	sql_yacc.hpp	/^    READ_SYM = 676,$/;"	e	enum:yytokentype
+READ_WRITE_SYM	sql_yacc.cpp	/^    READ_WRITE_SYM = 677,$/;"	e	enum:yytokentype	file:
+READ_WRITE_SYM	sql_yacc.hpp	/^    READ_WRITE_SYM = 677,$/;"	e	enum:yytokentype
+REAL	sql_yacc.cpp	/^    REAL = 678,$/;"	e	enum:yytokentype	file:
+REAL	sql_yacc.hpp	/^    REAL = 678,$/;"	e	enum:yytokentype
+REBUILD_SYM	sql_yacc.cpp	/^    REBUILD_SYM = 679,$/;"	e	enum:yytokentype	file:
+REBUILD_SYM	sql_yacc.hpp	/^    REBUILD_SYM = 679,$/;"	e	enum:yytokentype
+RECOVER_SYM	sql_yacc.cpp	/^    RECOVER_SYM = 680,$/;"	e	enum:yytokentype	file:
+RECOVER_SYM	sql_yacc.hpp	/^    RECOVER_SYM = 680,$/;"	e	enum:yytokentype
+REDOFILE_SYM	sql_yacc.cpp	/^    REDOFILE_SYM = 681,$/;"	e	enum:yytokentype	file:
+REDOFILE_SYM	sql_yacc.hpp	/^    REDOFILE_SYM = 681,$/;"	e	enum:yytokentype
+REDO_BUFFER_SIZE_SYM	sql_yacc.cpp	/^    REDO_BUFFER_SIZE_SYM = 682,$/;"	e	enum:yytokentype	file:
+REDO_BUFFER_SIZE_SYM	sql_yacc.hpp	/^    REDO_BUFFER_SIZE_SYM = 682,$/;"	e	enum:yytokentype
+REDUNDANT_SYM	sql_yacc.cpp	/^    REDUNDANT_SYM = 683,$/;"	e	enum:yytokentype	file:
+REDUNDANT_SYM	sql_yacc.hpp	/^    REDUNDANT_SYM = 683,$/;"	e	enum:yytokentype
+REFERENCES	sql_yacc.cpp	/^    REFERENCES = 684,$/;"	e	enum:yytokentype	file:
+REFERENCES	sql_yacc.hpp	/^    REFERENCES = 684,$/;"	e	enum:yytokentype
+REGEXP	sql_yacc.cpp	/^    REGEXP = 685,$/;"	e	enum:yytokentype	file:
+REGEXP	sql_yacc.hpp	/^    REGEXP = 685,$/;"	e	enum:yytokentype
+RELAY	sql_yacc.cpp	/^    RELAY = 686,$/;"	e	enum:yytokentype	file:
+RELAY	sql_yacc.hpp	/^    RELAY = 686,$/;"	e	enum:yytokentype
+RELAYLOG_SYM	sql_yacc.cpp	/^    RELAYLOG_SYM = 687,$/;"	e	enum:yytokentype	file:
+RELAYLOG_SYM	sql_yacc.hpp	/^    RELAYLOG_SYM = 687,$/;"	e	enum:yytokentype
+RELAY_LOG_FILE_SYM	sql_yacc.cpp	/^    RELAY_LOG_FILE_SYM = 688,$/;"	e	enum:yytokentype	file:
+RELAY_LOG_FILE_SYM	sql_yacc.hpp	/^    RELAY_LOG_FILE_SYM = 688,$/;"	e	enum:yytokentype
+RELAY_LOG_POS_SYM	sql_yacc.cpp	/^    RELAY_LOG_POS_SYM = 689,$/;"	e	enum:yytokentype	file:
+RELAY_LOG_POS_SYM	sql_yacc.hpp	/^    RELAY_LOG_POS_SYM = 689,$/;"	e	enum:yytokentype
+RELAY_THREAD	sql_yacc.cpp	/^    RELAY_THREAD = 690,$/;"	e	enum:yytokentype	file:
+RELAY_THREAD	sql_yacc.hpp	/^    RELAY_THREAD = 690,$/;"	e	enum:yytokentype
+RELEASE_SYM	sql_yacc.cpp	/^    RELEASE_SYM = 691,$/;"	e	enum:yytokentype	file:
+RELEASE_SYM	sql_yacc.hpp	/^    RELEASE_SYM = 691,$/;"	e	enum:yytokentype
+RELOAD	sql_yacc.cpp	/^    RELOAD = 692,$/;"	e	enum:yytokentype	file:
+RELOAD	sql_yacc.hpp	/^    RELOAD = 692,$/;"	e	enum:yytokentype
+REMOVE_SYM	sql_yacc.cpp	/^    REMOVE_SYM = 693,$/;"	e	enum:yytokentype	file:
+REMOVE_SYM	sql_yacc.hpp	/^    REMOVE_SYM = 693,$/;"	e	enum:yytokentype
+RENAME	sql_yacc.cpp	/^    RENAME = 694,$/;"	e	enum:yytokentype	file:
+RENAME	sql_yacc.hpp	/^    RENAME = 694,$/;"	e	enum:yytokentype
+REORGANIZE_SYM	sql_yacc.cpp	/^    REORGANIZE_SYM = 695,$/;"	e	enum:yytokentype	file:
+REORGANIZE_SYM	sql_yacc.hpp	/^    REORGANIZE_SYM = 695,$/;"	e	enum:yytokentype
+REPAIR	sql_yacc.cpp	/^    REPAIR = 696,$/;"	e	enum:yytokentype	file:
+REPAIR	sql_yacc.hpp	/^    REPAIR = 696,$/;"	e	enum:yytokentype
+REPEATABLE_SYM	sql_yacc.cpp	/^    REPEATABLE_SYM = 697,$/;"	e	enum:yytokentype	file:
+REPEATABLE_SYM	sql_yacc.hpp	/^    REPEATABLE_SYM = 697,$/;"	e	enum:yytokentype
+REPEAT_SYM	sql_yacc.cpp	/^    REPEAT_SYM = 698,$/;"	e	enum:yytokentype	file:
+REPEAT_SYM	sql_yacc.hpp	/^    REPEAT_SYM = 698,$/;"	e	enum:yytokentype
+REPLACE	sql_yacc.cpp	/^    REPLACE = 699,$/;"	e	enum:yytokentype	file:
+REPLACE	sql_yacc.hpp	/^    REPLACE = 699,$/;"	e	enum:yytokentype
+REPLICATE_DO_DB	sql_yacc.cpp	/^    REPLICATE_DO_DB = 701,$/;"	e	enum:yytokentype	file:
+REPLICATE_DO_DB	sql_yacc.hpp	/^    REPLICATE_DO_DB = 701,$/;"	e	enum:yytokentype
+REPLICATE_DO_TABLE	sql_yacc.cpp	/^    REPLICATE_DO_TABLE = 703,$/;"	e	enum:yytokentype	file:
+REPLICATE_DO_TABLE	sql_yacc.hpp	/^    REPLICATE_DO_TABLE = 703,$/;"	e	enum:yytokentype
+REPLICATE_IGNORE_DB	sql_yacc.cpp	/^    REPLICATE_IGNORE_DB = 702,$/;"	e	enum:yytokentype	file:
+REPLICATE_IGNORE_DB	sql_yacc.hpp	/^    REPLICATE_IGNORE_DB = 702,$/;"	e	enum:yytokentype
+REPLICATE_IGNORE_TABLE	sql_yacc.cpp	/^    REPLICATE_IGNORE_TABLE = 704,$/;"	e	enum:yytokentype	file:
+REPLICATE_IGNORE_TABLE	sql_yacc.hpp	/^    REPLICATE_IGNORE_TABLE = 704,$/;"	e	enum:yytokentype
+REPLICATE_REWRITE_DB	sql_yacc.cpp	/^    REPLICATE_REWRITE_DB = 707,$/;"	e	enum:yytokentype	file:
+REPLICATE_REWRITE_DB	sql_yacc.hpp	/^    REPLICATE_REWRITE_DB = 707,$/;"	e	enum:yytokentype
+REPLICATE_WILD_DO_TABLE	sql_yacc.cpp	/^    REPLICATE_WILD_DO_TABLE = 705,$/;"	e	enum:yytokentype	file:
+REPLICATE_WILD_DO_TABLE	sql_yacc.hpp	/^    REPLICATE_WILD_DO_TABLE = 705,$/;"	e	enum:yytokentype
+REPLICATE_WILD_IGNORE_TABLE	sql_yacc.cpp	/^    REPLICATE_WILD_IGNORE_TABLE = 706,$/;"	e	enum:yytokentype	file:
+REPLICATE_WILD_IGNORE_TABLE	sql_yacc.hpp	/^    REPLICATE_WILD_IGNORE_TABLE = 706,$/;"	e	enum:yytokentype
+REPLICATION	sql_yacc.cpp	/^    REPLICATION = 700,$/;"	e	enum:yytokentype	file:
+REPLICATION	sql_yacc.hpp	/^    REPLICATION = 700,$/;"	e	enum:yytokentype
+REQUIRE_SYM	sql_yacc.cpp	/^    REQUIRE_SYM = 708,$/;"	e	enum:yytokentype	file:
+REQUIRE_SYM	sql_yacc.hpp	/^    REQUIRE_SYM = 708,$/;"	e	enum:yytokentype
+RESET_SYM	sql_yacc.cpp	/^    RESET_SYM = 709,$/;"	e	enum:yytokentype	file:
+RESET_SYM	sql_yacc.hpp	/^    RESET_SYM = 709,$/;"	e	enum:yytokentype
+RESIGNAL_SYM	sql_yacc.cpp	/^    RESIGNAL_SYM = 710,$/;"	e	enum:yytokentype	file:
+RESIGNAL_SYM	sql_yacc.hpp	/^    RESIGNAL_SYM = 710,$/;"	e	enum:yytokentype
+RESOURCES	sql_yacc.cpp	/^    RESOURCES = 711,$/;"	e	enum:yytokentype	file:
+RESOURCES	sql_yacc.hpp	/^    RESOURCES = 711,$/;"	e	enum:yytokentype
+RESTORE_SYM	sql_yacc.cpp	/^    RESTORE_SYM = 712,$/;"	e	enum:yytokentype	file:
+RESTORE_SYM	sql_yacc.hpp	/^    RESTORE_SYM = 712,$/;"	e	enum:yytokentype
+RESTRICT	sql_yacc.cpp	/^    RESTRICT = 713,$/;"	e	enum:yytokentype	file:
+RESTRICT	sql_yacc.hpp	/^    RESTRICT = 713,$/;"	e	enum:yytokentype
+RESUME_SYM	sql_yacc.cpp	/^    RESUME_SYM = 714,$/;"	e	enum:yytokentype	file:
+RESUME_SYM	sql_yacc.hpp	/^    RESUME_SYM = 714,$/;"	e	enum:yytokentype
+RETURNED_SQLSTATE_SYM	sql_yacc.cpp	/^    RETURNED_SQLSTATE_SYM = 715,$/;"	e	enum:yytokentype	file:
+RETURNED_SQLSTATE_SYM	sql_yacc.hpp	/^    RETURNED_SQLSTATE_SYM = 715,$/;"	e	enum:yytokentype
+RETURNS_SYM	sql_yacc.cpp	/^    RETURNS_SYM = 716,$/;"	e	enum:yytokentype	file:
+RETURNS_SYM	sql_yacc.hpp	/^    RETURNS_SYM = 716,$/;"	e	enum:yytokentype
+RETURN_SYM	sql_yacc.cpp	/^    RETURN_SYM = 717,$/;"	e	enum:yytokentype	file:
+RETURN_SYM	sql_yacc.hpp	/^    RETURN_SYM = 717,$/;"	e	enum:yytokentype
+REVERSE_SYM	sql_yacc.cpp	/^    REVERSE_SYM = 718,$/;"	e	enum:yytokentype	file:
+REVERSE_SYM	sql_yacc.hpp	/^    REVERSE_SYM = 718,$/;"	e	enum:yytokentype
+REVOKE	sql_yacc.cpp	/^    REVOKE = 719,$/;"	e	enum:yytokentype	file:
+REVOKE	sql_yacc.hpp	/^    REVOKE = 719,$/;"	e	enum:yytokentype
+RIGHT	sql_yacc.cpp	/^    RIGHT = 720,$/;"	e	enum:yytokentype	file:
+RIGHT	sql_yacc.hpp	/^    RIGHT = 720,$/;"	e	enum:yytokentype
+ROLLBACK_SYM	sql_yacc.cpp	/^    ROLLBACK_SYM = 721,$/;"	e	enum:yytokentype	file:
+ROLLBACK_SYM	sql_yacc.hpp	/^    ROLLBACK_SYM = 721,$/;"	e	enum:yytokentype
+ROLLUP_SYM	sql_yacc.cpp	/^    ROLLUP_SYM = 722,$/;"	e	enum:yytokentype	file:
+ROLLUP_SYM	sql_yacc.hpp	/^    ROLLUP_SYM = 722,$/;"	e	enum:yytokentype
+ROUTINE_SYM	sql_yacc.cpp	/^    ROUTINE_SYM = 723,$/;"	e	enum:yytokentype	file:
+ROUTINE_SYM	sql_yacc.hpp	/^    ROUTINE_SYM = 723,$/;"	e	enum:yytokentype
+ROWS_SYM	sql_yacc.cpp	/^    ROWS_SYM = 724,$/;"	e	enum:yytokentype	file:
+ROWS_SYM	sql_yacc.hpp	/^    ROWS_SYM = 724,$/;"	e	enum:yytokentype
+ROW_COUNT_SYM	sql_yacc.cpp	/^    ROW_COUNT_SYM = 727,$/;"	e	enum:yytokentype	file:
+ROW_COUNT_SYM	sql_yacc.hpp	/^    ROW_COUNT_SYM = 727,$/;"	e	enum:yytokentype
+ROW_FORMAT_SYM	sql_yacc.cpp	/^    ROW_FORMAT_SYM = 725,$/;"	e	enum:yytokentype	file:
+ROW_FORMAT_SYM	sql_yacc.hpp	/^    ROW_FORMAT_SYM = 725,$/;"	e	enum:yytokentype
+ROW_SYM	sql_yacc.cpp	/^    ROW_SYM = 726,$/;"	e	enum:yytokentype	file:
+ROW_SYM	sql_yacc.hpp	/^    ROW_SYM = 726,$/;"	e	enum:yytokentype
+RTREE_SYM	sql_yacc.cpp	/^    RTREE_SYM = 728,$/;"	e	enum:yytokentype	file:
+RTREE_SYM	sql_yacc.hpp	/^    RTREE_SYM = 728,$/;"	e	enum:yytokentype
+SAVEPOINT_SYM	sql_yacc.cpp	/^    SAVEPOINT_SYM = 729,$/;"	e	enum:yytokentype	file:
+SAVEPOINT_SYM	sql_yacc.hpp	/^    SAVEPOINT_SYM = 729,$/;"	e	enum:yytokentype
+SAVE_TOKEN	sql_lex.cpp	24;"	d	file:
+SCANNER_END	lex_global.h	/^  SCANNER_END,$/;"	e	enum:scanner_state
+SCANNER_START	lex_global.h	/^  SCANNER_START,$/;"	e	enum:scanner_state
+SCHEDULE_SYM	sql_yacc.cpp	/^    SCHEDULE_SYM = 730,$/;"	e	enum:yytokentype	file:
+SCHEDULE_SYM	sql_yacc.hpp	/^    SCHEDULE_SYM = 730,$/;"	e	enum:yytokentype
+SCHEMA_NAME_SYM	sql_yacc.cpp	/^    SCHEMA_NAME_SYM = 731,$/;"	e	enum:yytokentype	file:
+SCHEMA_NAME_SYM	sql_yacc.hpp	/^    SCHEMA_NAME_SYM = 731,$/;"	e	enum:yytokentype
+SECOND_MICROSECOND_SYM	sql_yacc.cpp	/^    SECOND_MICROSECOND_SYM = 732,$/;"	e	enum:yytokentype	file:
+SECOND_MICROSECOND_SYM	sql_yacc.hpp	/^    SECOND_MICROSECOND_SYM = 732,$/;"	e	enum:yytokentype
+SECOND_SYM	sql_yacc.cpp	/^    SECOND_SYM = 733,$/;"	e	enum:yytokentype	file:
+SECOND_SYM	sql_yacc.hpp	/^    SECOND_SYM = 733,$/;"	e	enum:yytokentype
+SECURITY_SYM	sql_yacc.cpp	/^    SECURITY_SYM = 734,$/;"	e	enum:yytokentype	file:
+SECURITY_SYM	sql_yacc.hpp	/^    SECURITY_SYM = 734,$/;"	e	enum:yytokentype
+SELECT_SYM	sql_yacc.cpp	/^    SELECT_SYM = 735,$/;"	e	enum:yytokentype	file:
+SELECT_SYM	sql_yacc.hpp	/^    SELECT_SYM = 735,$/;"	e	enum:yytokentype
+SENSITIVE_SYM	sql_yacc.cpp	/^    SENSITIVE_SYM = 736,$/;"	e	enum:yytokentype	file:
+SENSITIVE_SYM	sql_yacc.hpp	/^    SENSITIVE_SYM = 736,$/;"	e	enum:yytokentype
+SEPARATOR_SYM	sql_yacc.cpp	/^    SEPARATOR_SYM = 737,$/;"	e	enum:yytokentype	file:
+SEPARATOR_SYM	sql_yacc.hpp	/^    SEPARATOR_SYM = 737,$/;"	e	enum:yytokentype
+SERIALIZABLE_SYM	sql_yacc.cpp	/^    SERIALIZABLE_SYM = 738,$/;"	e	enum:yytokentype	file:
+SERIALIZABLE_SYM	sql_yacc.hpp	/^    SERIALIZABLE_SYM = 738,$/;"	e	enum:yytokentype
+SERIAL_SYM	sql_yacc.cpp	/^    SERIAL_SYM = 739,$/;"	e	enum:yytokentype	file:
+SERIAL_SYM	sql_yacc.hpp	/^    SERIAL_SYM = 739,$/;"	e	enum:yytokentype
+SERVER_OPTIONS	sql_yacc.cpp	/^    SERVER_OPTIONS = 742,$/;"	e	enum:yytokentype	file:
+SERVER_OPTIONS	sql_yacc.hpp	/^    SERVER_OPTIONS = 742,$/;"	e	enum:yytokentype
+SERVER_SYM	sql_yacc.cpp	/^    SERVER_SYM = 741,$/;"	e	enum:yytokentype	file:
+SERVER_SYM	sql_yacc.hpp	/^    SERVER_SYM = 741,$/;"	e	enum:yytokentype
+SESSION_SYM	sql_yacc.cpp	/^    SESSION_SYM = 740,$/;"	e	enum:yytokentype	file:
+SESSION_SYM	sql_yacc.hpp	/^    SESSION_SYM = 740,$/;"	e	enum:yytokentype
+SET	sql_yacc.cpp	/^    SET = 743,$/;"	e	enum:yytokentype	file:
+SET	sql_yacc.hpp	/^    SET = 743,$/;"	e	enum:yytokentype
+SET_VAR	sql_yacc.cpp	/^    SET_VAR = 744,$/;"	e	enum:yytokentype	file:
+SET_VAR	sql_yacc.hpp	/^    SET_VAR = 744,$/;"	e	enum:yytokentype
+SHARE_SYM	sql_yacc.cpp	/^    SHARE_SYM = 745,$/;"	e	enum:yytokentype	file:
+SHARE_SYM	sql_yacc.hpp	/^    SHARE_SYM = 745,$/;"	e	enum:yytokentype
+SHIFT_LEFT	sql_yacc.cpp	/^    SHIFT_LEFT = 746,$/;"	e	enum:yytokentype	file:
+SHIFT_LEFT	sql_yacc.hpp	/^    SHIFT_LEFT = 746,$/;"	e	enum:yytokentype
+SHIFT_RIGHT	sql_yacc.cpp	/^    SHIFT_RIGHT = 747,$/;"	e	enum:yytokentype	file:
+SHIFT_RIGHT	sql_yacc.hpp	/^    SHIFT_RIGHT = 747,$/;"	e	enum:yytokentype
+SHOW	sql_yacc.cpp	/^    SHOW = 748,$/;"	e	enum:yytokentype	file:
+SHOW	sql_yacc.hpp	/^    SHOW = 748,$/;"	e	enum:yytokentype
+SHUTDOWN	sql_yacc.cpp	/^    SHUTDOWN = 749,$/;"	e	enum:yytokentype	file:
+SHUTDOWN	sql_yacc.hpp	/^    SHUTDOWN = 749,$/;"	e	enum:yytokentype
+SIGNAL_SYM	sql_yacc.cpp	/^    SIGNAL_SYM = 750,$/;"	e	enum:yytokentype	file:
+SIGNAL_SYM	sql_yacc.hpp	/^    SIGNAL_SYM = 750,$/;"	e	enum:yytokentype
+SIGNED_SYM	sql_yacc.cpp	/^    SIGNED_SYM = 751,$/;"	e	enum:yytokentype	file:
+SIGNED_SYM	sql_yacc.hpp	/^    SIGNED_SYM = 751,$/;"	e	enum:yytokentype
+SIMPLE_SYM	sql_yacc.cpp	/^    SIMPLE_SYM = 752,$/;"	e	enum:yytokentype	file:
+SIMPLE_SYM	sql_yacc.hpp	/^    SIMPLE_SYM = 752,$/;"	e	enum:yytokentype
+SLAVE	sql_yacc.cpp	/^    SLAVE = 753,$/;"	e	enum:yytokentype	file:
+SLAVE	sql_yacc.hpp	/^    SLAVE = 753,$/;"	e	enum:yytokentype
+SLOW	sql_yacc.cpp	/^    SLOW = 754,$/;"	e	enum:yytokentype	file:
+SLOW	sql_yacc.hpp	/^    SLOW = 754,$/;"	e	enum:yytokentype
+SMALLINT	sql_yacc.cpp	/^    SMALLINT = 755,$/;"	e	enum:yytokentype	file:
+SMALLINT	sql_yacc.hpp	/^    SMALLINT = 755,$/;"	e	enum:yytokentype
+SNAPSHOT_SYM	sql_yacc.cpp	/^    SNAPSHOT_SYM = 756,$/;"	e	enum:yytokentype	file:
+SNAPSHOT_SYM	sql_yacc.hpp	/^    SNAPSHOT_SYM = 756,$/;"	e	enum:yytokentype
+SOCKET_SYM	sql_yacc.cpp	/^    SOCKET_SYM = 757,$/;"	e	enum:yytokentype	file:
+SOCKET_SYM	sql_yacc.hpp	/^    SOCKET_SYM = 757,$/;"	e	enum:yytokentype
+SONAME_SYM	sql_yacc.cpp	/^    SONAME_SYM = 758,$/;"	e	enum:yytokentype	file:
+SONAME_SYM	sql_yacc.hpp	/^    SONAME_SYM = 758,$/;"	e	enum:yytokentype
+SOUNDS_SYM	sql_yacc.cpp	/^    SOUNDS_SYM = 759,$/;"	e	enum:yytokentype	file:
+SOUNDS_SYM	sql_yacc.hpp	/^    SOUNDS_SYM = 759,$/;"	e	enum:yytokentype
+SOURCE_SYM	sql_yacc.cpp	/^    SOURCE_SYM = 760,$/;"	e	enum:yytokentype	file:
+SOURCE_SYM	sql_yacc.hpp	/^    SOURCE_SYM = 760,$/;"	e	enum:yytokentype
+SPATIAL_SYM	sql_yacc.cpp	/^    SPATIAL_SYM = 761,$/;"	e	enum:yytokentype	file:
+SPATIAL_SYM	sql_yacc.hpp	/^    SPATIAL_SYM = 761,$/;"	e	enum:yytokentype
+SPECIFIC_SYM	sql_yacc.cpp	/^    SPECIFIC_SYM = 762,$/;"	e	enum:yytokentype	file:
+SPECIFIC_SYM	sql_yacc.hpp	/^    SPECIFIC_SYM = 762,$/;"	e	enum:yytokentype
+SQL	sql_desc.h	/^    SQL(): buffer(NULL){$/;"	f	class:SQL
+SQL	sql_desc.h	/^    SQL(Scanner *buffer) {$/;"	f	class:SQL
+SQL	sql_desc.h	/^class SQL{$/;"	c
+SQLEXCEPTION_SYM	sql_yacc.cpp	/^    SQLEXCEPTION_SYM = 763,$/;"	e	enum:yytokentype	file:
+SQLEXCEPTION_SYM	sql_yacc.hpp	/^    SQLEXCEPTION_SYM = 763,$/;"	e	enum:yytokentype
+SQLSTATE_SYM	sql_yacc.cpp	/^    SQLSTATE_SYM = 764,$/;"	e	enum:yytokentype	file:
+SQLSTATE_SYM	sql_yacc.hpp	/^    SQLSTATE_SYM = 764,$/;"	e	enum:yytokentype
+SQLWARNING_SYM	sql_yacc.cpp	/^    SQLWARNING_SYM = 765,$/;"	e	enum:yytokentype	file:
+SQLWARNING_SYM	sql_yacc.hpp	/^    SQLWARNING_SYM = 765,$/;"	e	enum:yytokentype
+SQL_AFTER_GTIDS	sql_yacc.cpp	/^    SQL_AFTER_GTIDS = 766,$/;"	e	enum:yytokentype	file:
+SQL_AFTER_GTIDS	sql_yacc.hpp	/^    SQL_AFTER_GTIDS = 766,$/;"	e	enum:yytokentype
+SQL_AFTER_MTS_GAPS	sql_yacc.cpp	/^    SQL_AFTER_MTS_GAPS = 767,$/;"	e	enum:yytokentype	file:
+SQL_AFTER_MTS_GAPS	sql_yacc.hpp	/^    SQL_AFTER_MTS_GAPS = 767,$/;"	e	enum:yytokentype
+SQL_BEFORE_GTIDS	sql_yacc.cpp	/^    SQL_BEFORE_GTIDS = 768,$/;"	e	enum:yytokentype	file:
+SQL_BEFORE_GTIDS	sql_yacc.hpp	/^    SQL_BEFORE_GTIDS = 768,$/;"	e	enum:yytokentype
+SQL_BIG_RESULT	sql_yacc.cpp	/^    SQL_BIG_RESULT = 769,$/;"	e	enum:yytokentype	file:
+SQL_BIG_RESULT	sql_yacc.hpp	/^    SQL_BIG_RESULT = 769,$/;"	e	enum:yytokentype
+SQL_BUFFER_RESULT	sql_yacc.cpp	/^    SQL_BUFFER_RESULT = 770,$/;"	e	enum:yytokentype	file:
+SQL_BUFFER_RESULT	sql_yacc.hpp	/^    SQL_BUFFER_RESULT = 770,$/;"	e	enum:yytokentype
+SQL_CACHE_SYM	sql_yacc.cpp	/^    SQL_CACHE_SYM = 771,$/;"	e	enum:yytokentype	file:
+SQL_CACHE_SYM	sql_yacc.hpp	/^    SQL_CACHE_SYM = 771,$/;"	e	enum:yytokentype
+SQL_CALC_FOUND_ROWS	sql_yacc.cpp	/^    SQL_CALC_FOUND_ROWS = 772,$/;"	e	enum:yytokentype	file:
+SQL_CALC_FOUND_ROWS	sql_yacc.hpp	/^    SQL_CALC_FOUND_ROWS = 772,$/;"	e	enum:yytokentype
+SQL_COMMON	sql_common.h	2;"	d
+SQL_DEBUG	sql_common.h	4;"	d
+SQL_NO_CACHE_SYM	sql_yacc.cpp	/^    SQL_NO_CACHE_SYM = 773,$/;"	e	enum:yytokentype	file:
+SQL_NO_CACHE_SYM	sql_yacc.hpp	/^    SQL_NO_CACHE_SYM = 773,$/;"	e	enum:yytokentype
+SQL_SMALL_RESULT	sql_yacc.cpp	/^    SQL_SMALL_RESULT = 774,$/;"	e	enum:yytokentype	file:
+SQL_SMALL_RESULT	sql_yacc.hpp	/^    SQL_SMALL_RESULT = 774,$/;"	e	enum:yytokentype
+SQL_STATEMENT	sql_desc.h	2;"	d
+SQL_SYM	sql_yacc.cpp	/^    SQL_SYM = 775,$/;"	e	enum:yytokentype	file:
+SQL_SYM	sql_yacc.hpp	/^    SQL_SYM = 775,$/;"	e	enum:yytokentype
+SQL_THREAD	sql_yacc.cpp	/^    SQL_THREAD = 776,$/;"	e	enum:yytokentype	file:
+SQL_THREAD	sql_yacc.hpp	/^    SQL_THREAD = 776,$/;"	e	enum:yytokentype
+SSL_SYM	sql_yacc.cpp	/^    SSL_SYM = 777,$/;"	e	enum:yytokentype	file:
+SSL_SYM	sql_yacc.hpp	/^    SSL_SYM = 777,$/;"	e	enum:yytokentype
+STACKED_SYM	sql_yacc.cpp	/^    STACKED_SYM = 778,$/;"	e	enum:yytokentype	file:
+STACKED_SYM	sql_yacc.hpp	/^    STACKED_SYM = 778,$/;"	e	enum:yytokentype
+STARTING	sql_yacc.cpp	/^    STARTING = 779,$/;"	e	enum:yytokentype	file:
+STARTING	sql_yacc.hpp	/^    STARTING = 779,$/;"	e	enum:yytokentype
+STARTS_SYM	sql_yacc.cpp	/^    STARTS_SYM = 780,$/;"	e	enum:yytokentype	file:
+STARTS_SYM	sql_yacc.hpp	/^    STARTS_SYM = 780,$/;"	e	enum:yytokentype
+START_SYM	sql_yacc.cpp	/^    START_SYM = 781,$/;"	e	enum:yytokentype	file:
+START_SYM	sql_yacc.hpp	/^    START_SYM = 781,$/;"	e	enum:yytokentype
+STATE	sql_lex.cpp	16;"	d	file:
+STATS_AUTO_RECALC_SYM	sql_yacc.cpp	/^    STATS_AUTO_RECALC_SYM = 782,$/;"	e	enum:yytokentype	file:
+STATS_AUTO_RECALC_SYM	sql_yacc.hpp	/^    STATS_AUTO_RECALC_SYM = 782,$/;"	e	enum:yytokentype
+STATS_PERSISTENT_SYM	sql_yacc.cpp	/^    STATS_PERSISTENT_SYM = 783,$/;"	e	enum:yytokentype	file:
+STATS_PERSISTENT_SYM	sql_yacc.hpp	/^    STATS_PERSISTENT_SYM = 783,$/;"	e	enum:yytokentype
+STATS_SAMPLE_PAGES_SYM	sql_yacc.cpp	/^    STATS_SAMPLE_PAGES_SYM = 784,$/;"	e	enum:yytokentype	file:
+STATS_SAMPLE_PAGES_SYM	sql_yacc.hpp	/^    STATS_SAMPLE_PAGES_SYM = 784,$/;"	e	enum:yytokentype
+STATUS_SYM	sql_yacc.cpp	/^    STATUS_SYM = 785,$/;"	e	enum:yytokentype	file:
+STATUS_SYM	sql_yacc.hpp	/^    STATUS_SYM = 785,$/;"	e	enum:yytokentype
+STDDEV_SAMP_SYM	sql_yacc.cpp	/^    STDDEV_SAMP_SYM = 787,$/;"	e	enum:yytokentype	file:
+STDDEV_SAMP_SYM	sql_yacc.hpp	/^    STDDEV_SAMP_SYM = 787,$/;"	e	enum:yytokentype
+STD_SYM	sql_yacc.cpp	/^    STD_SYM = 788,$/;"	e	enum:yytokentype	file:
+STD_SYM	sql_yacc.hpp	/^    STD_SYM = 788,$/;"	e	enum:yytokentype
+STOP_SYM	sql_yacc.cpp	/^    STOP_SYM = 789,$/;"	e	enum:yytokentype	file:
+STOP_SYM	sql_yacc.hpp	/^    STOP_SYM = 789,$/;"	e	enum:yytokentype
+STORAGE_SYM	sql_yacc.cpp	/^    STORAGE_SYM = 790,$/;"	e	enum:yytokentype	file:
+STORAGE_SYM	sql_yacc.hpp	/^    STORAGE_SYM = 790,$/;"	e	enum:yytokentype
+STRAIGHT_JOIN	sql_yacc.cpp	/^    STRAIGHT_JOIN = 791,$/;"	e	enum:yytokentype	file:
+STRAIGHT_JOIN	sql_yacc.hpp	/^    STRAIGHT_JOIN = 791,$/;"	e	enum:yytokentype
+STRING_SYM	sql_yacc.cpp	/^    STRING_SYM = 792,$/;"	e	enum:yytokentype	file:
+STRING_SYM	sql_yacc.hpp	/^    STRING_SYM = 792,$/;"	e	enum:yytokentype
+SUBCLASS_ORIGIN_SYM	sql_yacc.cpp	/^    SUBCLASS_ORIGIN_SYM = 793,$/;"	e	enum:yytokentype	file:
+SUBCLASS_ORIGIN_SYM	sql_yacc.hpp	/^    SUBCLASS_ORIGIN_SYM = 793,$/;"	e	enum:yytokentype
+SUBDATE_SYM	sql_yacc.cpp	/^    SUBDATE_SYM = 794,$/;"	e	enum:yytokentype	file:
+SUBDATE_SYM	sql_yacc.hpp	/^    SUBDATE_SYM = 794,$/;"	e	enum:yytokentype
+SUBJECT_SYM	sql_yacc.cpp	/^    SUBJECT_SYM = 795,$/;"	e	enum:yytokentype	file:
+SUBJECT_SYM	sql_yacc.hpp	/^    SUBJECT_SYM = 795,$/;"	e	enum:yytokentype
+SUBPARTITIONS_SYM	sql_yacc.cpp	/^    SUBPARTITIONS_SYM = 796,$/;"	e	enum:yytokentype	file:
+SUBPARTITIONS_SYM	sql_yacc.hpp	/^    SUBPARTITIONS_SYM = 796,$/;"	e	enum:yytokentype
+SUBPARTITION_SYM	sql_yacc.cpp	/^    SUBPARTITION_SYM = 797,$/;"	e	enum:yytokentype	file:
+SUBPARTITION_SYM	sql_yacc.hpp	/^    SUBPARTITION_SYM = 797,$/;"	e	enum:yytokentype
+SUBSTRING	sql_yacc.cpp	/^    SUBSTRING = 798,$/;"	e	enum:yytokentype	file:
+SUBSTRING	sql_yacc.hpp	/^    SUBSTRING = 798,$/;"	e	enum:yytokentype
+SUM_SYM	sql_yacc.cpp	/^    SUM_SYM = 799,$/;"	e	enum:yytokentype	file:
+SUM_SYM	sql_yacc.hpp	/^    SUM_SYM = 799,$/;"	e	enum:yytokentype
+SUPER_SYM	sql_yacc.cpp	/^    SUPER_SYM = 800,$/;"	e	enum:yytokentype	file:
+SUPER_SYM	sql_yacc.hpp	/^    SUPER_SYM = 800,$/;"	e	enum:yytokentype
+SUSPEND_SYM	sql_yacc.cpp	/^    SUSPEND_SYM = 801,$/;"	e	enum:yytokentype	file:
+SUSPEND_SYM	sql_yacc.hpp	/^    SUSPEND_SYM = 801,$/;"	e	enum:yytokentype
+SWAPS_SYM	sql_yacc.cpp	/^    SWAPS_SYM = 802,$/;"	e	enum:yytokentype	file:
+SWAPS_SYM	sql_yacc.hpp	/^    SWAPS_SYM = 802,$/;"	e	enum:yytokentype
+SWITCHES_SYM	sql_yacc.cpp	/^    SWITCHES_SYM = 803,$/;"	e	enum:yytokentype	file:
+SWITCHES_SYM	sql_yacc.hpp	/^    SWITCHES_SYM = 803,$/;"	e	enum:yytokentype
+SYSDATE	sql_yacc.cpp	/^    SYSDATE = 804,$/;"	e	enum:yytokentype	file:
+SYSDATE	sql_yacc.hpp	/^    SYSDATE = 804,$/;"	e	enum:yytokentype
+Scanner	lex_global.h	/^  Scanner():yy_cursor(NULL), yy_limit(NULL), yy_marker(NULL), yy_text(NULL), state(SCANNER_START){}$/;"	f	class:Scanner
+Scanner	lex_global.h	/^class Scanner{$/;"	c
+TABLES	sql_yacc.cpp	/^    TABLES = 805,$/;"	e	enum:yytokentype	file:
+TABLES	sql_yacc.hpp	/^    TABLES = 805,$/;"	e	enum:yytokentype
+TABLESPACE	sql_yacc.cpp	/^    TABLESPACE = 806,$/;"	e	enum:yytokentype	file:
+TABLESPACE	sql_yacc.hpp	/^    TABLESPACE = 806,$/;"	e	enum:yytokentype
+TABLE_CHECKSUM_SYM	sql_yacc.cpp	/^    TABLE_CHECKSUM_SYM = 809,$/;"	e	enum:yytokentype	file:
+TABLE_CHECKSUM_SYM	sql_yacc.hpp	/^    TABLE_CHECKSUM_SYM = 809,$/;"	e	enum:yytokentype
+TABLE_NAME_SYM	sql_yacc.cpp	/^    TABLE_NAME_SYM = 810,$/;"	e	enum:yytokentype	file:
+TABLE_NAME_SYM	sql_yacc.hpp	/^    TABLE_NAME_SYM = 810,$/;"	e	enum:yytokentype
+TABLE_REF_PRIORITY	sql_yacc.cpp	/^    TABLE_REF_PRIORITY = 807,$/;"	e	enum:yytokentype	file:
+TABLE_REF_PRIORITY	sql_yacc.hpp	/^    TABLE_REF_PRIORITY = 807,$/;"	e	enum:yytokentype
+TABLE_SYM	sql_yacc.cpp	/^    TABLE_SYM = 808,$/;"	e	enum:yytokentype	file:
+TABLE_SYM	sql_yacc.hpp	/^    TABLE_SYM = 808,$/;"	e	enum:yytokentype
+TEMPORARY	sql_yacc.cpp	/^    TEMPORARY = 811,$/;"	e	enum:yytokentype	file:
+TEMPORARY	sql_yacc.hpp	/^    TEMPORARY = 811,$/;"	e	enum:yytokentype
+TEMPTABLE_SYM	sql_yacc.cpp	/^    TEMPTABLE_SYM = 812,$/;"	e	enum:yytokentype	file:
+TEMPTABLE_SYM	sql_yacc.hpp	/^    TEMPTABLE_SYM = 812,$/;"	e	enum:yytokentype
+TERMINATED	sql_yacc.cpp	/^    TERMINATED = 813,$/;"	e	enum:yytokentype	file:
+TERMINATED	sql_yacc.hpp	/^    TERMINATED = 813,$/;"	e	enum:yytokentype
+TEXT_STRING	sql_yacc.cpp	/^    TEXT_STRING = 814,$/;"	e	enum:yytokentype	file:
+TEXT_STRING	sql_yacc.hpp	/^    TEXT_STRING = 814,$/;"	e	enum:yytokentype
+TEXT_STRING_filesystem	sql_yacc.y	/^TEXT_STRING_filesystem:$/;"	l
+TEXT_STRING_literal	sql_yacc.y	/^TEXT_STRING_literal:$/;"	l
+TEXT_STRING_sys	sql_yacc.y	/^TEXT_STRING_sys:$/;"	l
+TEXT_STRING_sys_nonewline	sql_yacc.y	/^TEXT_STRING_sys_nonewline:$/;"	l
+TEXT_SYM	sql_yacc.cpp	/^    TEXT_SYM = 815,$/;"	e	enum:yytokentype	file:
+TEXT_SYM	sql_yacc.hpp	/^    TEXT_SYM = 815,$/;"	e	enum:yytokentype
+THAN_SYM	sql_yacc.cpp	/^    THAN_SYM = 816,$/;"	e	enum:yytokentype	file:
+THAN_SYM	sql_yacc.hpp	/^    THAN_SYM = 816,$/;"	e	enum:yytokentype
+THEN_SYM	sql_yacc.cpp	/^    THEN_SYM = 817,$/;"	e	enum:yytokentype	file:
+THEN_SYM	sql_yacc.hpp	/^    THEN_SYM = 817,$/;"	e	enum:yytokentype
+TIMESTAMP	sql_yacc.cpp	/^    TIMESTAMP = 818,$/;"	e	enum:yytokentype	file:
+TIMESTAMP	sql_yacc.hpp	/^    TIMESTAMP = 818,$/;"	e	enum:yytokentype
+TIMESTAMP_ADD	sql_yacc.cpp	/^    TIMESTAMP_ADD = 819,$/;"	e	enum:yytokentype	file:
+TIMESTAMP_ADD	sql_yacc.hpp	/^    TIMESTAMP_ADD = 819,$/;"	e	enum:yytokentype
+TIMESTAMP_DIFF	sql_yacc.cpp	/^    TIMESTAMP_DIFF = 820,$/;"	e	enum:yytokentype	file:
+TIMESTAMP_DIFF	sql_yacc.hpp	/^    TIMESTAMP_DIFF = 820,$/;"	e	enum:yytokentype
+TIME_SYM	sql_yacc.cpp	/^    TIME_SYM = 821,$/;"	e	enum:yytokentype	file:
+TIME_SYM	sql_yacc.hpp	/^    TIME_SYM = 821,$/;"	e	enum:yytokentype
+TINYBLOB	sql_yacc.cpp	/^    TINYBLOB = 822,$/;"	e	enum:yytokentype	file:
+TINYBLOB	sql_yacc.hpp	/^    TINYBLOB = 822,$/;"	e	enum:yytokentype
+TINYINT	sql_yacc.cpp	/^    TINYINT = 823,$/;"	e	enum:yytokentype	file:
+TINYINT	sql_yacc.hpp	/^    TINYINT = 823,$/;"	e	enum:yytokentype
+TINYTEXT	sql_yacc.cpp	/^    TINYTEXT = 824,$/;"	e	enum:yytokentype	file:
+TINYTEXT	sql_yacc.hpp	/^    TINYTEXT = 824,$/;"	e	enum:yytokentype
+TO_SYM	sql_yacc.cpp	/^    TO_SYM = 825,$/;"	e	enum:yytokentype	file:
+TO_SYM	sql_yacc.hpp	/^    TO_SYM = 825,$/;"	e	enum:yytokentype
+TRAILING	sql_yacc.cpp	/^    TRAILING = 826,$/;"	e	enum:yytokentype	file:
+TRAILING	sql_yacc.hpp	/^    TRAILING = 826,$/;"	e	enum:yytokentype
+TRANSACTION_SYM	sql_yacc.cpp	/^    TRANSACTION_SYM = 827,$/;"	e	enum:yytokentype	file:
+TRANSACTION_SYM	sql_yacc.hpp	/^    TRANSACTION_SYM = 827,$/;"	e	enum:yytokentype
+TRIGGERS_SYM	sql_yacc.cpp	/^    TRIGGERS_SYM = 828,$/;"	e	enum:yytokentype	file:
+TRIGGERS_SYM	sql_yacc.hpp	/^    TRIGGERS_SYM = 828,$/;"	e	enum:yytokentype
+TRIGGER_SYM	sql_yacc.cpp	/^    TRIGGER_SYM = 829,$/;"	e	enum:yytokentype	file:
+TRIGGER_SYM	sql_yacc.hpp	/^    TRIGGER_SYM = 829,$/;"	e	enum:yytokentype
+TRIM	sql_yacc.cpp	/^    TRIM = 830,$/;"	e	enum:yytokentype	file:
+TRIM	sql_yacc.hpp	/^    TRIM = 830,$/;"	e	enum:yytokentype
+TRUE_SYM	sql_yacc.cpp	/^    TRUE_SYM = 831,$/;"	e	enum:yytokentype	file:
+TRUE_SYM	sql_yacc.hpp	/^    TRUE_SYM = 831,$/;"	e	enum:yytokentype
+TRUNCATE_SYM	sql_yacc.cpp	/^    TRUNCATE_SYM = 832,$/;"	e	enum:yytokentype	file:
+TRUNCATE_SYM	sql_yacc.hpp	/^    TRUNCATE_SYM = 832,$/;"	e	enum:yytokentype
+TYPES_SYM	sql_yacc.cpp	/^    TYPES_SYM = 833,$/;"	e	enum:yytokentype	file:
+TYPES_SYM	sql_yacc.hpp	/^    TYPES_SYM = 833,$/;"	e	enum:yytokentype
+TYPE_SYM	sql_yacc.cpp	/^    TYPE_SYM = 834,$/;"	e	enum:yytokentype	file:
+TYPE_SYM	sql_yacc.hpp	/^    TYPE_SYM = 834,$/;"	e	enum:yytokentype
+UDF_RETURNS_SYM	sql_yacc.cpp	/^    UDF_RETURNS_SYM = 835,$/;"	e	enum:yytokentype	file:
+UDF_RETURNS_SYM	sql_yacc.hpp	/^    UDF_RETURNS_SYM = 835,$/;"	e	enum:yytokentype
+ULONGLONG_NUM	sql_yacc.cpp	/^    ULONGLONG_NUM = 836,$/;"	e	enum:yytokentype	file:
+ULONGLONG_NUM	sql_yacc.hpp	/^    ULONGLONG_NUM = 836,$/;"	e	enum:yytokentype
+UNCOMMITTED_SYM	sql_yacc.cpp	/^    UNCOMMITTED_SYM = 837,$/;"	e	enum:yytokentype	file:
+UNCOMMITTED_SYM	sql_yacc.hpp	/^    UNCOMMITTED_SYM = 837,$/;"	e	enum:yytokentype
+UNDEFINED_SYM	sql_yacc.cpp	/^    UNDEFINED_SYM = 838,$/;"	e	enum:yytokentype	file:
+UNDEFINED_SYM	sql_yacc.hpp	/^    UNDEFINED_SYM = 838,$/;"	e	enum:yytokentype
+UNDERSCORE_CHARSET	sql_yacc.cpp	/^    UNDERSCORE_CHARSET = 839,$/;"	e	enum:yytokentype	file:
+UNDERSCORE_CHARSET	sql_yacc.hpp	/^    UNDERSCORE_CHARSET = 839,$/;"	e	enum:yytokentype
+UNDOFILE_SYM	sql_yacc.cpp	/^    UNDOFILE_SYM = 840,$/;"	e	enum:yytokentype	file:
+UNDOFILE_SYM	sql_yacc.hpp	/^    UNDOFILE_SYM = 840,$/;"	e	enum:yytokentype
+UNDO_BUFFER_SIZE_SYM	sql_yacc.cpp	/^    UNDO_BUFFER_SIZE_SYM = 841,$/;"	e	enum:yytokentype	file:
+UNDO_BUFFER_SIZE_SYM	sql_yacc.hpp	/^    UNDO_BUFFER_SIZE_SYM = 841,$/;"	e	enum:yytokentype
+UNDO_SYM	sql_yacc.cpp	/^    UNDO_SYM = 842,$/;"	e	enum:yytokentype	file:
+UNDO_SYM	sql_yacc.hpp	/^    UNDO_SYM = 842,$/;"	e	enum:yytokentype
+UNICODE_SYM	sql_yacc.cpp	/^    UNICODE_SYM = 843,$/;"	e	enum:yytokentype	file:
+UNICODE_SYM	sql_yacc.hpp	/^    UNICODE_SYM = 843,$/;"	e	enum:yytokentype
+UNINSTALL_SYM	sql_yacc.cpp	/^    UNINSTALL_SYM = 844,$/;"	e	enum:yytokentype	file:
+UNINSTALL_SYM	sql_yacc.hpp	/^    UNINSTALL_SYM = 844,$/;"	e	enum:yytokentype
+UNION_SYM	sql_yacc.cpp	/^    UNION_SYM = 845,$/;"	e	enum:yytokentype	file:
+UNION_SYM	sql_yacc.hpp	/^    UNION_SYM = 845,$/;"	e	enum:yytokentype
+UNIQUE_SYM	sql_yacc.cpp	/^    UNIQUE_SYM = 846,$/;"	e	enum:yytokentype	file:
+UNIQUE_SYM	sql_yacc.hpp	/^    UNIQUE_SYM = 846,$/;"	e	enum:yytokentype
+UNKNOWN_SYM	sql_yacc.cpp	/^    UNKNOWN_SYM = 847,$/;"	e	enum:yytokentype	file:
+UNKNOWN_SYM	sql_yacc.hpp	/^    UNKNOWN_SYM = 847,$/;"	e	enum:yytokentype
+UNLOCK_SYM	sql_yacc.cpp	/^    UNLOCK_SYM = 848,$/;"	e	enum:yytokentype	file:
+UNLOCK_SYM	sql_yacc.hpp	/^    UNLOCK_SYM = 848,$/;"	e	enum:yytokentype
+UNSIGNED	sql_yacc.cpp	/^    UNSIGNED = 849,$/;"	e	enum:yytokentype	file:
+UNSIGNED	sql_yacc.hpp	/^    UNSIGNED = 849,$/;"	e	enum:yytokentype
+UNTIL_SYM	sql_yacc.cpp	/^    UNTIL_SYM = 850,$/;"	e	enum:yytokentype	file:
+UNTIL_SYM	sql_yacc.hpp	/^    UNTIL_SYM = 850,$/;"	e	enum:yytokentype
+UPDATE_SYM	sql_yacc.cpp	/^    UPDATE_SYM = 851,$/;"	e	enum:yytokentype	file:
+UPDATE_SYM	sql_yacc.hpp	/^    UPDATE_SYM = 851,$/;"	e	enum:yytokentype
+UPGRADE_SYM	sql_yacc.cpp	/^    UPGRADE_SYM = 852,$/;"	e	enum:yytokentype	file:
+UPGRADE_SYM	sql_yacc.hpp	/^    UPGRADE_SYM = 852,$/;"	e	enum:yytokentype
+USAGE	sql_yacc.cpp	/^    USAGE = 853,$/;"	e	enum:yytokentype	file:
+USAGE	sql_yacc.hpp	/^    USAGE = 853,$/;"	e	enum:yytokentype
+USER	sql_yacc.cpp	/^    USER = 854,$/;"	e	enum:yytokentype	file:
+USER	sql_yacc.hpp	/^    USER = 854,$/;"	e	enum:yytokentype
+USE_FRM	sql_yacc.cpp	/^    USE_FRM = 855,$/;"	e	enum:yytokentype	file:
+USE_FRM	sql_yacc.hpp	/^    USE_FRM = 855,$/;"	e	enum:yytokentype
+USE_SYM	sql_yacc.cpp	/^    USE_SYM = 856,$/;"	e	enum:yytokentype	file:
+USE_SYM	sql_yacc.hpp	/^    USE_SYM = 856,$/;"	e	enum:yytokentype
+USING	sql_yacc.cpp	/^    USING = 857,$/;"	e	enum:yytokentype	file:
+USING	sql_yacc.hpp	/^    USING = 857,$/;"	e	enum:yytokentype
+UTC_DATE_SYM	sql_yacc.cpp	/^    UTC_DATE_SYM = 858,$/;"	e	enum:yytokentype	file:
+UTC_DATE_SYM	sql_yacc.hpp	/^    UTC_DATE_SYM = 858,$/;"	e	enum:yytokentype
+UTC_TIMESTAMP_SYM	sql_yacc.cpp	/^    UTC_TIMESTAMP_SYM = 859,$/;"	e	enum:yytokentype	file:
+UTC_TIMESTAMP_SYM	sql_yacc.hpp	/^    UTC_TIMESTAMP_SYM = 859,$/;"	e	enum:yytokentype
+UTC_TIME_SYM	sql_yacc.cpp	/^    UTC_TIME_SYM = 860,$/;"	e	enum:yytokentype	file:
+UTC_TIME_SYM	sql_yacc.hpp	/^    UTC_TIME_SYM = 860,$/;"	e	enum:yytokentype
+VALIDATION_SYM	sql_yacc.cpp	/^    VALIDATION_SYM = 861,$/;"	e	enum:yytokentype	file:
+VALIDATION_SYM	sql_yacc.hpp	/^    VALIDATION_SYM = 861,$/;"	e	enum:yytokentype
+VALUES	sql_yacc.cpp	/^    VALUES = 862,$/;"	e	enum:yytokentype	file:
+VALUES	sql_yacc.hpp	/^    VALUES = 862,$/;"	e	enum:yytokentype
+VALUE_SYM	sql_yacc.cpp	/^    VALUE_SYM = 863,$/;"	e	enum:yytokentype	file:
+VALUE_SYM	sql_yacc.hpp	/^    VALUE_SYM = 863,$/;"	e	enum:yytokentype
+VARBINARY	sql_yacc.cpp	/^    VARBINARY = 864,$/;"	e	enum:yytokentype	file:
+VARBINARY	sql_yacc.hpp	/^    VARBINARY = 864,$/;"	e	enum:yytokentype
+VARCHAR	sql_yacc.cpp	/^    VARCHAR = 865,$/;"	e	enum:yytokentype	file:
+VARCHAR	sql_yacc.hpp	/^    VARCHAR = 865,$/;"	e	enum:yytokentype
+VARIABLES	sql_yacc.cpp	/^    VARIABLES = 866,$/;"	e	enum:yytokentype	file:
+VARIABLES	sql_yacc.hpp	/^    VARIABLES = 866,$/;"	e	enum:yytokentype
+VARIANCE_SYM	sql_yacc.cpp	/^    VARIANCE_SYM = 867,$/;"	e	enum:yytokentype	file:
+VARIANCE_SYM	sql_yacc.hpp	/^    VARIANCE_SYM = 867,$/;"	e	enum:yytokentype
+VARYING	sql_yacc.cpp	/^    VARYING = 868,$/;"	e	enum:yytokentype	file:
+VARYING	sql_yacc.hpp	/^    VARYING = 868,$/;"	e	enum:yytokentype
+VAR_SAMP_SYM	sql_yacc.cpp	/^    VAR_SAMP_SYM = 869,$/;"	e	enum:yytokentype	file:
+VAR_SAMP_SYM	sql_yacc.hpp	/^    VAR_SAMP_SYM = 869,$/;"	e	enum:yytokentype
+VIEW_SYM	sql_yacc.cpp	/^    VIEW_SYM = 870,$/;"	e	enum:yytokentype	file:
+VIEW_SYM	sql_yacc.hpp	/^    VIEW_SYM = 870,$/;"	e	enum:yytokentype
+WAIT_SYM	sql_yacc.cpp	/^    WAIT_SYM = 871,$/;"	e	enum:yytokentype	file:
+WAIT_SYM	sql_yacc.hpp	/^    WAIT_SYM = 871,$/;"	e	enum:yytokentype
+WARNINGS	sql_yacc.cpp	/^    WARNINGS = 872,$/;"	e	enum:yytokentype	file:
+WARNINGS	sql_yacc.hpp	/^    WARNINGS = 872,$/;"	e	enum:yytokentype
+WEEK_SYM	sql_yacc.cpp	/^    WEEK_SYM = 873,$/;"	e	enum:yytokentype	file:
+WEEK_SYM	sql_yacc.hpp	/^    WEEK_SYM = 873,$/;"	e	enum:yytokentype
+WEIGHT_STRING_SYM	sql_yacc.cpp	/^    WEIGHT_STRING_SYM = 874,$/;"	e	enum:yytokentype	file:
+WEIGHT_STRING_SYM	sql_yacc.hpp	/^    WEIGHT_STRING_SYM = 874,$/;"	e	enum:yytokentype
+WHEN_SYM	sql_yacc.cpp	/^    WHEN_SYM = 875,$/;"	e	enum:yytokentype	file:
+WHEN_SYM	sql_yacc.hpp	/^    WHEN_SYM = 875,$/;"	e	enum:yytokentype
+WHERE	sql_yacc.cpp	/^    WHERE = 876,$/;"	e	enum:yytokentype	file:
+WHERE	sql_yacc.hpp	/^    WHERE = 876,$/;"	e	enum:yytokentype
+WHILE_SYM	sql_yacc.cpp	/^    WHILE_SYM = 877,$/;"	e	enum:yytokentype	file:
+WHILE_SYM	sql_yacc.hpp	/^    WHILE_SYM = 877,$/;"	e	enum:yytokentype
+WITH	sql_yacc.cpp	/^    WITH = 878,$/;"	e	enum:yytokentype	file:
+WITH	sql_yacc.hpp	/^    WITH = 878,$/;"	e	enum:yytokentype
+WITHOUT_SYM	sql_yacc.cpp	/^    WITHOUT_SYM = 881,$/;"	e	enum:yytokentype	file:
+WITHOUT_SYM	sql_yacc.hpp	/^    WITHOUT_SYM = 881,$/;"	e	enum:yytokentype
+WITH_CUBE_SYM	sql_yacc.cpp	/^    WITH_CUBE_SYM = 879,$/;"	e	enum:yytokentype	file:
+WITH_CUBE_SYM	sql_yacc.hpp	/^    WITH_CUBE_SYM = 879,$/;"	e	enum:yytokentype
+WITH_ROLLUP_SYM	sql_yacc.cpp	/^    WITH_ROLLUP_SYM = 880,$/;"	e	enum:yytokentype	file:
+WITH_ROLLUP_SYM	sql_yacc.hpp	/^    WITH_ROLLUP_SYM = 880,$/;"	e	enum:yytokentype
+WORK_SYM	sql_yacc.cpp	/^    WORK_SYM = 882,$/;"	e	enum:yytokentype	file:
+WORK_SYM	sql_yacc.hpp	/^    WORK_SYM = 882,$/;"	e	enum:yytokentype
+WRAPPER_SYM	sql_yacc.cpp	/^    WRAPPER_SYM = 883,$/;"	e	enum:yytokentype	file:
+WRAPPER_SYM	sql_yacc.hpp	/^    WRAPPER_SYM = 883,$/;"	e	enum:yytokentype
+WRITE_SYM	sql_yacc.cpp	/^    WRITE_SYM = 884,$/;"	e	enum:yytokentype	file:
+WRITE_SYM	sql_yacc.hpp	/^    WRITE_SYM = 884,$/;"	e	enum:yytokentype
+X509_SYM	sql_yacc.cpp	/^    X509_SYM = 885,$/;"	e	enum:yytokentype	file:
+X509_SYM	sql_yacc.hpp	/^    X509_SYM = 885,$/;"	e	enum:yytokentype
+XA_SYM	sql_yacc.cpp	/^    XA_SYM = 886,$/;"	e	enum:yytokentype	file:
+XA_SYM	sql_yacc.hpp	/^    XA_SYM = 886,$/;"	e	enum:yytokentype
+XID_SYM	sql_yacc.cpp	/^    XID_SYM = 887,$/;"	e	enum:yytokentype	file:
+XID_SYM	sql_yacc.hpp	/^    XID_SYM = 887,$/;"	e	enum:yytokentype
+XML_SYM	sql_yacc.cpp	/^    XML_SYM = 888,$/;"	e	enum:yytokentype	file:
+XML_SYM	sql_yacc.hpp	/^    XML_SYM = 888,$/;"	e	enum:yytokentype
+XOR	sql_yacc.cpp	/^    XOR = 889,$/;"	e	enum:yytokentype	file:
+XOR	sql_yacc.hpp	/^    XOR = 889,$/;"	e	enum:yytokentype
+YACCFILE	Makefile	/^YACCFILE=sql_yacc$/;"	m
+YEAR_MONTH_SYM	sql_yacc.cpp	/^    YEAR_MONTH_SYM = 890,$/;"	e	enum:yytokentype	file:
+YEAR_MONTH_SYM	sql_yacc.hpp	/^    YEAR_MONTH_SYM = 890,$/;"	e	enum:yytokentype
+YEAR_SYM	sql_yacc.cpp	/^    YEAR_SYM = 891,$/;"	e	enum:yytokentype	file:
+YEAR_SYM	sql_yacc.hpp	/^    YEAR_SYM = 891,$/;"	e	enum:yytokentype
+YYABORT	sql_yacc.cpp	16586;"	d	file:
+YYACCEPT	sql_yacc.cpp	16585;"	d	file:
+YYBACKUP	sql_yacc.cpp	16592;"	d	file:
+YYBISON	sql_yacc.cpp	44;"	d	file:
+YYBISON_VERSION	sql_yacc.cpp	47;"	d	file:
+YYCASE_	sql_yacc.cpp	16934;"	d	file:
+YYCASE_	sql_yacc.cpp	16944;"	d	file:
+YYCOPY	sql_yacc.cpp	1006;"	d	file:
+YYCOPY	sql_yacc.cpp	1009;"	d	file:
+YYCOPY_NEEDED	sql_yacc.cpp	981;"	d	file:
+YYCTYPE	sql_lex.cpp	12;"	d	file:
+YYCURSOR	sql_lex.cpp	18;"	d	file:
+YYDEBUG	sql_yacc.cpp	107;"	d	file:
+YYDEBUG	sql_yacc.cpp	78;"	d	file:
+YYDEBUG	sql_yacc.hpp	37;"	d
+YYDPRINTF	sql_yacc.cpp	16623;"	d	file:
+YYDPRINTF	sql_yacc.cpp	16739;"	d	file:
+YYEMPTY	sql_yacc.cpp	16582;"	d	file:
+YYEOF	sql_yacc.cpp	16583;"	d	file:
+YYERRCODE	sql_yacc.cpp	16611;"	d	file:
+YYERROR	sql_yacc.cpp	16587;"	d	file:
+YYERROR_VERBOSE	sql_yacc.cpp	95;"	d	file:
+YYERROR_VERBOSE	sql_yacc.cpp	96;"	d	file:
+YYERROR_VERBOSE	sql_yacc.cpp	98;"	d	file:
+YYFILL	sql_lex.cpp	13;"	d	file:
+YYFINAL	sql_yacc.cpp	1022;"	d	file:
+YYFPRINTF	sql_yacc.cpp	16620;"	d	file:
+YYFREE	sql_yacc.cpp	952;"	d	file:
+YYINITDEPTH	sql_yacc.cpp	16748;"	d	file:
+YYLAST	sql_yacc.cpp	1024;"	d	file:
+YYLIMIT	sql_lex.cpp	19;"	d	file:
+YYMALLOC	sql_yacc.cpp	946;"	d	file:
+YYMARKER	sql_lex.cpp	20;"	d	file:
+YYMAXDEPTH	sql_yacc.cpp	16759;"	d	file:
+YYMAXUTOK	sql_yacc.cpp	1038;"	d	file:
+YYNNTS	sql_yacc.cpp	1029;"	d	file:
+YYNRULES	sql_yacc.cpp	1031;"	d	file:
+YYNSTATES	sql_yacc.cpp	1033;"	d	file:
+YYNTOKENS	sql_yacc.cpp	1027;"	d	file:
+YYPACT_NINF	sql_yacc.cpp	1877;"	d	file:
+YYPOPSTACK	sql_yacc.cpp	17060;"	d	file:
+YYPULL	sql_yacc.cpp	59;"	d	file:
+YYPURE	sql_yacc.cpp	53;"	d	file:
+YYPUSH	sql_yacc.cpp	56;"	d	file:
+YYRECOVERING	sql_yacc.cpp	16590;"	d	file:
+YYSIZE_MAXIMUM	sql_yacc.cpp	825;"	d	file:
+YYSIZE_T	sql_yacc.cpp	814;"	d	file:
+YYSIZE_T	sql_yacc.cpp	816;"	d	file:
+YYSIZE_T	sql_yacc.cpp	819;"	d	file:
+YYSIZE_T	sql_yacc.cpp	821;"	d	file:
+YYSKELETON_NAME	sql_yacc.cpp	50;"	d	file:
+YYSTACK_ALLOC	sql_yacc.cpp	900;"	d	file:
+YYSTACK_ALLOC	sql_yacc.cpp	904;"	d	file:
+YYSTACK_ALLOC	sql_yacc.cpp	909;"	d	file:
+YYSTACK_ALLOC	sql_yacc.cpp	932;"	d	file:
+YYSTACK_ALLOC_MAXIMUM	sql_yacc.cpp	929;"	d	file:
+YYSTACK_ALLOC_MAXIMUM	sql_yacc.cpp	935;"	d	file:
+YYSTACK_BYTES	sql_yacc.cpp	977;"	d	file:
+YYSTACK_FREE	sql_yacc.cpp	923;"	d	file:
+YYSTACK_FREE	sql_yacc.cpp	933;"	d	file:
+YYSTACK_GAP_MAXIMUM	sql_yacc.cpp	973;"	d	file:
+YYSTACK_RELOCATE	sql_yacc.cpp	988;"	d	file:
+YYSTYPE	sql_yacc.cpp	/^typedef union YYSTYPE YYSTYPE;$/;"	t	typeref:union:YYSTYPE	file:
+YYSTYPE	sql_yacc.cpp	/^union YYSTYPE$/;"	u	file:
+YYSTYPE	sql_yacc.hpp	/^typedef union YYSTYPE YYSTYPE;$/;"	t	typeref:union:YYSTYPE
+YYSTYPE	sql_yacc.hpp	/^union YYSTYPE$/;"	u
+YYSTYPE_IS_DECLARED	sql_yacc.cpp	770;"	d	file:
+YYSTYPE_IS_DECLARED	sql_yacc.hpp	700;"	d
+YYSTYPE_IS_TRIVIAL	sql_yacc.cpp	769;"	d	file:
+YYSTYPE_IS_TRIVIAL	sql_yacc.hpp	699;"	d
+YYTABLE_NINF	sql_yacc.cpp	1882;"	d	file:
+YYTERROR	sql_yacc.cpp	16610;"	d	file:
+YYTOKENTYPE	sql_yacc.cpp	115;"	d	file:
+YYTOKENTYPE	sql_yacc.hpp	45;"	d
+YYTRANSLATE	sql_yacc.cpp	1040;"	d	file:
+YYUNDEFTOK	sql_yacc.cpp	1037;"	d	file:
+YYUSE	sql_yacc.cpp	868;"	d	file:
+YYUSE	sql_yacc.cpp	870;"	d	file:
+YY_	sql_yacc.cpp	831;"	d	file:
+YY_	sql_yacc.cpp	835;"	d	file:
+YY_ATTRIBUTE	sql_yacc.cpp	843;"	d	file:
+YY_ATTRIBUTE	sql_yacc.cpp	845;"	d	file:
+YY_ATTRIBUTE_PURE	sql_yacc.cpp	850;"	d	file:
+YY_ATTRIBUTE_UNUSED	sql_yacc.cpp	854;"	d	file:
+YY_IGNORE_MAYBE_UNINITIALIZED_BEGIN	sql_yacc.cpp	875;"	d	file:
+YY_IGNORE_MAYBE_UNINITIALIZED_BEGIN	sql_yacc.cpp	885;"	d	file:
+YY_IGNORE_MAYBE_UNINITIALIZED_END	sql_yacc.cpp	879;"	d	file:
+YY_IGNORE_MAYBE_UNINITIALIZED_END	sql_yacc.cpp	886;"	d	file:
+YY_INITIAL_VALUE	sql_yacc.cpp	882;"	d	file:
+YY_INITIAL_VALUE	sql_yacc.cpp	889;"	d	file:
+YY_LOCATION_PRINT	sql_yacc.cpp	16631;"	d	file:
+YY_NULLPTR	sql_yacc.cpp	87;"	d	file:
+YY_NULLPTR	sql_yacc.cpp	89;"	d	file:
+YY_REDUCE_PRINT	sql_yacc.cpp	16729;"	d	file:
+YY_REDUCE_PRINT	sql_yacc.cpp	16742;"	d	file:
+YY_STACK_PRINT	sql_yacc.cpp	16698;"	d	file:
+YY_STACK_PRINT	sql_yacc.cpp	16741;"	d	file:
+YY_SYMBOL_PRINT	sql_yacc.cpp	16635;"	d	file:
+YY_SYMBOL_PRINT	sql_yacc.cpp	16740;"	d	file:
+YY_YY_SQL_YACC_HPP_INCLUDED	sql_yacc.cpp	104;"	d	file:
+YY_YY_SQL_YACC_HPP_INCLUDED	sql_yacc.hpp	34;"	d
+ZEROFILL	sql_yacc.cpp	/^    ZEROFILL = 892$/;"	e	enum:yytokentype	file:
+ZEROFILL	sql_yacc.hpp	/^    ZEROFILL = 892$/;"	e	enum:yytokentype
+_Noreturn	sql_yacc.cpp	860;"	d	file:
+_Noreturn	sql_yacc.cpp	862;"	d	file:
+add_column	sql_yacc.y	/^add_column:$/;"	l
+add_log_file	sql_yacc.y	/^add_log_file:$/;"	l
+add_part_extra	sql_yacc.y	/^add_part_extra:$/;"	l
+add_partition_rule	sql_yacc.y	/^add_partition_rule:$/;"	l
+adm_partition	sql_yacc.y	/^adm_partition:$/;"	l
+all_key_opt	sql_yacc.y	/^all_key_opt:$/;"	l
+all_or_alt_part_name_list	sql_yacc.y	/^all_or_alt_part_name_list:$/;"	l
+all_or_any	sql_yacc.y	/^all_or_any:$/;"	l
+alloca	sql_yacc.cpp	907;"	d	file:
+alt_part_name_item	sql_yacc.y	/^alt_part_name_item:$/;"	l
+alt_part_name_list	sql_yacc.y	/^alt_part_name_list:$/;"	l
+alter	sql_yacc.y	/^alter:$/;"	l
+alter_algorithm_option	sql_yacc.y	/^alter_algorithm_option:$/;"	l
+alter_commands	sql_yacc.y	/^alter_commands:$/;"	l
+alter_list	sql_yacc.y	/^alter_list:$/;"	l
+alter_list_item	sql_yacc.y	/^alter_list_item:$/;"	l
+alter_lock_option	sql_yacc.y	/^alter_lock_option:$/;"	l
+alter_logfile_group_info	sql_yacc.y	/^alter_logfile_group_info:$/;"	l
+alter_logfile_group_option	sql_yacc.y	/^alter_logfile_group_option:$/;"	l
+alter_logfile_group_option_list	sql_yacc.y	/^alter_logfile_group_option_list:$/;"	l
+alter_logfile_group_options	sql_yacc.y	/^alter_logfile_group_options:$/;"	l
+alter_order_clause	sql_yacc.y	/^alter_order_clause:$/;"	l
+alter_order_item	sql_yacc.y	/^alter_order_item:$/;"	l
+alter_order_list	sql_yacc.y	/^alter_order_list:$/;"	l
+alter_tablespace_info	sql_yacc.y	/^alter_tablespace_info:$/;"	l
+alter_tablespace_option	sql_yacc.y	/^alter_tablespace_option:$/;"	l
+alter_tablespace_option_list	sql_yacc.y	/^alter_tablespace_option_list:$/;"	l
+alter_tablespace_options	sql_yacc.y	/^alter_tablespace_options:$/;"	l
+alter_user	sql_yacc.y	/^alter_user:$/;"	l
+alter_user_list	sql_yacc.y	/^alter_user_list:$/;"	l
+analyze	sql_yacc.y	/^analyze:$/;"	l
+and	sql_yacc.y	/^and:$/;"	l
+and	sql_yacc_simple.y	/^and:$/;"	l
+ascii	sql_yacc.y	/^ascii:$/;"	l
+assign_to_keycache	sql_yacc.y	/^assign_to_keycache:$/;"	l
+assign_to_keycache_parts	sql_yacc.y	/^assign_to_keycache_parts:$/;"	l
+attribute	sql_yacc.y	/^attribute:$/;"	l
+begin	sql_yacc.y	/^begin:$/;"	l
+begin_or_start	sql_yacc.y	/^begin_or_start:$/;"	l
+binlog_base64_event	sql_yacc.y	/^binlog_base64_event:$/;"	l
+binlog_from	sql_yacc.y	/^binlog_from:$/;"	l
+binlog_in	sql_yacc.y	/^binlog_in:$/;"	l
+bit_expr	sql_yacc.y	/^bit_expr:$/;"	l
+bool_pri	sql_yacc.y	/^bool_pri:$/;"	l
+bool_pri	sql_yacc_simple.y	/^bool_pri:$/;"	l
+btree_or_rtree	sql_yacc.y	/^btree_or_rtree:$/;"	l
+buffer	sql_desc.h	/^    Scanner *buffer;$/;"	m	class:SQL
+cache_key_list_or_empty	sql_yacc.y	/^cache_key_list_or_empty:$/;"	l
+cache_keys_spec	sql_yacc.y	/^cache_keys_spec:$/;"	l
+call	sql_yacc.y	/^call:$/;"	l
+case_stmt_specification	sql_yacc.y	/^case_stmt_specification:$/;"	l
+cast_type	sql_yacc.y	/^cast_type:$/;"	l
+change	sql_yacc.y	/^change:$/;"	l
+change_tablespace_access	sql_yacc.y	/^change_tablespace_access:$/;"	l
+change_tablespace_info	sql_yacc.y	/^change_tablespace_info:$/;"	l
+change_ts_option	sql_yacc.y	/^change_ts_option:$/;"	l
+change_ts_option_list	sql_yacc.y	/^change_ts_option_list:$/;"	l
+change_ts_options	sql_yacc.y	/^change_ts_options:$/;"	l
+char	sql_yacc.y	/^char:$/;"	l
+charset	sql_yacc.y	/^charset:$/;"	l
+charset_name	sql_yacc.y	/^charset_name:$/;"	l
+charset_name_or_default	sql_yacc.y	/^charset_name_or_default:$/;"	l
+check	sql_yacc.y	/^check:$/;"	l
+check_constraint	sql_yacc.y	/^check_constraint:$/;"	l
+checksum	sql_yacc.y	/^checksum:$/;"	l
+clear_privileges	sql_yacc.y	/^clear_privileges:$/;"	l
+collation_name	sql_yacc.y	/^collation_name:$/;"	l
+collation_name_or_default	sql_yacc.y	/^collation_name_or_default:$/;"	l
+cols	sql_desc.h	/^    std::vector<std::string *> cols;$/;"	m	class:SQL
+column_def	sql_yacc.y	/^column_def:$/;"	l
+column_list	sql_yacc.y	/^column_list:$/;"	l
+column_list_id	sql_yacc.y	/^column_list_id:$/;"	l
+commit	sql_yacc.y	/^commit:$/;"	l
+comp_op	sql_yacc.y	/^comp_op:$/;"	l
+comp_op	sql_yacc_simple.y	/^comp_op:$/;"	l
+condition_information	sql_yacc.y	/^condition_information:$/;"	l
+condition_information_item	sql_yacc.y	/^condition_information_item:$/;"	l
+condition_information_item_name	sql_yacc.y	/^condition_information_item_name:$/;"	l
+condition_number	sql_yacc.y	/^condition_number:$/;"	l
+constraint	sql_yacc.y	/^constraint:$/;"	l
+constraint_key_type	sql_yacc.y	/^constraint_key_type:$/;"	l
+create	sql_yacc.y	/^create:$/;"	l
+create2	sql_yacc.y	/^create2:$/;"	l
+create2a	sql_yacc.y	/^create2a:$/;"	l
+create3	sql_yacc.y	/^create3:$/;"	l
+create_database_option	sql_yacc.y	/^create_database_option:$/;"	l
+create_database_options	sql_yacc.y	/^create_database_options:$/;"	l
+create_field_list	sql_yacc.y	/^create_field_list:$/;"	l
+create_select	sql_yacc.y	/^create_select:$/;"	l
+create_table_option	sql_yacc.y	/^create_table_option:$/;"	l
+create_table_options	sql_yacc.y	/^create_table_options:$/;"	l
+create_table_options_space_separated	sql_yacc.y	/^create_table_options_space_separated:$/;"	l
+create_view_select	sql_yacc.y	/^create_view_select:$/;"	l
+create_view_select_paren	sql_yacc.y	/^create_view_select_paren:$/;"	l
+data_or_xml	sql_yacc.y	/^data_or_xml:$/;"	l
+date_time_type	sql_yacc.y	/^date_time_type:$/;"	l
+db	sql_desc.h	/^  std::string *db;$/;"	m	class:DB_table
+db_table_desc	sql_desc.h	/^    DB_table *db_table_desc;$/;"	m	class:SQL
+db_table_desc	sql_yacc.cpp	/^  DB_table *db_table_desc;$/;"	m	union:YYSTYPE	file:
+db_table_desc	sql_yacc.hpp	/^  DB_table *db_table_desc;$/;"	m	union:YYSTYPE
+deallocate	sql_yacc.y	/^deallocate:$/;"	l
+deallocate_or_drop	sql_yacc.y	/^deallocate_or_drop:$/;"	l
+dec_num	sql_yacc.y	/^dec_num:$/;"	l
+dec_num_error	sql_yacc.y	/^dec_num_error:$/;"	l
+default_charset	sql_yacc.y	/^default_charset:$/;"	l
+default_collation	sql_yacc.y	/^default_collation:$/;"	l
+definer	sql_yacc.y	/^definer:$/;"	l
+definer_opt	sql_yacc.y	/^definer_opt:$/;"	l
+definer_tail	sql_yacc.y	/^definer_tail:$/;"	l
+delete	sql_yacc.y	/^delete:$/;"	l
+delete_limit_clause	sql_yacc.y	/^delete_limit_clause:$/;"	l
+delete_option	sql_yacc.y	/^delete_option:$/;"	l
+derived_table_list	sql_yacc.y	/^derived_table_list:$/;"	l
+describe	sql_yacc.y	/^describe:$/;"	l
+describe_command	sql_yacc.y	/^describe_command:$/;"	l
+diagnostics_information	sql_yacc.y	/^diagnostics_information:$/;"	l
+do	sql_yacc.y	/^do:$/;"	l
+drop	sql_yacc.y	/^drop:$/;"	l
+drop_ts_option	sql_yacc.y	/^drop_ts_option:$/;"	l
+drop_ts_options	sql_yacc.y	/^drop_ts_options:$/;"	l
+drop_ts_options_list	sql_yacc.y	/^drop_ts_options_list:$/;"	l
+else_clause_opt	sql_yacc.y	/^else_clause_opt:$/;"	l
+eof	lex_global.h	/^  bool eof(){$/;"	f	class:Scanner
+equal	sql_yacc.y	/^equal:$/;"	l
+esc_table_ref	sql_yacc.y	/^esc_table_ref:$/;"	l
+ev_alter_on_schedule_completion	sql_yacc.y	/^ev_alter_on_schedule_completion:$/;"	l
+ev_ends	sql_yacc.y	/^ev_ends:$/;"	l
+ev_on_completion	sql_yacc.y	/^ev_on_completion:$/;"	l
+ev_schedule_time	sql_yacc.y	/^ev_schedule_time:$/;"	l
+ev_sql_stmt	sql_yacc.y	/^ev_sql_stmt:$/;"	l
+ev_sql_stmt_inner	sql_yacc.y	/^ev_sql_stmt_inner:$/;"	l
+ev_starts	sql_yacc.y	/^ev_starts:$/;"	l
+event_tail	sql_yacc.y	/^event_tail:$/;"	l
+execute	sql_yacc.y	/^execute:$/;"	l
+execute_using	sql_yacc.y	/^execute_using:$/;"	l
+execute_var_ident	sql_yacc.y	/^execute_var_ident:$/;"	l
+execute_var_list	sql_yacc.y	/^execute_var_list:$/;"	l
+explanable_command	sql_yacc.y	/^explanable_command:$/;"	l
+expr	sql_yacc.y	/^expr:$/;"	l
+expr	sql_yacc_simple.y	/^expr:$/;"	l
+expr_list	sql_yacc.y	/^expr_list:$/;"	l
+expr_or_default	sql_yacc.y	/^expr_or_default:$/;"	l
+fd	lex_global.h	/^  int fd;$/;"	m	class:Scanner
+field_ident	sql_yacc.y	/^field_ident:$/;"	l
+field_length	sql_yacc.y	/^field_length:$/;"	l
+field_list	sql_yacc.y	/^field_list:$/;"	l
+field_list_item	sql_yacc.y	/^field_list_item:$/;"	l
+field_opt_list	sql_yacc.y	/^field_opt_list:$/;"	l
+field_option	sql_yacc.y	/^field_option:$/;"	l
+field_options	sql_yacc.y	/^field_options:$/;"	l
+field_or_var	sql_yacc.y	/^field_or_var:$/;"	l
+field_spec	sql_yacc.y	/^field_spec:$/;"	l
+field_term	sql_yacc.y	/^field_term:$/;"	l
+field_term_list	sql_yacc.y	/^field_term_list:$/;"	l
+fields	sql_yacc.y	/^fields:$/;"	l
+fields_or_vars	sql_yacc.y	/^fields_or_vars:$/;"	l
+filter_db_ident	sql_yacc.y	/^filter_db_ident:$/;"	l
+filter_db_list	sql_yacc.y	/^filter_db_list:$/;"	l
+filter_db_pair_list	sql_yacc.y	/^filter_db_pair_list:$/;"	l
+filter_def	sql_yacc.y	/^filter_def:$/;"	l
+filter_defs	sql_yacc.y	/^filter_defs:$/;"	l
+filter_string	sql_yacc.y	/^filter_string:$/;"	l
+filter_string_list	sql_yacc.y	/^filter_string_list:$/;"	l
+filter_table_ident	sql_yacc.y	/^filter_table_ident:$/;"	l
+filter_table_list	sql_yacc.y	/^filter_table_list:$/;"	l
+filter_wild_db_table_string	sql_yacc.y	/^filter_wild_db_table_string:$/;"	l
+float_options	sql_yacc.y	/^float_options:$/;"	l
+flush	sql_yacc.y	/^flush:$/;"	l
+flush_option	sql_yacc.y	/^flush_option:$/;"	l
+flush_options	sql_yacc.y	/^flush_options:$/;"	l
+flush_options_list	sql_yacc.y	/^flush_options_list:$/;"	l
+found_semicolon	lex_global.h	/^  char *found_semicolon;$/;"	m	class:Scanner
+from_clause	sql_yacc.y	/^from_clause:$/;"	l
+from_or_in	sql_yacc.y	/^from_or_in:$/;"	l
+fulltext	sql_yacc.y	/^fulltext:$/;"	l
+fulltext_key_opt	sql_yacc.y	/^fulltext_key_opt:$/;"	l
+fulltext_key_options	sql_yacc.y	/^fulltext_key_options:$/;"	l
+fulltext_key_opts	sql_yacc.y	/^fulltext_key_opts:$/;"	l
+fulltext_options	sql_yacc.y	/^fulltext_options:$/;"	l
+func_datetime_precision	sql_yacc.y	/^func_datetime_precision:$/;"	l
+function_call_conflict	sql_yacc.y	/^function_call_conflict:$/;"	l
+function_call_generic	sql_yacc.y	/^function_call_generic:$/;"	l
+function_call_keyword	sql_yacc.y	/^function_call_keyword:$/;"	l
+function_call_nonkeyword	sql_yacc.y	/^function_call_nonkeyword:$/;"	l
+geometry_function	sql_yacc.y	/^geometry_function:$/;"	l
+get_cols_size	sql_desc.h	/^    int get_cols_size()$/;"	f	class:SQL
+get_diagnostics	sql_yacc.y	/^get_diagnostics:$/;"	l
+global_scanner	sql_lex.cpp	/^Scanner global_scanner;$/;"	v
+gorder_list	sql_yacc.y	/^gorder_list:$/;"	l
+grant	sql_yacc.y	/^grant:$/;"	l
+grant_command	sql_yacc.y	/^grant_command:$/;"	l
+grant_ident	sql_yacc.y	/^grant_ident:$/;"	l
+grant_list	sql_yacc.y	/^grant_list:$/;"	l
+grant_option	sql_yacc.y	/^grant_option:$/;"	l
+grant_option_list	sql_yacc.y	/^grant_option_list:$/;"	l
+grant_options	sql_yacc.y	/^grant_options:$/;"	l
+grant_privileges	sql_yacc.y	/^grant_privileges:$/;"	l
+grant_user	sql_yacc.y	/^grant_user:$/;"	l
+group_clause	sql_yacc_simple.y	/^group_clause:$/;"	l
+group_list	sql_yacc.y	/^group_list:$/;"	l
+group_list	sql_yacc_simple.y	/^group_list:$/;"	l
+handler	sql_yacc.y	/^handler:$/;"	l
+handler_read_or_scan	sql_yacc.y	/^handler_read_or_scan:$/;"	l
+handler_rkey_function	sql_yacc.y	/^handler_rkey_function:$/;"	l
+handler_rkey_mode	sql_yacc.y	/^handler_rkey_mode:$/;"	l
+handler_scan_function	sql_yacc.y	/^handler_scan_function:$/;"	l
+have_partitioning	sql_yacc.y	/^have_partitioning:$/;"	l
+having_clause	sql_yacc_simple.y	/^having_clause:$/;"	l
+help	sql_yacc.y	/^help:$/;"	l
+ident	sql_yacc.y	/^ident:$/;"	l
+ident	sql_yacc_simple.y	/^ident:$/;"	l
+ident_eq_list	sql_yacc.y	/^ident_eq_list:$/;"	l
+ident_eq_value	sql_yacc.y	/^ident_eq_value:$/;"	l
+ident_list	sql_yacc.y	/^ident_list:$/;"	l
+ident_list_arg	sql_yacc.y	/^ident_list_arg:$/;"	l
+ident_or_empty	sql_yacc.y	/^ident_or_empty:$/;"	l
+ident_or_text	sql_yacc.y	/^ident_or_text:$/;"	l
+if_exists	sql_yacc.y	/^if_exists:$/;"	l
+ignore_server_id	sql_yacc.y	/^ignore_server_id:$/;"	l
+ignore_server_id_list	sql_yacc.y	/^ignore_server_id_list:$/;"	l
+in_sum_expr	sql_yacc.y	/^in_sum_expr:$/;"	l
+index_hint_clause	sql_yacc.y	/^index_hint_clause:$/;"	l
+index_hint_definition	sql_yacc.y	/^index_hint_definition:$/;"	l
+index_hint_type	sql_yacc.y	/^index_hint_type:$/;"	l
+index_hints_list	sql_yacc.y	/^index_hints_list:$/;"	l
+init_key_options	sql_yacc.y	/^init_key_options:$/;"	l
+insert	sql_yacc.y	/^insert:$/;"	l
+insert2	sql_yacc.y	/^insert2:$/;"	l
+insert_field_spec	sql_yacc.y	/^insert_field_spec:$/;"	l
+insert_ident	sql_yacc.y	/^insert_ident:$/;"	l
+insert_lock_option	sql_yacc.y	/^insert_lock_option:$/;"	l
+insert_table	sql_yacc.y	/^insert_table:$/;"	l
+insert_update_elem	sql_yacc.y	/^insert_update_elem:$/;"	l
+insert_update_list	sql_yacc.y	/^insert_update_list:$/;"	l
+insert_values	sql_yacc.y	/^insert_values:$/;"	l
+install	sql_yacc.y	/^install:$/;"	l
+int_type	sql_yacc.y	/^int_type:$/;"	l
+internal_variable_name	sql_yacc.y	/^internal_variable_name:$/;"	l
+interval	sql_yacc.y	/^interval:$/;"	l
+interval_time_stamp	sql_yacc.y	/^interval_time_stamp:$/;"	l
+into	sql_yacc.y	/^into:$/;"	l
+into_destination	sql_yacc.y	/^into_destination:$/;"	l
+isolation_level	sql_yacc.y	/^isolation_level:$/;"	l
+isolation_types	sql_yacc.y	/^isolation_types:$/;"	l
+join_table	sql_yacc.y	/^join_table:$/;"	l
+join_table_list	sql_yacc.y	/^join_table_list:$/;"	l
+join_table_list	sql_yacc_simple.y	/^join_table_list:$/;"	l
+key_alg	sql_yacc.y	/^key_alg:$/;"	l
+key_cache_name	sql_yacc.y	/^key_cache_name:$/;"	l
+key_def	sql_yacc.y	/^key_def:$/;"	l
+key_list	sql_yacc.y	/^key_list:$/;"	l
+key_or_index	sql_yacc.y	/^key_or_index:$/;"	l
+key_part	sql_yacc.y	/^key_part:$/;"	l
+key_usage_element	sql_yacc.y	/^key_usage_element:$/;"	l
+key_usage_list	sql_yacc.y	/^key_usage_list:$/;"	l
+key_using_alg	sql_yacc.y	/^key_using_alg:$/;"	l
+keycache	sql_yacc.y	/^keycache:$/;"	l
+keycache_list	sql_yacc.y	/^keycache_list:$/;"	l
+keycache_list_or_parts	sql_yacc.y	/^keycache_list_or_parts:$/;"	l
+keys_or_index	sql_yacc.y	/^keys_or_index:$/;"	l
+keyword	sql_yacc.y	/^keyword:$/;"	l
+keyword	sql_yacc_simple.y	/^keyword:$/;"	l
+keyword_sp	sql_yacc.y	/^keyword_sp:$/;"	l
+kill	sql_yacc.y	/^kill:$/;"	l
+kill_option	sql_yacc.y	/^kill_option:$/;"	l
+known_storage_engines	sql_yacc.y	/^known_storage_engines:$/;"	l
+label_ident	sql_yacc.y	/^label_ident:$/;"	l
+lex_string	sql_yacc.cpp	/^  std::string *lex_string;$/;"	m	union:YYSTYPE	file:
+lex_string	sql_yacc.hpp	/^  std::string *lex_string;$/;"	m	union:YYSTYPE
+lg_redofile	sql_yacc.y	/^lg_redofile:$/;"	l
+lg_undofile	sql_yacc.y	/^lg_undofile:$/;"	l
+limit_clause	sql_yacc.y	/^limit_clause:$/;"	l
+limit_option	sql_yacc.y	/^limit_option:$/;"	l
+limit_option	sql_yacc_simple.y	/^limit_option:$/;"	l
+limit_options	sql_yacc.y	/^limit_options:$/;"	l
+limit_options	sql_yacc_simple.y	/^limit_options:$/;"	l
+line_term	sql_yacc.y	/^line_term:$/;"	l
+line_term_list	sql_yacc.y	/^line_term_list:$/;"	l
+lines_or_rows	sql_yacc.y	/^lines_or_rows:$/;"	l
+literal	sql_yacc.y	/^literal:$/;"	l
+literal	sql_yacc_simple.y	/^literal:$/;"	l
+load	sql_yacc.y	/^load:$/;"	l
+load_data_lock	sql_yacc.y	/^load_data_lock:$/;"	l
+load_data_set_elem	sql_yacc.y	/^load_data_set_elem:$/;"	l
+load_data_set_list	sql_yacc.y	/^load_data_set_list:$/;"	l
+lock	sql_yacc.y	/^lock:$/;"	l
+lock_option	sql_yacc.y	/^lock_option:$/;"	l
+logfile_group_info	sql_yacc.y	/^logfile_group_info:$/;"	l
+logfile_group_name	sql_yacc.y	/^logfile_group_name:$/;"	l
+logfile_group_option	sql_yacc.y	/^logfile_group_option:$/;"	l
+logfile_group_option_list	sql_yacc.y	/^logfile_group_option_list:$/;"	l
+logfile_group_options	sql_yacc.y	/^logfile_group_options:$/;"	l
+main	sql_parser.cpp	/^int main(int argc, char **argv)$/;"	f
+master_def	sql_yacc.y	/^master_def:$/;"	l
+master_defs	sql_yacc.y	/^master_defs:$/;"	l
+master_file_def	sql_yacc.y	/^master_file_def:$/;"	l
+master_or_binary	sql_yacc.y	/^master_or_binary:$/;"	l
+merge_insert_types	sql_yacc.y	/^merge_insert_types:$/;"	l
+mi_check_type	sql_yacc.y	/^mi_check_type:$/;"	l
+mi_check_types	sql_yacc.y	/^mi_check_types:$/;"	l
+mi_repair_type	sql_yacc.y	/^mi_repair_type:$/;"	l
+mi_repair_types	sql_yacc.y	/^mi_repair_types:$/;"	l
+nchar	sql_yacc.y	/^nchar:$/;"	l
+no_braces	sql_yacc.y	/^no_braces:$/;"	l
+no_definer	sql_yacc.y	/^no_definer:$/;"	l
+no_definer_tail	sql_yacc.y	/^no_definer_tail:$/;"	l
+normal_join	sql_yacc.y	/^normal_join:$/;"	l
+normal_key_opt	sql_yacc.y	/^normal_key_opt:$/;"	l
+normal_key_options	sql_yacc.y	/^normal_key_options:$/;"	l
+normal_key_opts	sql_yacc.y	/^normal_key_opts:$/;"	l
+normal_key_type	sql_yacc.y	/^normal_key_type:$/;"	l
+not	sql_yacc.y	/^not:$/;"	l
+not	sql_yacc_simple.y	/^not:$/;"	l
+not2	sql_yacc.y	/^not2:$/;"	l
+not2	sql_yacc_simple.y	/^not2:$/;"	l
+now	sql_yacc.y	/^now:$/;"	l
+now_or_signed_literal	sql_yacc.y	/^now_or_signed_literal:$/;"	l
+nvarchar	sql_yacc.y	/^nvarchar:$/;"	l
+object_privilege	sql_yacc.y	/^object_privilege:$/;"	l
+object_privilege_list	sql_yacc.y	/^object_privilege_list:$/;"	l
+olap_opt	sql_yacc.y	/^olap_opt:$/;"	l
+old_or_new_charset_name	sql_yacc.y	/^old_or_new_charset_name:$/;"	l
+old_or_new_charset_name_or_default	sql_yacc.y	/^old_or_new_charset_name_or_default:$/;"	l
+opt_all	sql_yacc.y	/^opt_all:$/;"	l
+opt_and	sql_yacc.y	/^opt_and:$/;"	l
+opt_as	sql_yacc.y	/^opt_as:$/;"	l
+opt_attribute	sql_yacc.y	/^opt_attribute:$/;"	l
+opt_attribute_list	sql_yacc.y	/^opt_attribute_list:$/;"	l
+opt_bin_mod	sql_yacc.y	/^opt_bin_mod:$/;"	l
+opt_binary	sql_yacc.y	/^opt_binary:$/;"	l
+opt_chain	sql_yacc.y	/^opt_chain:$/;"	l
+opt_check_constraint	sql_yacc.y	/^opt_check_constraint:$/;"	l
+opt_checksum_type	sql_yacc.y	/^opt_checksum_type:$/;"	l
+opt_collate	sql_yacc.y	/^opt_collate:$/;"	l
+opt_column	sql_yacc.y	/^opt_column:$/;"	l
+opt_column_list	sql_yacc.y	/^opt_column_list:$/;"	l
+opt_component	sql_yacc.y	/^opt_component:$/;"	l
+opt_constraint	sql_yacc.y	/^opt_constraint:$/;"	l
+opt_convert_xid	sql_yacc.y	/^opt_convert_xid:$/;"	l
+opt_create_database_options	sql_yacc.y	/^opt_create_database_options:$/;"	l
+opt_create_partitioning	sql_yacc.y	/^opt_create_partitioning:$/;"	l
+opt_create_table_options	sql_yacc.y	/^opt_create_table_options:$/;"	l
+opt_db	sql_yacc.y	/^opt_db:$/;"	l
+opt_default	sql_yacc.y	/^opt_default:$/;"	l
+opt_delete_option	sql_yacc.y	/^opt_delete_option:$/;"	l
+opt_delete_options	sql_yacc.y	/^opt_delete_options:$/;"	l
+opt_describe_column	sql_yacc.y	/^opt_describe_column:$/;"	l
+opt_distinct	sql_yacc.y	/^opt_distinct:$/;"	l
+opt_duplicate	sql_yacc.y	/^opt_duplicate:$/;"	l
+opt_else	sql_yacc.y	/^opt_else:$/;"	l
+opt_end_of_input	sql_yacc.y	/^opt_end_of_input:$/;"	l
+opt_end_of_input	sql_yacc_simple.y	/^opt_end_of_input:$/;"	l
+opt_equal	sql_yacc.y	/^opt_equal:$/;"	l
+opt_escape	sql_yacc.y	/^opt_escape:$/;"	l
+opt_ev_comment	sql_yacc.y	/^opt_ev_comment:$/;"	l
+opt_ev_on_completion	sql_yacc.y	/^opt_ev_on_completion:$/;"	l
+opt_ev_rename_to	sql_yacc.y	/^opt_ev_rename_to:$/;"	l
+opt_ev_sql_stmt	sql_yacc.y	/^opt_ev_sql_stmt:$/;"	l
+opt_ev_status	sql_yacc.y	/^opt_ev_status:$/;"	l
+opt_expr	sql_yacc.y	/^opt_expr:$/;"	l
+opt_expr_list	sql_yacc.y	/^opt_expr_list:$/;"	l
+opt_extended_describe	sql_yacc.y	/^opt_extended_describe:$/;"	l
+opt_field_length	sql_yacc.y	/^opt_field_length:$/;"	l
+opt_field_or_var_spec	sql_yacc.y	/^opt_field_or_var_spec:$/;"	l
+opt_field_term	sql_yacc.y	/^opt_field_term:$/;"	l
+opt_filter_db_list	sql_yacc.y	/^opt_filter_db_list:$/;"	l
+opt_filter_db_pair_list	sql_yacc.y	/^opt_filter_db_pair_list:$/;"	l
+opt_filter_string_list	sql_yacc.y	/^opt_filter_string_list:$/;"	l
+opt_filter_table_list	sql_yacc.y	/^opt_filter_table_list:$/;"	l
+opt_flush_lock	sql_yacc.y	/^opt_flush_lock:$/;"	l
+opt_from_clause	sql_yacc.y	/^opt_from_clause:$/;"	l
+opt_full	sql_yacc.y	/^opt_full:$/;"	l
+opt_gconcat_separator	sql_yacc.y	/^opt_gconcat_separator:$/;"	l
+opt_gorder_clause	sql_yacc.y	/^opt_gorder_clause:$/;"	l
+opt_grant_option	sql_yacc.y	/^opt_grant_option:$/;"	l
+opt_group_clause	sql_yacc.y	/^opt_group_clause:$/;"	l
+opt_having_clause	sql_yacc.y	/^opt_having_clause:$/;"	l
+opt_ident	sql_yacc.y	/^opt_ident:$/;"	l
+opt_if_not_exists	sql_yacc.y	/^opt_if_not_exists:$/;"	l
+opt_ignore	sql_yacc.y	/^opt_ignore:$/;"	l
+opt_ignore_leaves	sql_yacc.y	/^opt_ignore_leaves:$/;"	l
+opt_ignore_lines	sql_yacc.y	/^opt_ignore_lines:$/;"	l
+opt_index_hints_list	sql_yacc.y	/^opt_index_hints_list:$/;"	l
+opt_index_lock_algorithm	sql_yacc.y	/^opt_index_lock_algorithm:$/;"	l
+opt_insert_update	sql_yacc.y	/^opt_insert_update:$/;"	l
+opt_into	sql_yacc.y	/^opt_into:$/;"	l
+opt_isolation_level	sql_yacc.y	/^opt_isolation_level:$/;"	l
+opt_join_or_resume	sql_yacc.y	/^opt_join_or_resume:$/;"	l
+opt_key_algo	sql_yacc.y	/^opt_key_algo:$/;"	l
+opt_key_definition	sql_yacc.y	/^opt_key_definition:$/;"	l
+opt_key_or_index	sql_yacc.y	/^opt_key_or_index:$/;"	l
+opt_key_usage_list	sql_yacc.y	/^opt_key_usage_list:$/;"	l
+opt_limit_clause	sql_yacc.y	/^opt_limit_clause:$/;"	l
+opt_limit_clause	sql_yacc_simple.y	/^opt_limit_clause:$/;"	l
+opt_line_term	sql_yacc.y	/^opt_line_term:$/;"	l
+opt_linear	sql_yacc.y	/^opt_linear:$/;"	l
+opt_load_data_charset	sql_yacc.y	/^opt_load_data_charset:$/;"	l
+opt_load_data_set_spec	sql_yacc.y	/^opt_load_data_set_spec:$/;"	l
+opt_local	sql_yacc.y	/^opt_local:$/;"	l
+opt_logfile_group_name	sql_yacc.y	/^opt_logfile_group_name:$/;"	l
+opt_low_priority	sql_yacc.y	/^opt_low_priority:$/;"	l
+opt_match_clause	sql_yacc.y	/^opt_match_clause:$/;"	l
+opt_mi_check_type	sql_yacc.y	/^opt_mi_check_type:$/;"	l
+opt_mi_repair_type	sql_yacc.y	/^opt_mi_repair_type:$/;"	l
+opt_natural_language_mode	sql_yacc.y	/^opt_natural_language_mode:$/;"	l
+opt_no_write_to_binlog	sql_yacc.y	/^opt_no_write_to_binlog:$/;"	l
+opt_num_parts	sql_yacc.y	/^opt_num_parts:$/;"	l
+opt_num_subparts	sql_yacc.y	/^opt_num_subparts:$/;"	l
+opt_on_update_delete	sql_yacc.y	/^opt_on_update_delete:$/;"	l
+opt_one_phase	sql_yacc.y	/^opt_one_phase:$/;"	l
+opt_order_clause	sql_yacc.y	/^opt_order_clause:$/;"	l
+opt_order_clause	sql_yacc_simple.y	/^opt_order_clause:$/;"	l
+opt_outer	sql_yacc.y	/^opt_outer:$/;"	l
+opt_part_option	sql_yacc.y	/^opt_part_option:$/;"	l
+opt_part_option_list	sql_yacc.y	/^opt_part_option_list:$/;"	l
+opt_part_options	sql_yacc.y	/^opt_part_options:$/;"	l
+opt_part_values	sql_yacc.y	/^opt_part_values:$/;"	l
+opt_partitioning	sql_yacc.y	/^opt_partitioning:$/;"	l
+opt_place	sql_yacc.y	/^opt_place:$/;"	l
+opt_precision	sql_yacc.y	/^opt_precision:$/;"	l
+opt_primary	sql_yacc.y	/^opt_primary:$/;"	l
+opt_privileges	sql_yacc.y	/^opt_privileges:$/;"	l
+opt_procedure_analyse_clause	sql_yacc.y	/^opt_procedure_analyse_clause:$/;"	l
+opt_procedure_analyse_params	sql_yacc.y	/^opt_procedure_analyse_params:$/;"	l
+opt_profile_args	sql_yacc.y	/^opt_profile_args:$/;"	l
+opt_profile_defs	sql_yacc.y	/^opt_profile_defs:$/;"	l
+opt_query_expansion	sql_yacc.y	/^opt_query_expansion:$/;"	l
+opt_query_spec_options	sql_yacc.y	/^opt_query_spec_options:$/;"	l
+opt_ref_list	sql_yacc.y	/^opt_ref_list:$/;"	l
+opt_release	sql_yacc.y	/^opt_release:$/;"	l
+opt_restrict	sql_yacc.y	/^opt_restrict:$/;"	l
+opt_savepoint	sql_yacc.y	/^opt_savepoint:$/;"	l
+opt_select_lock_type	sql_yacc.y	/^opt_select_lock_type:$/;"	l
+opt_set_signal_information	sql_yacc.y	/^opt_set_signal_information:$/;"	l
+opt_signal_value	sql_yacc.y	/^opt_signal_value:$/;"	l
+opt_slave_thread_option_list	sql_yacc.y	/^opt_slave_thread_option_list:$/;"	l
+opt_sp_cparam_list	sql_yacc.y	/^opt_sp_cparam_list:$/;"	l
+opt_sp_cparams	sql_yacc.y	/^opt_sp_cparams:$/;"	l
+opt_start_transaction_option_list	sql_yacc.y	/^opt_start_transaction_option_list:$/;"	l
+opt_storage	sql_yacc.y	/^opt_storage:$/;"	l
+opt_sub_part	sql_yacc.y	/^opt_sub_part:$/;"	l
+opt_sub_partition	sql_yacc.y	/^opt_sub_partition:$/;"	l
+opt_suspend	sql_yacc.y	/^opt_suspend:$/;"	l
+opt_table	sql_yacc.y	/^opt_table:$/;"	l
+opt_table_alias	sql_yacc.y	/^opt_table_alias:$/;"	l
+opt_table_list	sql_yacc.y	/^opt_table_list:$/;"	l
+opt_table_options	sql_yacc.y	/^opt_table_options:$/;"	l
+opt_table_sym	sql_yacc.y	/^opt_table_sym:$/;"	l
+opt_temporary	sql_yacc.y	/^opt_temporary:$/;"	l
+opt_to	sql_yacc.y	/^opt_to:$/;"	l
+opt_transaction_access_mode	sql_yacc.y	/^opt_transaction_access_mode:$/;"	l
+opt_ts_autoextend_size	sql_yacc.y	/^opt_ts_autoextend_size:$/;"	l
+opt_ts_comment	sql_yacc.y	/^opt_ts_comment:$/;"	l
+opt_ts_engine	sql_yacc.y	/^opt_ts_engine:$/;"	l
+opt_ts_extent_size	sql_yacc.y	/^opt_ts_extent_size:$/;"	l
+opt_ts_initial_size	sql_yacc.y	/^opt_ts_initial_size:$/;"	l
+opt_ts_max_size	sql_yacc.y	/^opt_ts_max_size:$/;"	l
+opt_ts_nodegroup	sql_yacc.y	/^opt_ts_nodegroup:$/;"	l
+opt_ts_redo_buffer_size	sql_yacc.y	/^opt_ts_redo_buffer_size:$/;"	l
+opt_ts_undo_buffer_size	sql_yacc.y	/^opt_ts_undo_buffer_size:$/;"	l
+opt_udf_expr_list	sql_yacc.y	/^opt_udf_expr_list:$/;"	l
+opt_union_clause	sql_yacc.y	/^opt_union_clause:$/;"	l
+opt_union_order_or_limit	sql_yacc.y	/^opt_union_order_or_limit:$/;"	l
+opt_unique	sql_yacc.y	/^opt_unique:$/;"	l
+opt_use_partition	sql_yacc.y	/^opt_use_partition:$/;"	l
+opt_user_password_expiration	sql_yacc.y	/^opt_user_password_expiration:$/;"	l
+opt_validation	sql_yacc.y	/^opt_validation:$/;"	l
+opt_value	sql_yacc.y	/^opt_value:$/;"	l
+opt_values	sql_yacc.y	/^opt_values:$/;"	l
+opt_var_ident_type	sql_yacc.y	/^opt_var_ident_type:$/;"	l
+opt_var_type	sql_yacc.y	/^opt_var_type:$/;"	l
+opt_where_clause	sql_yacc.y	/^opt_where_clause:$/;"	l
+opt_wild	sql_yacc.y	/^opt_wild:$/;"	l
+opt_work	sql_yacc.y	/^opt_work:$/;"	l
+opt_ws_levels	sql_yacc.y	/^opt_ws_levels:$/;"	l
+opt_xml_rows_identified_by	sql_yacc.y	/^opt_xml_rows_identified_by:$/;"	l
+optimize	sql_yacc.y	/^optimize:$/;"	l
+option_type	sql_yacc.y	/^option_type:$/;"	l
+option_value	sql_yacc.y	/^option_value:$/;"	l
+option_value_following_option_type	sql_yacc.y	/^option_value_following_option_type:$/;"	l
+option_value_list	sql_yacc.y	/^option_value_list:$/;"	l
+option_value_list_continued	sql_yacc.y	/^option_value_list_continued:$/;"	l
+option_value_no_option_type	sql_yacc.y	/^option_value_no_option_type:$/;"	l
+optional_braces	sql_yacc.y	/^optional_braces:$/;"	l
+or	sql_yacc.y	/^or:$/;"	l
+or	sql_yacc_simple.y	/^or:$/;"	l
+order_clause	sql_yacc.y	/^order_clause:$/;"	l
+order_clause	sql_yacc_simple.y	/^order_clause:$/;"	l
+order_dir	sql_yacc.y	/^order_dir:$/;"	l
+order_expr	sql_yacc.y	/^order_expr:$/;"	l
+order_list	sql_yacc.y	/^order_list:$/;"	l
+order_list	sql_yacc_simple.y	/^order_list:$/;"	l
+order_or_limit	sql_yacc.y	/^order_or_limit:$/;"	l
+param_marker	sql_yacc.y	/^param_marker:$/;"	l
+part_column_list	sql_yacc.y	/^part_column_list:$/;"	l
+part_def_list	sql_yacc.y	/^part_def_list:$/;"	l
+part_definition	sql_yacc.y	/^part_definition:$/;"	l
+part_defs	sql_yacc.y	/^part_defs:$/;"	l
+part_field_item	sql_yacc.y	/^part_field_item:$/;"	l
+part_field_item_list	sql_yacc.y	/^part_field_item_list:$/;"	l
+part_field_list	sql_yacc.y	/^part_field_list:$/;"	l
+part_func	sql_yacc.y	/^part_func:$/;"	l
+part_func_expr	sql_yacc.y	/^part_func_expr:$/;"	l
+part_func_max	sql_yacc.y	/^part_func_max:$/;"	l
+part_name	sql_yacc.y	/^part_name:$/;"	l
+part_type_def	sql_yacc.y	/^part_type_def:$/;"	l
+part_value_expr_item	sql_yacc.y	/^part_value_expr_item:$/;"	l
+part_value_item	sql_yacc.y	/^part_value_item:$/;"	l
+part_value_item_list	sql_yacc.y	/^part_value_item_list:$/;"	l
+part_value_list	sql_yacc.y	/^part_value_list:$/;"	l
+part_values_in	sql_yacc.y	/^part_values_in:$/;"	l
+partition	sql_yacc.y	/^partition:$/;"	l
+partition_entry	sql_yacc.y	/^partition_entry:$/;"	l
+partitioning	sql_yacc.y	/^partitioning:$/;"	l
+precision	sql_yacc.y	/^precision:$/;"	l
+predicate	sql_yacc.y	/^predicate:$/;"	l
+predicate	sql_yacc_simple.y	/^predicate:$/;"	l
+preload	sql_yacc.y	/^preload:$/;"	l
+preload_keys	sql_yacc.y	/^preload_keys:$/;"	l
+preload_keys_parts	sql_yacc.y	/^preload_keys_parts:$/;"	l
+preload_list	sql_yacc.y	/^preload_list:$/;"	l
+preload_list_or_parts	sql_yacc.y	/^preload_list_or_parts:$/;"	l
+prepare	sql_yacc.y	/^prepare:$/;"	l
+prepare_src	sql_yacc.y	/^prepare_src:$/;"	l
+procedure_analyse_param	sql_yacc.y	/^procedure_analyse_param:$/;"	l
+profile_def	sql_yacc.y	/^profile_def:$/;"	l
+profile_defs	sql_yacc.y	/^profile_defs:$/;"	l
+purge	sql_yacc.y	/^purge:$/;"	l
+purge_option	sql_yacc.y	/^purge_option:$/;"	l
+purge_options	sql_yacc.y	/^purge_options:$/;"	l
+query	sql_yacc.y	/^query:$/;"	l
+query	sql_yacc_simple.y	/^query:$/;"	l
+query_expression_body	sql_yacc.y	/^query_expression_body:$/;"	l
+query_expression_option	sql_yacc_simple.y	/^query_expression_option:$/;"	l
+query_spec_option	sql_yacc.y	/^query_spec_option:$/;"	l
+query_spec_option_list	sql_yacc.y	/^query_spec_option_list:$/;"	l
+query_specification	sql_yacc.y	/^query_specification:$/;"	l
+real_type	sql_yacc.y	/^real_type:$/;"	l
+real_ulong_num	sql_yacc.y	/^real_ulong_num:$/;"	l
+real_ulonglong_num	sql_yacc.y	/^real_ulonglong_num:$/;"	l
+ref_list	sql_yacc.y	/^ref_list:$/;"	l
+references	sql_yacc.y	/^references:$/;"	l
+release	sql_yacc.y	/^release:$/;"	l
+remove_partitioning	sql_yacc.y	/^remove_partitioning:$/;"	l
+rename	sql_yacc.y	/^rename:$/;"	l
+rename_list	sql_yacc.y	/^rename_list:$/;"	l
+reorg_partition_rule	sql_yacc.y	/^reorg_partition_rule:$/;"	l
+reorg_parts_rule	sql_yacc.y	/^reorg_parts_rule:$/;"	l
+repair	sql_yacc.y	/^repair:$/;"	l
+replace	sql_yacc.y	/^replace:$/;"	l
+replace_lock_option	sql_yacc.y	/^replace_lock_option:$/;"	l
+require_clause	sql_yacc.y	/^require_clause:$/;"	l
+require_list	sql_yacc.y	/^require_list:$/;"	l
+require_list_element	sql_yacc.y	/^require_list_element:$/;"	l
+reset	sql_yacc.y	/^reset:$/;"	l
+reset_option	sql_yacc.y	/^reset_option:$/;"	l
+reset_options	sql_yacc.y	/^reset_options:$/;"	l
+resignal_stmt	sql_yacc.y	/^resignal_stmt:$/;"	l
+revoke	sql_yacc.y	/^revoke:$/;"	l
+revoke_command	sql_yacc.y	/^revoke_command:$/;"	l
+rollback	sql_yacc.y	/^rollback:$/;"	l
+row_types	sql_yacc.y	/^row_types:$/;"	l
+rule	sql_yacc.y	/^rule: <-- starts at col 1$/;"	l
+savepoint	sql_yacc.y	/^savepoint:$/;"	l
+scan	sql_lex.cpp	/^int scan(){$/;"	f
+scan_buffer	sql_lex.cpp	/^void scan_buffer(char *str, int len){$/;"	f
+scanner_state	lex_global.h	/^enum scanner_state {$/;"	g
+searched_case_stmt	sql_yacc.y	/^searched_case_stmt:$/;"	l
+searched_when_clause	sql_yacc.y	/^searched_when_clause:$/;"	l
+searched_when_clause_list	sql_yacc.y	/^searched_when_clause_list:$/;"	l
+select	sql_yacc.y	/^select:$/;"	l
+select	sql_yacc_simple.y	/^select:$/;"	l
+select_alias	sql_yacc.y	/^select_alias:$/;"	l
+select_alias	sql_yacc_simple.y	/^select_alias:$/;"	l
+select_derived	sql_yacc.y	/^select_derived:$/;"	l
+select_derived_union	sql_yacc.y	/^select_derived_union:$/;"	l
+select_from	sql_yacc_simple.y	/^select_from:$/;"	l
+select_init	sql_yacc.y	/^select_init:$/;"	l
+select_init	sql_yacc_simple.y	/^select_init:$/;"	l
+select_init2	sql_yacc.y	/^select_init2:$/;"	l
+select_init2	sql_yacc_simple.y	/^select_init2:$/;"	l
+select_into	sql_yacc_simple.y	/^select_into:$/;"	l
+select_item	sql_yacc.y	/^select_item:$/;"	l
+select_item	sql_yacc_simple.y	/^select_item:$/;"	l
+select_item_list	sql_yacc.y	/^select_item_list:$/;"	l
+select_item_list	sql_yacc_simple.y	/^select_item_list:$/;"	l
+select_lock_type	sql_yacc_simple.y	/^select_lock_type:$/;"	l
+select_option	sql_yacc.y	/^select_option:$/;"	l
+select_option	sql_yacc_simple.y	/^select_option:$/;"	l
+select_option_list	sql_yacc.y	/^select_option_list:$/;"	l
+select_option_list	sql_yacc_simple.y	/^select_option_list:$/;"	l
+select_options	sql_yacc.y	/^select_options:$/;"	l
+select_options	sql_yacc_simple.y	/^select_options:$/;"	l
+select_options_and_item_list	sql_yacc.y	/^select_options_and_item_list:$/;"	l
+select_paren	sql_yacc.y	/^select_paren:$/;"	l
+select_paren	sql_yacc_simple.y	/^select_paren:$/;"	l
+select_paren_derived	sql_yacc.y	/^select_paren_derived:$/;"	l
+select_paren_derived	sql_yacc_simple.y	/^select_paren_derived:$/;"	l
+select_part2	sql_yacc.y	/^select_part2:$/;"	l
+select_part2	sql_yacc_simple.y	/^select_part2:$/;"	l
+select_part2_derived	sql_yacc.y	/^select_part2_derived:$/;"	l
+select_var_ident	sql_yacc.y	/^select_var_ident:$/;"	l
+select_var_list	sql_yacc.y	/^select_var_list:$/;"	l
+server_option	sql_yacc.y	/^server_option:$/;"	l
+server_options_list	sql_yacc.y	/^server_options_list:$/;"	l
+set	sql_yacc.y	/^set:$/;"	l
+set_expr_or_default	sql_yacc.y	/^set_expr_or_default:$/;"	l
+sf_tail	sql_yacc.y	/^sf_tail:$/;"	l
+short	sql_yacc.cpp	785;"	d	file:
+show	sql_yacc.y	/^show:$/;"	l
+show_engine_param	sql_yacc.y	/^show_engine_param:$/;"	l
+show_param	sql_yacc.y	/^show_param:$/;"	l
+signal_allowed_expr	sql_yacc.y	/^signal_allowed_expr:$/;"	l
+signal_condition_information_item_name	sql_yacc.y	/^signal_condition_information_item_name:$/;"	l
+signal_information_item_list	sql_yacc.y	/^signal_information_item_list:$/;"	l
+signal_stmt	sql_yacc.y	/^signal_stmt:$/;"	l
+signal_value	sql_yacc.y	/^signal_value:$/;"	l
+signed_literal	sql_yacc.y	/^signed_literal:$/;"	l
+simple_case_stmt	sql_yacc.y	/^simple_case_stmt:$/;"	l
+simple_expr	sql_yacc.y	/^simple_expr:$/;"	l
+simple_expr	sql_yacc_simple.y	/^simple_expr:$/;"	l
+simple_ident	sql_yacc.y	/^simple_ident:$/;"	l
+simple_ident_nospvar	sql_yacc.y	/^simple_ident_nospvar:$/;"	l
+simple_ident_q	sql_yacc.y	/^simple_ident_q:$/;"	l
+simple_target_specification	sql_yacc.y	/^simple_target_specification:$/;"	l
+simple_when_clause	sql_yacc.y	/^simple_when_clause:$/;"	l
+simple_when_clause_list	sql_yacc.y	/^simple_when_clause_list:$/;"	l
+single_multi	sql_yacc.y	/^single_multi:$/;"	l
+size_number	sql_yacc.y	/^size_number:$/;"	l
+slave	sql_yacc.y	/^slave:$/;"	l
+slave_connection_opts	sql_yacc.y	/^slave_connection_opts:$/;"	l
+slave_plugin_auth_opt	sql_yacc.y	/^slave_plugin_auth_opt:$/;"	l
+slave_plugin_dir_opt	sql_yacc.y	/^slave_plugin_dir_opt:$/;"	l
+slave_reset_options	sql_yacc.y	/^slave_reset_options:$/;"	l
+slave_thread_option	sql_yacc.y	/^slave_thread_option:$/;"	l
+slave_thread_option_list	sql_yacc.y	/^slave_thread_option_list:$/;"	l
+slave_until	sql_yacc.y	/^slave_until:$/;"	l
+slave_until_opts	sql_yacc.y	/^slave_until_opts:$/;"	l
+slave_user_name_opt	sql_yacc.y	/^slave_user_name_opt:$/;"	l
+slave_user_pass_opt	sql_yacc.y	/^slave_user_pass_opt:$/;"	l
+sp_a_chistics	sql_yacc.y	/^sp_a_chistics:$/;"	l
+sp_block_content	sql_yacc.y	/^sp_block_content:$/;"	l
+sp_c_chistic	sql_yacc.y	/^sp_c_chistic:$/;"	l
+sp_c_chistics	sql_yacc.y	/^sp_c_chistics:$/;"	l
+sp_chistic	sql_yacc.y	/^sp_chistic:$/;"	l
+sp_cond	sql_yacc.y	/^sp_cond:$/;"	l
+sp_cparams	sql_yacc.y	/^sp_cparams:$/;"	l
+sp_decl	sql_yacc.y	/^sp_decl:$/;"	l
+sp_decl_idents	sql_yacc.y	/^sp_decl_idents:$/;"	l
+sp_decls	sql_yacc.y	/^sp_decls:$/;"	l
+sp_elseifs	sql_yacc.y	/^sp_elseifs:$/;"	l
+sp_fdparam	sql_yacc.y	/^sp_fdparam:$/;"	l
+sp_fdparam_list	sql_yacc.y	/^sp_fdparam_list:$/;"	l
+sp_fdparams	sql_yacc.y	/^sp_fdparams:$/;"	l
+sp_fetch_list	sql_yacc.y	/^sp_fetch_list:$/;"	l
+sp_handler_type	sql_yacc.y	/^sp_handler_type:$/;"	l
+sp_hcond	sql_yacc.y	/^sp_hcond:$/;"	l
+sp_hcond_element	sql_yacc.y	/^sp_hcond_element:$/;"	l
+sp_hcond_list	sql_yacc.y	/^sp_hcond_list:$/;"	l
+sp_if	sql_yacc.y	/^sp_if:$/;"	l
+sp_init_param	sql_yacc.y	/^sp_init_param:$/;"	l
+sp_labeled_block	sql_yacc.y	/^sp_labeled_block:$/;"	l
+sp_labeled_control	sql_yacc.y	/^sp_labeled_control:$/;"	l
+sp_name	sql_yacc.y	/^sp_name:$/;"	l
+sp_opt_default	sql_yacc.y	/^sp_opt_default:$/;"	l
+sp_opt_fetch_noise	sql_yacc.y	/^sp_opt_fetch_noise:$/;"	l
+sp_opt_inout	sql_yacc.y	/^sp_opt_inout:$/;"	l
+sp_opt_label	sql_yacc.y	/^sp_opt_label:$/;"	l
+sp_pdparam	sql_yacc.y	/^sp_pdparam:$/;"	l
+sp_pdparam_list	sql_yacc.y	/^sp_pdparam_list:$/;"	l
+sp_pdparams	sql_yacc.y	/^sp_pdparams:$/;"	l
+sp_proc_stmt	sql_yacc.y	/^sp_proc_stmt:$/;"	l
+sp_proc_stmt_close	sql_yacc.y	/^sp_proc_stmt_close:$/;"	l
+sp_proc_stmt_fetch	sql_yacc.y	/^sp_proc_stmt_fetch:$/;"	l
+sp_proc_stmt_if	sql_yacc.y	/^sp_proc_stmt_if:$/;"	l
+sp_proc_stmt_iterate	sql_yacc.y	/^sp_proc_stmt_iterate:$/;"	l
+sp_proc_stmt_leave	sql_yacc.y	/^sp_proc_stmt_leave:$/;"	l
+sp_proc_stmt_open	sql_yacc.y	/^sp_proc_stmt_open:$/;"	l
+sp_proc_stmt_return	sql_yacc.y	/^sp_proc_stmt_return:$/;"	l
+sp_proc_stmt_statement	sql_yacc.y	/^sp_proc_stmt_statement:$/;"	l
+sp_proc_stmt_unlabeled	sql_yacc.y	/^sp_proc_stmt_unlabeled:$/;"	l
+sp_proc_stmts	sql_yacc.y	/^sp_proc_stmts:$/;"	l
+sp_proc_stmts1	sql_yacc.y	/^sp_proc_stmts1:$/;"	l
+sp_suid	sql_yacc.y	/^sp_suid:$/;"	l
+sp_tail	sql_yacc.y	/^sp_tail:$/;"	l
+sp_unlabeled_block	sql_yacc.y	/^sp_unlabeled_block:$/;"	l
+sp_unlabeled_control	sql_yacc.y	/^sp_unlabeled_control:$/;"	l
+spatial	sql_yacc.y	/^spatial:$/;"	l
+spatial_key_opt	sql_yacc.y	/^spatial_key_opt:$/;"	l
+spatial_key_options	sql_yacc.y	/^spatial_key_options:$/;"	l
+spatial_key_opts	sql_yacc.y	/^spatial_key_opts:$/;"	l
+spatial_type	sql_yacc.y	/^spatial_type:$/;"	l
+sqlstate	sql_yacc.y	/^sqlstate:$/;"	l
+start	sql_yacc.y	/^start:$/;"	l
+start_option_value_list	sql_yacc.y	/^start_option_value_list:$/;"	l
+start_option_value_list_following_option_type	sql_yacc.y	/^start_option_value_list_following_option_type:$/;"	l
+start_transaction_option	sql_yacc.y	/^start_transaction_option:$/;"	l
+start_transaction_option_list	sql_yacc.y	/^start_transaction_option_list:$/;"	l
+state	lex_global.h	/^  int state, yy_leng;$/;"	m	class:Scanner
+statement	sql_yacc.y	/^statement:$/;"	l
+statement	sql_yacc_simple.y	/^statement:$/;"	l
+statement_information	sql_yacc.y	/^statement_information:$/;"	l
+statement_information_item	sql_yacc.y	/^statement_information_item:$/;"	l
+statement_information_item_name	sql_yacc.y	/^statement_information_item_name:$/;"	l
+storage_engines	sql_yacc.y	/^storage_engines:$/;"	l
+string_list	sql_yacc.y	/^string_list:$/;"	l
+sub_name	sql_yacc.y	/^sub_name:$/;"	l
+sub_part_definition	sql_yacc.y	/^sub_part_definition:$/;"	l
+sub_part_field_item	sql_yacc.y	/^sub_part_field_item:$/;"	l
+sub_part_field_list	sql_yacc.y	/^sub_part_field_list:$/;"	l
+sub_part_func	sql_yacc.y	/^sub_part_func:$/;"	l
+sub_part_list	sql_yacc.y	/^sub_part_list:$/;"	l
+subselect	sql_yacc.y	/^subselect:$/;"	l
+sum_expr	sql_yacc.y	/^sum_expr:$/;"	l
+sum_expr	sql_yacc_simple.y	/^sum_expr:$/;"	l
+table	sql_desc.h	/^  std::string *table;$/;"	m	class:DB_table
+table_alias	sql_yacc.y	/^table_alias:$/;"	l
+table_alias_ref	sql_yacc.y	/^table_alias_ref:$/;"	l
+table_alias_ref_list	sql_yacc.y	/^table_alias_ref_list:$/;"	l
+table_expression	sql_yacc.y	/^table_expression:$/;"	l
+table_factor	sql_yacc.y	/^table_factor:$/;"	l
+table_ident	sql_yacc.y	/^table_ident:$/;"	l
+table_ident	sql_yacc_simple.y	/^table_ident:$/;"	l
+table_ident_nodb	sql_yacc.y	/^table_ident_nodb:$/;"	l
+table_ident_opt_wild	sql_yacc.y	/^table_ident_opt_wild:$/;"	l
+table_list	sql_yacc.y	/^table_list:$/;"	l
+table_lock	sql_yacc.y	/^table_lock:$/;"	l
+table_lock_list	sql_yacc.y	/^table_lock_list:$/;"	l
+table_name	sql_yacc.y	/^table_name:$/;"	l
+table_name_with_opt_use_partition	sql_yacc.y	/^table_name_with_opt_use_partition:$/;"	l
+table_option	sql_yacc.y	/^table_option:$/;"	l
+table_options	sql_yacc.y	/^table_options:$/;"	l
+table_or_tables	sql_yacc.y	/^table_or_tables:$/;"	l
+table_ref	sql_yacc.y	/^table_ref:$/;"	l
+table_reference_list	sql_yacc.y	/^table_reference_list:$/;"	l
+table_to_table	sql_yacc.y	/^table_to_table:$/;"	l
+table_to_table_list	sql_yacc.y	/^table_to_table_list:$/;"	l
+table_wild	sql_yacc.y	/^table_wild:$/;"	l
+table_wild	sql_yacc_simple.y	/^table_wild:$/;"	l
+table_wild_list	sql_yacc.y	/^table_wild_list:$/;"	l
+table_wild_one	sql_yacc.y	/^table_wild_one:$/;"	l
+tablespace_info	sql_yacc.y	/^tablespace_info:$/;"	l
+tablespace_name	sql_yacc.y	/^tablespace_name:$/;"	l
+tablespace_option	sql_yacc.y	/^tablespace_option:$/;"	l
+tablespace_option_list	sql_yacc.y	/^tablespace_option_list:$/;"	l
+tablespace_options	sql_yacc.y	/^tablespace_options:$/;"	l
+temporal_literal	sql_yacc.y	/^temporal_literal:$/;"	l
+text_literal	sql_yacc.y	/^text_literal:$/;"	l
+text_literal	sql_yacc_simple.y	/^text_literal:$/;"	l
+text_or_password	sql_yacc.y	/^text_or_password:$/;"	l
+text_string	sql_yacc.y	/^text_string:$/;"	l
+token	sql_yacc.cpp	/^  int token;$/;"	m	union:YYSTYPE	file:
+token	sql_yacc.hpp	/^  int token;$/;"	m	union:YYSTYPE
+transaction_access_mode	sql_yacc.y	/^transaction_access_mode:$/;"	l
+transaction_access_mode_types	sql_yacc.y	/^transaction_access_mode_types:$/;"	l
+transaction_characteristics	sql_yacc.y	/^transaction_characteristics:$/;"	l
+trg_action_time	sql_yacc.y	/^trg_action_time:$/;"	l
+trg_event	sql_yacc.y	/^trg_event:$/;"	l
+trigger_action_order	sql_yacc.y	/^trigger_action_order:$/;"	l
+trigger_follows_precedes_clause	sql_yacc.y	/^trigger_follows_precedes_clause:$/;"	l
+trigger_tail	sql_yacc.y	/^trigger_tail:$/;"	l
+truncate	sql_yacc.y	/^truncate:$/;"	l
+ts_access_mode	sql_yacc.y	/^ts_access_mode:$/;"	l
+ts_datafile	sql_yacc.y	/^ts_datafile:$/;"	l
+ts_wait	sql_yacc.y	/^ts_wait:$/;"	l
+type	sql_yacc.y	/^type:$/;"	l
+type_datetime_precision	sql_yacc.y	/^type_datetime_precision:$/;"	l
+type_with_opt_collate	sql_yacc.y	/^type_with_opt_collate:$/;"	l
+udf_expr	sql_yacc.y	/^udf_expr:$/;"	l
+udf_expr_list	sql_yacc.y	/^udf_expr_list:$/;"	l
+udf_tail	sql_yacc.y	/^udf_tail:$/;"	l
+udf_type	sql_yacc.y	/^udf_type:$/;"	l
+ulong_num	sql_yacc.y	/^ulong_num:$/;"	l
+ulonglong_num	sql_yacc.y	/^ulonglong_num:$/;"	l
+unicode	sql_yacc.y	/^unicode:$/;"	l
+uninstall	sql_yacc.y	/^uninstall:$/;"	l
+union_list	sql_yacc.y	/^union_list:$/;"	l
+union_opt	sql_yacc.y	/^union_opt:$/;"	l
+union_opt	sql_yacc_simple.y	/^union_opt:$/;"	l
+union_option	sql_yacc.y	/^union_option:$/;"	l
+union_order_or_limit	sql_yacc.y	/^union_order_or_limit:$/;"	l
+unlock	sql_yacc.y	/^unlock:$/;"	l
+update	sql_yacc.y	/^update:$/;"	l
+update_elem	sql_yacc.y	/^update_elem:$/;"	l
+update_list	sql_yacc.y	/^update_list:$/;"	l
+use	sql_yacc.y	/^use:$/;"	l
+use_partition	sql_yacc.y	/^use_partition:$/;"	l
+user	sql_yacc.y	/^user:$/;"	l
+user_list	sql_yacc.y	/^user_list:$/;"	l
+using_list	sql_yacc.y	/^using_list:$/;"	l
+values	sql_yacc.y	/^values:$/;"	l
+values_list	sql_yacc.y	/^values_list:$/;"	l
+varchar	sql_yacc.y	/^varchar:$/;"	l
+variable	sql_yacc.y	/^variable:$/;"	l
+variable_aux	sql_yacc.y	/^variable_aux:$/;"	l
+verb_clause	sql_yacc.y	/^verb_clause:$/;"	l
+verb_clause	sql_yacc_simple.y	/^verb_clause:$/;"	l
+view_algorithm	sql_yacc.y	/^view_algorithm:$/;"	l
+view_check_option	sql_yacc.y	/^view_check_option:$/;"	l
+view_list	sql_yacc.y	/^view_list:$/;"	l
+view_list_opt	sql_yacc.y	/^view_list_opt:$/;"	l
+view_or_trigger_or_sp_or_event	sql_yacc.y	/^view_or_trigger_or_sp_or_event:$/;"	l
+view_replace	sql_yacc.y	/^view_replace:$/;"	l
+view_replace_or_algorithm	sql_yacc.y	/^view_replace_or_algorithm:$/;"	l
+view_select	sql_yacc.y	/^view_select:$/;"	l
+view_select_aux	sql_yacc.y	/^view_select_aux:$/;"	l
+view_suid	sql_yacc.y	/^view_suid:$/;"	l
+view_tail	sql_yacc.y	/^view_tail:$/;"	l
+when_list	sql_yacc.y	/^when_list:$/;"	l
+where_clause	sql_yacc_simple.y	/^where_clause:$/;"	l
+which_area	sql_yacc.y	/^which_area:$/;"	l
+wild_and_where	sql_yacc.y	/^wild_and_where:$/;"	l
+ws_level_flag_desc	sql_yacc.y	/^ws_level_flag_desc:$/;"	l
+ws_level_flag_reverse	sql_yacc.y	/^ws_level_flag_reverse:$/;"	l
+ws_level_flags	sql_yacc.y	/^ws_level_flags:$/;"	l
+ws_level_list	sql_yacc.y	/^ws_level_list:$/;"	l
+ws_level_list_item	sql_yacc.y	/^ws_level_list_item:$/;"	l
+ws_level_list_or_range	sql_yacc.y	/^ws_level_list_or_range:$/;"	l
+ws_level_number	sql_yacc.y	/^ws_level_number:$/;"	l
+ws_level_range	sql_yacc.y	/^ws_level_range:$/;"	l
+ws_nweights	sql_yacc.y	/^ws_nweights:$/;"	l
+xa	sql_yacc.y	/^xa:$/;"	l
+xid	sql_yacc.y	/^xid:$/;"	l
+yy_cursor	lex_global.h	/^  char *yy_cursor, *yy_limit, *yy_marker, *yy_text;$/;"	m	class:Scanner
+yy_leng	lex_global.h	/^  int state, yy_leng;$/;"	m	class:Scanner
+yy_limit	lex_global.h	/^  char *yy_cursor, *yy_limit, *yy_marker, *yy_text;$/;"	m	class:Scanner
+yy_marker	lex_global.h	/^  char *yy_cursor, *yy_limit, *yy_marker, *yy_text;$/;"	m	class:Scanner
+yy_reduce_print	sql_yacc.cpp	/^yy_reduce_print (yytype_int16 *yyssp, YYSTYPE *yyvsp, int yyrule, SQL *sql)$/;"	f	file:
+yy_stack_print	sql_yacc.cpp	/^yy_stack_print (yytype_int16 *yybottom, yytype_int16 *yytop)$/;"	f	file:
+yy_symbol_print	sql_yacc.cpp	/^yy_symbol_print (FILE *yyoutput, int yytype, YYSTYPE const * const yyvaluep, SQL *sql)$/;"	f	file:
+yy_symbol_value_print	sql_yacc.cpp	/^yy_symbol_value_print (FILE *yyoutput, int yytype, YYSTYPE const * const yyvaluep, SQL *sql)$/;"	f	file:
+yy_text	lex_global.h	/^  char *yy_cursor, *yy_limit, *yy_marker, *yy_text;$/;"	m	class:Scanner
+yyalloc	sql_yacc.cpp	/^union yyalloc$/;"	u	file:
+yychar	sql_yacc.cpp	/^int yychar;$/;"	v
+yycheck	sql_yacc.cpp	/^static const yytype_int16 yycheck[] =$/;"	v	file:
+yyclearin	sql_yacc.cpp	16581;"	d	file:
+yydebug	sql_yacc.cpp	/^int yydebug;$/;"	v
+yydefact	sql_yacc.cpp	/^static const yytype_uint16 yydefact[] =$/;"	v	file:
+yydefgoto	sql_yacc.cpp	/^static const yytype_int16 yydefgoto[] =$/;"	v	file:
+yydestruct	sql_yacc.cpp	/^yydestruct (const char *yymsg, int yytype, YYSTYPE *yyvaluep, SQL *sql)$/;"	f	file:
+yyerrok	sql_yacc.cpp	16580;"	d	file:
+yyerror	sql_yacc.cpp	/^void yyerror(SQL *sql, const char *s){printf("ERROR: %s\\n", s);}$/;"	f
+yyleng	sql_lex.cpp	22;"	d	file:
+yylex	sql_lex.cpp	/^int yylex(){$/;"	f
+yylval	sql_yacc.cpp	/^YYSTYPE yylval;$/;"	v
+yynerrs	sql_yacc.cpp	/^int yynerrs;$/;"	v
+yypact	sql_yacc.cpp	/^static const int yypact[] =$/;"	v	file:
+yypact_value_is_default	sql_yacc.cpp	1879;"	d	file:
+yyparse	sql_yacc.cpp	/^yyparse (SQL *sql)$/;"	f
+yypgoto	sql_yacc.cpp	/^static const yytype_int16 yypgoto[] =$/;"	v	file:
+yyr1	sql_yacc.cpp	/^static const yytype_uint16 yyr1[] =$/;"	v	file:
+yyr2	sql_yacc.cpp	/^static const yytype_uint8 yyr2[] =$/;"	v	file:
+yyrline	sql_yacc.cpp	/^static const yytype_uint16 yyrline[] =$/;"	v	file:
+yyss_alloc	sql_yacc.cpp	/^  yytype_int16 yyss_alloc;$/;"	m	union:yyalloc	file:
+yystos	sql_yacc.cpp	/^static const yytype_uint16 yystos[] =$/;"	v	file:
+yystpcpy	sql_yacc.cpp	/^yystpcpy (char *yydest, const char *yysrc)$/;"	f	file:
+yystpcpy	sql_yacc.cpp	16783;"	d	file:
+yystrlen	sql_yacc.cpp	/^yystrlen (const char *yystr)$/;"	f	file:
+yystrlen	sql_yacc.cpp	16767;"	d	file:
+yysyntax_error	sql_yacc.cpp	/^yysyntax_error (YYSIZE_T *yymsg_alloc, char **yymsg,$/;"	f	file:
+yytable	sql_yacc.cpp	/^static const yytype_int16 yytable[] =$/;"	v	file:
+yytable_value_is_error	sql_yacc.cpp	1884;"	d	file:
+yytext	sql_lex.cpp	21;"	d	file:
+yytname	sql_yacc.cpp	/^static const char *const yytname[] =$/;"	v	file:
+yytnamerr	sql_yacc.cpp	/^yytnamerr (char *yyres, const char *yystr)$/;"	f	file:
+yytokentype	sql_yacc.cpp	/^  enum yytokentype$/;"	g	file:
+yytokentype	sql_yacc.hpp	/^  enum yytokentype$/;"	g
+yytoknum	sql_yacc.cpp	/^static const yytype_uint16 yytoknum[] =$/;"	v	file:
+yytranslate	sql_yacc.cpp	/^static const yytype_uint16 yytranslate[] =$/;"	v	file:
+yytype_int16	sql_yacc.cpp	/^typedef YYTYPE_INT16 yytype_int16;$/;"	t	file:
+yytype_int16	sql_yacc.cpp	/^typedef short int yytype_int16;$/;"	t	file:
+yytype_int8	sql_yacc.cpp	/^typedef YYTYPE_INT8 yytype_int8;$/;"	t	file:
+yytype_int8	sql_yacc.cpp	/^typedef signed char yytype_int8;$/;"	t	file:
+yytype_uint16	sql_yacc.cpp	/^typedef YYTYPE_UINT16 yytype_uint16;$/;"	t	file:
+yytype_uint16	sql_yacc.cpp	/^typedef unsigned short int yytype_uint16;$/;"	t	file:
+yytype_uint8	sql_yacc.cpp	/^typedef YYTYPE_UINT8 yytype_uint8;$/;"	t	file:
+yytype_uint8	sql_yacc.cpp	/^typedef unsigned char yytype_uint8;$/;"	t	file:
+yyvs_alloc	sql_yacc.cpp	/^  YYSTYPE yyvs_alloc;$/;"	m	union:yyalloc	file:
+~DB_table	sql_desc.h	/^  ~DB_table(){$/;"	f	class:DB_table
+~SQL	sql_desc.cpp	/^SQL::~SQL(){$/;"	f	class:SQL

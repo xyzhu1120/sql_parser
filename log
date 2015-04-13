@@ -1,0 +1,722 @@
+select FCompanyIntro, (select count(*) from test) as eee from test2 where tefds= 1;
+Starting parse
+Entering state 0
+Reading a token: Next token is token SELECT_SYM ()
+Shifting token SELECT_SYM ()
+Entering state 43
+Reducing stack by rule 1167 (line 4464):
+-> $$ = nterm $@95 ()
+Stack now 0 43
+Entering state 589
+Reading a token: Next token is token IDENT ()
+Reducing stack by rule 1175 (line 4508):
+-> $$ = nterm select_options ()
+Stack now 0 43 589
+Entering state 904
+Next token is token IDENT ()
+Shifting token IDENT ()
+Entering state 256
+Reducing stack by rule 1977 (line 7178):
+   $1 = token IDENT ()
+-> $$ = nterm IDENT_sys ()
+Stack now 0 43 589 904
+Entering state 822
+Reading a token: Next token is token ',' ()
+Reducing stack by rule 1984 (line 7215):
+   $1 = nterm IDENT_sys ()
+-> $$ = nterm ident ()
+Stack now 0 43 589 904
+Entering state 1419
+Next token is token ',' ()
+Reducing stack by rule 1960 (line 7111):
+   $1 = nterm ident ()
+-> $$ = nterm simple_ident ()
+Stack now 0 43 589 904
+Entering state 820
+Reducing stack by rule 1260 (line 4767):
+   $1 = nterm simple_ident ()
+-> $$ = nterm simple_expr ()
+Stack now 0 43 589 904
+Entering state 806
+Next token is token ',' ()
+Reducing stack by rule 1243 (line 4729):
+   $1 = nterm simple_expr ()
+-> $$ = nterm bit_expr ()
+Stack now 0 43 589 904
+Entering state 804
+Next token is token ',' ()
+Reducing stack by rule 1228 (line 4683):
+   $1 = nterm bit_expr ()
+-> $$ = nterm predicate ()
+Stack now 0 43 589 904
+Entering state 803
+Reducing stack by rule 1214 (line 4640):
+   $1 = nterm predicate ()
+-> $$ = nterm bool_pri ()
+Stack now 0 43 589 904
+Entering state 802
+Next token is token ',' ()
+Reducing stack by rule 1208 (line 4621):
+   $1 = nterm bool_pri ()
+-> $$ = nterm expr ()
+Stack now 0 43 589 904
+Entering state 1417
+Next token is token ',' ()
+Reducing stack by rule 1191 (line 4577):
+-> $$ = nterm select_alias ()
+Stack now 0 43 589 904 1417
+Entering state 2047
+Reducing stack by rule 1190 (line 4565):
+   $1 = nterm expr ()
+   $2 = nterm select_alias ()
+-> $$ = nterm select_item ()
+Stack now 0 43 589 904
+Entering state 1416
+Reducing stack by rule 1187 (line 4552):
+   $1 = nterm select_item ()
+-----push back2 new item FCompanyIntro
+-> $$ = nterm select_item_list ()
+Stack now 0 43 589 904
+Entering state 1415
+Next token is token ',' ()
+Shifting token ',' ()
+Entering state 2045
+Reading a token: Next token is token '(' ()
+Shifting token '(' ()
+Entering state 796
+Reading a token: Next token is token SELECT_SYM ()
+Reducing stack by rule 2579 (line 8297):
+-> $$ = nterm $@149 ()
+Stack now 0 43 589 904 1415 2045 796
+Entering state 1212
+Next token is token SELECT_SYM ()
+Shifting token SELECT_SYM ()
+Entering state 1853
+Reducing stack by rule 1471 (line 5570):
+-> $$ = nterm $@96 ()
+Stack now 0 43 589 904 1415 2045 796 1212 1853
+Entering state 2455
+Reading a token: Next token is token COUNT_SYM ()
+Reducing stack by rule 2581 (line 8305):
+-> $$ = nterm opt_query_spec_options ()
+Stack now 0 43 589 904 1415 2045 796 1212 1853 2455
+Entering state 2980
+Next token is token COUNT_SYM ()
+Shifting token COUNT_SYM ()
+Entering state 710
+Reading a token: Next token is token '(' ()
+Shifting token '(' ()
+Entering state 1123
+Reading a token: Next token is token '*' ()
+Reducing stack by rule 1527 (line 5712):
+-> $$ = nterm opt_all ()
+Stack now 0 43 589 904 1415 2045 796 1212 1853 2455 2980 710 1123
+Entering state 1748
+Next token is token '*' ()
+Shifting token '*' ()
+Entering state 2374
+Reading a token: Next token is token ')' ()
+Shifting token ')' ()
+Entering state 2924
+Reducing stack by rule 1389 (line 5190):
+   $1 = token COUNT_SYM ()
+   $2 = token '(' ()
+   $3 = nterm opt_all ()
+   $4 = token '*' ()
+   $5 = token ')' ()
+-> $$ = nterm sum_expr ()
+Stack now 0 43 589 904 1415 2045 796 1212 1853 2455 2980
+Entering state 812
+Reducing stack by rule 1269 (line 4778):
+   $1 = nterm sum_expr ()
+-> $$ = nterm simple_expr ()
+Stack now 0 43 589 904 1415 2045 796 1212 1853 2455 2980
+Entering state 806
+Reading a token: Next token is token FROM ()
+Reducing stack by rule 1243 (line 4729):
+   $1 = nterm simple_expr ()
+-> $$ = nterm bit_expr ()
+Stack now 0 43 589 904 1415 2045 796 1212 1853 2455 2980
+Entering state 804
+Next token is token FROM ()
+Reducing stack by rule 1228 (line 4683):
+   $1 = nterm bit_expr ()
+-> $$ = nterm predicate ()
+Stack now 0 43 589 904 1415 2045 796 1212 1853 2455 2980
+Entering state 803
+Reducing stack by rule 1214 (line 4640):
+   $1 = nterm predicate ()
+-> $$ = nterm bool_pri ()
+Stack now 0 43 589 904 1415 2045 796 1212 1853 2455 2980
+Entering state 802
+Next token is token FROM ()
+Reducing stack by rule 1208 (line 4621):
+   $1 = nterm bool_pri ()
+-> $$ = nterm expr ()
+Stack now 0 43 589 904 1415 2045 796 1212 1853 2455 2980
+Entering state 1417
+Next token is token FROM ()
+Reducing stack by rule 1191 (line 4577):
+-> $$ = nterm select_alias ()
+Stack now 0 43 589 904 1415 2045 796 1212 1853 2455 2980 1417
+Entering state 2047
+Reducing stack by rule 1190 (line 4565):
+   $1 = nterm expr ()
+   $2 = nterm select_alias ()
+-> $$ = nterm select_item ()
+Stack now 0 43 589 904 1415 2045 796 1212 1853 2455 2980
+Entering state 1416
+Reducing stack by rule 1187 (line 4552):
+   $1 = nterm select_item ()
+-----push back2 new item COUNT(*)
+-> $$ = nterm select_item_list ()
+Stack now 0 43 589 904 1415 2045 796 1212 1853 2455 2980
+Entering state 3375
+Next token is token FROM ()
+Reducing stack by rule 1472 (line 5570):
+   $1 = nterm $@96 ()
+   $2 = nterm opt_query_spec_options ()
+   $3 = nterm select_item_list ()
+-> $$ = nterm select_part2_derived ()
+Stack now 0 43 589 904 1415 2045 796 1212 1853
+Entering state 2454
+Next token is token FROM ()
+Shifting token FROM ()
+Entering state 1408
+Reading a token: Next token is token IDENT ()
+Shifting token IDENT ()
+Entering state 256
+Reducing stack by rule 1977 (line 7178):
+   $1 = token IDENT ()
+-> $$ = nterm IDENT_sys ()
+Stack now 0 43 589 904 1415 2045 796 1212 1853 2454 1408
+Entering state 504
+Reducing stack by rule 1984 (line 7215):
+   $1 = nterm IDENT_sys ()
+-> $$ = nterm ident ()
+Stack now 0 43 589 904 1415 2045 796 1212 1853 2454 1408
+Entering state 637
+Reading a token: Next token is token ')' ()
+Reducing stack by rule 1971 (line 7149):
+   $1 = nterm ident ()
+-> $$ = nterm table_ident ()
+Stack now 0 43 589 904 1415 2045 796 1212 1853 2454 1408
+Entering state 2031
+Next token is token ')' ()
+Reducing stack by rule 1463 (line 5490):
+-> $$ = nterm opt_use_partition ()
+Stack now 0 43 589 904 1415 2045 796 1212 1853 2454 1408 2031
+Entering state 2601
+Next token is token ')' ()
+Reducing stack by rule 1525 (line 5706):
+-> $$ = nterm opt_table_alias ()
+Stack now 0 43 589 904 1415 2045 796 1212 1853 2454 1408 2031 2601
+Entering state 3087
+Next token is token ')' ()
+Reducing stack by rule 1486 (line 5623):
+-> $$ = nterm opt_index_hints_list ()
+Stack now 0 43 589 904 1415 2045 796 1212 1853 2454 1408 2031 2601 3087
+Entering state 3482
+Reducing stack by rule 1488 (line 5628):
+   $1 = nterm opt_index_hints_list ()
+-> $$ = nterm opt_key_definition ()
+Stack now 0 43 589 904 1415 2045 796 1212 1853 2454 1408 2031 2601 3087
+Entering state 3483
+Reducing stack by rule 1466 (line 5509):
+   $1 = nterm table_ident ()
+   $2 = nterm opt_use_partition ()
+   $3 = nterm opt_table_alias ()
+   $4 = nterm opt_key_definition ()
+-> $$ = nterm table_factor ()
+Stack now 0 43 589 904 1415 2045 796 1212 1853 2454 1408
+Entering state 2030
+Reducing stack by rule 1441 (line 5377):
+   $1 = nterm table_factor ()
+-> $$ = nterm table_ref ()
+Stack now 0 43 589 904 1415 2045 796 1212 1853 2454 1408
+Entering state 2025
+Next token is token ')' ()
+Reducing stack by rule 1444 (line 5398):
+   $1 = nterm table_ref ()
+-> $$ = nterm esc_table_ref ()
+Stack now 0 43 589 904 1415 2045 796 1212 1853 2454 1408
+Entering state 2027
+Reducing stack by rule 1446 (line 5405):
+   $1 = nterm esc_table_ref ()
+-> $$ = nterm derived_table_list ()
+Stack now 0 43 589 904 1415 2045 796 1212 1853 2454 1408
+Entering state 2028
+Next token is token ')' ()
+Reducing stack by rule 1443 (line 5384):
+   $1 = nterm derived_table_list ()
+-> $$ = nterm join_table_list ()
+Stack now 0 43 589 904 1415 2045 796 1212 1853 2454 1408
+Entering state 2026
+Reducing stack by rule 1173 (line 4496):
+   $1 = nterm join_table_list ()
+-> $$ = nterm table_reference_list ()
+Stack now 0 43 589 904 1415 2045 796 1212 1853 2454 1408
+Entering state 2024
+Reducing stack by rule 1170 (line 4487):
+   $1 = token FROM ()
+   $2 = nterm table_reference_list ()
+-> $$ = nterm from_clause ()
+Stack now 0 43 589 904 1415 2045 796 1212 1853 2454
+Entering state 2978
+Reducing stack by rule 1172 (line 4492):
+   $1 = nterm from_clause ()
+-> $$ = nterm opt_from_clause ()
+Stack now 0 43 589 904 1415 2045 796 1212 1853 2454
+Entering state 2979
+Next token is token ')' ()
+Reducing stack by rule 1529 (line 5718):
+-> $$ = nterm opt_where_clause ()
+Stack now 0 43 589 904 1415 2045 796 1212 1853 2454 2979
+Entering state 3374
+Next token is token ')' ()
+Reducing stack by rule 1535 (line 5741):
+-> $$ = nterm opt_group_clause ()
+Stack now 0 43 589 904 1415 2045 796 1212 1853 2454 2979 3374
+Entering state 3697
+Next token is token ')' ()
+Reducing stack by rule 1531 (line 5725):
+-> $$ = nterm opt_having_clause ()
+Stack now 0 43 589 904 1415 2045 796 1212 1853 2454 2979 3374 3697
+Entering state 3914
+Next token is token ')' ()
+Reducing stack by rule 1546 (line 5800):
+-> $$ = nterm opt_order_clause ()
+Stack now 0 43 589 904 1415 2045 796 1212 1853 2454 2979 3374 3697 3914
+Entering state 4028
+Next token is token ')' ()
+Reducing stack by rule 1554 (line 5826):
+-> $$ = nterm opt_limit_clause ()
+Stack now 0 43 589 904 1415 2045 796 1212 1853 2454 2979 3374 3697 3914 4028
+Entering state 4157
+Next token is token ')' ()
+Reducing stack by rule 1590 (line 5918):
+-> $$ = nterm opt_procedure_analyse_clause ()
+Stack now 0 43 589 904 1415 2045 796 1212 1853 2454 2979 3374 3697 3914 4028 4157
+Entering state 4272
+Next token is token ')' ()
+Reducing stack by rule 1183 (line 4536):
+-> $$ = nterm opt_select_lock_type ()
+Stack now 0 43 589 904 1415 2045 796 1212 1853 2454 2979 3374 3697 3914 4028 4157 4272
+Entering state 4360
+Reducing stack by rule 1169 (line 4474):
+   $1 = nterm opt_from_clause ()
+   $2 = nterm opt_where_clause ()
+   $3 = nterm opt_group_clause ()
+   $4 = nterm opt_having_clause ()
+   $5 = nterm opt_order_clause ()
+   $6 = nterm opt_limit_clause ()
+   $7 = nterm opt_procedure_analyse_clause ()
+   $8 = nterm opt_select_lock_type ()
+-> $$ = nterm table_expression ()
+Stack now 0 43 589 904 1415 2045 796 1212 1853 2454
+Entering state 2977
+Reducing stack by rule 2575 (line 8279):
+   $1 = token SELECT_SYM ()
+   $2 = nterm select_part2_derived ()
+   $3 = nterm table_expression ()
+-> $$ = nterm query_specification ()
+Stack now 0 43 589 904 1415 2045 796 1212
+Entering state 1855
+Reducing stack by rule 2577 (line 8289):
+   $1 = nterm query_specification ()
+-> $$ = nterm query_expression_body ()
+Stack now 0 43 589 904 1415 2045 796 1212
+Entering state 1856
+Next token is token ')' ()
+Reducing stack by rule 2580 (line 8297):
+   $1 = nterm $@149 ()
+   $2 = nterm query_expression_body ()
+-> $$ = nterm subselect ()
+Stack now 0 43 589 904 1415 2045 796
+Entering state 1211
+Next token is token ')' ()
+Shifting token ')' ()
+Entering state 1852
+Reducing stack by rule 1275 (line 4794):
+   $1 = token '(' ()
+   $2 = nterm subselect ()
+   $3 = token ')' ()
+-> $$ = nterm simple_expr ()
+Stack now 0 43 589 904 1415 2045
+Entering state 806
+Reading a token: Next token is token AS ()
+Reducing stack by rule 1243 (line 4729):
+   $1 = nterm simple_expr ()
+-> $$ = nterm bit_expr ()
+Stack now 0 43 589 904 1415 2045
+Entering state 804
+Next token is token AS ()
+Reducing stack by rule 1228 (line 4683):
+   $1 = nterm bit_expr ()
+-> $$ = nterm predicate ()
+Stack now 0 43 589 904 1415 2045
+Entering state 803
+Reducing stack by rule 1214 (line 4640):
+   $1 = nterm predicate ()
+-> $$ = nterm bool_pri ()
+Stack now 0 43 589 904 1415 2045
+Entering state 802
+Next token is token AS ()
+Reducing stack by rule 1208 (line 4621):
+   $1 = nterm bool_pri ()
+-> $$ = nterm expr ()
+Stack now 0 43 589 904 1415 2045
+Entering state 1417
+Next token is token AS ()
+Shifting token AS ()
+Entering state 2046
+Reading a token: Next token is token IDENT ()
+Shifting token IDENT ()
+Entering state 256
+Reducing stack by rule 1977 (line 7178):
+   $1 = token IDENT ()
+-> $$ = nterm IDENT_sys ()
+Stack now 0 43 589 904 1415 2045 1417 2046
+Entering state 504
+Reducing stack by rule 1984 (line 7215):
+   $1 = nterm IDENT_sys ()
+-> $$ = nterm ident ()
+Stack now 0 43 589 904 1415 2045 1417 2046
+Entering state 2608
+Reducing stack by rule 1192 (line 4578):
+   $1 = token AS ()
+   $2 = nterm ident ()
+-> $$ = nterm select_alias ()
+Stack now 0 43 589 904 1415 2045 1417
+Entering state 2047
+Reducing stack by rule 1190 (line 4565):
+   $1 = nterm expr ()
+   $2 = nterm select_alias ()
+-> $$ = nterm select_item ()
+Stack now 0 43 589 904 1415 2045
+Entering state 2606
+Reducing stack by rule 1186 (line 4546):
+   $1 = nterm select_item_list ()
+   $2 = token ',' ()
+   $3 = nterm select_item ()
+-----push back new item eee
+-> $$ = nterm select_item_list ()
+Stack now 0 43 589 904
+Entering state 1415
+Reading a token: Next token is token FROM ()
+Reducing stack by rule 1168 (line 4464):
+   $1 = nterm $@95 ()
+   $2 = nterm select_options ()
+   $3 = nterm select_item_list ()
+-> $$ = nterm select_options_and_item_list ()
+Stack now 0 43
+Entering state 588
+Next token is token FROM ()
+Reducing stack by rule 1600 (line 5962):
+-> $$ = nterm opt_into ()
+Stack now 0 43 588
+Entering state 891
+Next token is token FROM ()
+Shifting token FROM ()
+Entering state 1408
+Reading a token: Next token is token IDENT ()
+Shifting token IDENT ()
+Entering state 256
+Reducing stack by rule 1977 (line 7178):
+   $1 = token IDENT ()
+-> $$ = nterm IDENT_sys ()
+Stack now 0 43 588 891 1408
+Entering state 504
+Reducing stack by rule 1984 (line 7215):
+   $1 = nterm IDENT_sys ()
+-> $$ = nterm ident ()
+Stack now 0 43 588 891 1408
+Entering state 637
+Reading a token: Next token is token WHERE ()
+Reducing stack by rule 1971 (line 7149):
+   $1 = nterm ident ()
+-> $$ = nterm table_ident ()
+Stack now 0 43 588 891 1408
+Entering state 2031
+Next token is token WHERE ()
+Reducing stack by rule 1463 (line 5490):
+-> $$ = nterm opt_use_partition ()
+Stack now 0 43 588 891 1408 2031
+Entering state 2601
+Next token is token WHERE ()
+Reducing stack by rule 1525 (line 5706):
+-> $$ = nterm opt_table_alias ()
+Stack now 0 43 588 891 1408 2031 2601
+Entering state 3087
+Next token is token WHERE ()
+Reducing stack by rule 1486 (line 5623):
+-> $$ = nterm opt_index_hints_list ()
+Stack now 0 43 588 891 1408 2031 2601 3087
+Entering state 3482
+Reducing stack by rule 1488 (line 5628):
+   $1 = nterm opt_index_hints_list ()
+-> $$ = nterm opt_key_definition ()
+Stack now 0 43 588 891 1408 2031 2601 3087
+Entering state 3483
+Reducing stack by rule 1466 (line 5509):
+   $1 = nterm table_ident ()
+   $2 = nterm opt_use_partition ()
+   $3 = nterm opt_table_alias ()
+   $4 = nterm opt_key_definition ()
+-> $$ = nterm table_factor ()
+Stack now 0 43 588 891 1408
+Entering state 2030
+Reducing stack by rule 1441 (line 5377):
+   $1 = nterm table_factor ()
+-> $$ = nterm table_ref ()
+Stack now 0 43 588 891 1408
+Entering state 2025
+Next token is token WHERE ()
+Reducing stack by rule 1444 (line 5398):
+   $1 = nterm table_ref ()
+-> $$ = nterm esc_table_ref ()
+Stack now 0 43 588 891 1408
+Entering state 2027
+Reducing stack by rule 1446 (line 5405):
+   $1 = nterm esc_table_ref ()
+-> $$ = nterm derived_table_list ()
+Stack now 0 43 588 891 1408
+Entering state 2028
+Next token is token WHERE ()
+Reducing stack by rule 1443 (line 5384):
+   $1 = nterm derived_table_list ()
+-> $$ = nterm join_table_list ()
+Stack now 0 43 588 891 1408
+Entering state 2026
+Reducing stack by rule 1173 (line 4496):
+   $1 = nterm join_table_list ()
+-> $$ = nterm table_reference_list ()
+Stack now 0 43 588 891 1408
+Entering state 2024
+Reducing stack by rule 1170 (line 4487):
+   $1 = token FROM ()
+   $2 = nterm table_reference_list ()
+-> $$ = nterm from_clause ()
+Stack now 0 43 588 891
+Entering state 1409
+Next token is token WHERE ()
+Shifting token WHERE ()
+Entering state 2032
+Reading a token: Next token is token IDENT ()
+Shifting token IDENT ()
+Entering state 256
+Reducing stack by rule 1977 (line 7178):
+   $1 = token IDENT ()
+-> $$ = nterm IDENT_sys ()
+Stack now 0 43 588 891 1409 2032
+Entering state 822
+Reading a token: Next token is token EQ ()
+Reducing stack by rule 1984 (line 7215):
+   $1 = nterm IDENT_sys ()
+-> $$ = nterm ident ()
+Stack now 0 43 588 891 1409 2032
+Entering state 823
+Next token is token EQ ()
+Reducing stack by rule 1960 (line 7111):
+   $1 = nterm ident ()
+-> $$ = nterm simple_ident ()
+Stack now 0 43 588 891 1409 2032
+Entering state 820
+Reducing stack by rule 1260 (line 4767):
+   $1 = nterm simple_ident ()
+-> $$ = nterm simple_expr ()
+Stack now 0 43 588 891 1409 2032
+Entering state 806
+Next token is token EQ ()
+Reducing stack by rule 1243 (line 4729):
+   $1 = nterm simple_expr ()
+-> $$ = nterm bit_expr ()
+Stack now 0 43 588 891 1409 2032
+Entering state 804
+Next token is token EQ ()
+Reducing stack by rule 1228 (line 4683):
+   $1 = nterm bit_expr ()
+-> $$ = nterm predicate ()
+Stack now 0 43 588 891 1409 2032
+Entering state 803
+Reducing stack by rule 1214 (line 4640):
+   $1 = nterm predicate ()
+-> $$ = nterm bool_pri ()
+Stack now 0 43 588 891 1409 2032
+Entering state 802
+Next token is token EQ ()
+Shifting token EQ ()
+Entering state 1222
+Reducing stack by rule 1252 (line 4753):
+   $1 = token EQ ()
+-> $$ = nterm comp_op ()
+Stack now 0 43 588 891 1409 2032 802
+Entering state 1230
+Reading a token: Next token is token LONG_NUM ()
+Shifting token LONG_NUM ()
+Entering state 736
+Reducing stack by rule 1948 (line 7056):
+   $1 = token LONG_NUM ()
+-> $$ = nterm NUM_literal ()
+Stack now 0 43 588 891 1409 2032 802 1230
+Entering state 818
+Reducing stack by rule 1938 (line 7027):
+   $1 = nterm NUM_literal ()
+-> $$ = nterm literal ()
+Stack now 0 43 588 891 1409 2032 802 1230
+Entering state 817
+Reducing stack by rule 1266 (line 4775):
+   $1 = nterm literal ()
+-> $$ = nterm simple_expr ()
+Stack now 0 43 588 891 1409 2032 802 1230
+Entering state 806
+Reading a token: Next token is token ';' ()
+Reducing stack by rule 1243 (line 4729):
+   $1 = nterm simple_expr ()
+-> $$ = nterm bit_expr ()
+Stack now 0 43 588 891 1409 2032 802 1230
+Entering state 804
+Next token is token ';' ()
+Reducing stack by rule 1228 (line 4683):
+   $1 = nterm bit_expr ()
+-> $$ = nterm predicate ()
+Stack now 0 43 588 891 1409 2032 802 1230
+Entering state 1870
+Reducing stack by rule 1212 (line 4634):
+   $1 = nterm bool_pri ()
+   $2 = nterm comp_op ()
+   $3 = nterm predicate ()
+-> $$ = nterm bool_pri ()
+Stack now 0 43 588 891 1409 2032
+Entering state 802
+Next token is token ';' ()
+Reducing stack by rule 1208 (line 4621):
+   $1 = nterm bool_pri ()
+-> $$ = nterm expr ()
+Stack now 0 43 588 891 1409 2032
+Entering state 2602
+Next token is token ';' ()
+Reducing stack by rule 1530 (line 5719):
+   $1 = token WHERE ()
+   $2 = nterm expr ()
+-> $$ = nterm opt_where_clause ()
+Stack now 0 43 588 891 1409
+Entering state 2033
+Next token is token ';' ()
+Reducing stack by rule 1535 (line 5741):
+-> $$ = nterm opt_group_clause ()
+Stack now 0 43 588 891 1409 2033
+Entering state 2604
+Next token is token ';' ()
+Reducing stack by rule 1531 (line 5725):
+-> $$ = nterm opt_having_clause ()
+Stack now 0 43 588 891 1409 2033 2604
+Entering state 3090
+Next token is token ';' ()
+Reducing stack by rule 1546 (line 5800):
+-> $$ = nterm opt_order_clause ()
+Stack now 0 43 588 891 1409 2033 2604 3090
+Entering state 3487
+Next token is token ';' ()
+Reducing stack by rule 1554 (line 5826):
+-> $$ = nterm opt_limit_clause ()
+Stack now 0 43 588 891 1409 2033 2604 3090 3487
+Entering state 3769
+Next token is token ';' ()
+Reducing stack by rule 1590 (line 5918):
+-> $$ = nterm opt_procedure_analyse_clause ()
+Stack now 0 43 588 891 1409 2033 2604 3090 3487 3769
+Entering state 3958
+Next token is token ';' ()
+Reducing stack by rule 1600 (line 5962):
+-> $$ = nterm opt_into ()
+Stack now 0 43 588 891 1409 2033 2604 3090 3487 3769 3958
+Entering state 4065
+Next token is token ';' ()
+Reducing stack by rule 1183 (line 4536):
+-> $$ = nterm opt_select_lock_type ()
+Stack now 0 43 588 891 1409 2033 2604 3090 3487 3769 3958 4065
+Entering state 4199
+Reducing stack by rule 1166 (line 4448):
+   $1 = nterm select_options_and_item_list ()
+   $2 = nterm opt_into ()
+   $3 = nterm from_clause ()
+   $4 = nterm opt_where_clause ()
+   $5 = nterm opt_group_clause ()
+   $6 = nterm opt_having_clause ()
+   $7 = nterm opt_order_clause ()
+   $8 = nterm opt_limit_clause ()
+   $9 = nterm opt_procedure_analyse_clause ()
+   $10 = nterm opt_into ()
+   $11 = nterm opt_select_lock_type ()
+-> $$ = nterm select_part2 ()
+Stack now 0 43
+Entering state 587
+Next token is token ';' ()
+Reducing stack by rule 2561 (line 8238):
+-> $$ = nterm opt_union_clause ()
+Stack now 0 43 587
+Entering state 885
+Reducing stack by rule 1163 (line 4428):
+   $1 = nterm select_part2 ()
+   $2 = nterm opt_union_clause ()
+-> $$ = nterm select_init2 ()
+Stack now 0 43
+Entering state 586
+Reducing stack by rule 1157 (line 4404):
+   $1 = token SELECT_SYM ()
+   $2 = nterm select_init2 ()
+-> $$ = nterm select_init ()
+Stack now 0
+Entering state 84
+Reducing stack by rule 1156 (line 4397):
+   $1 = nterm select_init ()
+-> $$ = nterm select ()
+Stack now 0
+Entering state 83
+Reducing stack by rule 49 (line 806):
+   $1 = nterm select ()
+-> $$ = nterm statement ()
+Stack now 0
+Entering state 58
+Reducing stack by rule 7 (line 760):
+   $1 = nterm statement ()
+-> $$ = nterm verb_clause ()
+Stack now 0
+Entering state 57
+Next token is token ';' ()
+Reducing stack by rule 2 (line 743):
+-> $$ = nterm $@1 ()
+Stack now 0 57
+Entering state 630
+Next token is token ';' ()
+Shifting token ';' ()
+Entering state 1009
+Reading a token: Next token is token END_OF_INPUT ()
+Shifting token END_OF_INPUT ()
+Entering state 1534
+Reducing stack by rule 6 (line 756):
+   $1 = token END_OF_INPUT ()
+-> $$ = nterm opt_end_of_input ()
+Stack now 0 57 630 1009
+Entering state 1535
+Reducing stack by rule 3 (line 742):
+   $1 = nterm verb_clause ()
+   $2 = nterm $@1 ()
+   $3 = token ';' ()
+   $4 = nterm opt_end_of_input ()
+-> $$ = nterm query ()
+Stack now 0
+Entering state 56
+Reading a token: Now at end of input.
+Shifting token $end ()
+Entering state 628
+Stack now 0 56 628
+Cleanup: popping token $end ()
+Cleanup: popping nterm query ()
+------tables:------ 
+test2
+------columns:------ 
+FCompanyIntro eee 
+********END*********
+

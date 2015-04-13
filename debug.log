@@ -1,0 +1,115 @@
+Starting parse
+Entering state 0
+Reading a token: 259
+Next token is token SELECT_SYM ()
+Shifting token SELECT_SYM ()
+Entering state 2
+Reading a token: 294
+Next token is token IDENT ()
+Reducing stack by rule 20 (line 222):
+-> $$ = nterm select_options ()
+Stack now 0 2
+Entering state 21
+Next token is token IDENT ()
+Shifting token IDENT ()
+Entering state 31
+Reducing stack by rule 94 (line 433):
+   $1 = token IDENT ()
+-> $$ = nterm IDENT_sys ()
+Stack now 0 2 21
+Entering state 87
+Reducing stack by rule 92 (line 427):
+   $1 = nterm IDENT_sys ()
+-> $$ = nterm ident ()
+Stack now 0 2 21
+Entering state 86
+Reading a token: 260
+Next token is token FROM ()
+Reducing stack by rule 37 (line 284):
+-> $$ = nterm select_alias ()
+Stack now 0 2 21 86
+Entering state 103
+Reducing stack by rule 34 (line 269):
+   $1 = nterm ident ()
+   $2 = nterm select_alias ()
+ abc
+-> $$ = nterm select_item ()
+Stack now 0 2 21
+Entering state 84
+Reducing stack by rule 31 (line 257):
+   $1 = nterm select_item ()
+test
+-> $$ = nterm select_item_list ()
+Stack now 0 2 21
+Entering state 83
+Next token is token FROM ()
+Shifting token FROM ()
+Entering state 94
+Reading a token: 294
+Next token is token IDENT ()
+Shifting token IDENT ()
+Entering state 31
+Reducing stack by rule 94 (line 433):
+   $1 = token IDENT ()
+-> $$ = nterm IDENT_sys ()
+Stack now 0 2 21 83 94
+Entering state 87
+Reducing stack by rule 92 (line 427):
+   $1 = nterm IDENT_sys ()
+-> $$ = nterm ident ()
+Stack now 0 2 21 83 94
+Entering state 113
+Reading a token: 258
+Next token is token END_OF_INPUT ()
+Reducing stack by rule 81 (line 404):
+   $1 = nterm ident ()
+-> $$ = nterm table_ident ()
+Stack now 0 2 21 83 94
+Entering state 112
+Reducing stack by rule 79 (line 399):
+   $1 = nterm table_ident ()
+-> $$ = nterm join_table_list ()
+Stack now 0 2 21 83 94
+Entering state 111
+Next token is token END_OF_INPUT ()
+Reducing stack by rule 40 (line 290):
+-> $$ = nterm where_clause ()
+Stack now 0 2 21 83 94 111
+Entering state 128
+Next token is token END_OF_INPUT ()
+Reducing stack by rule 42 (line 295):
+-> $$ = nterm group_clause ()
+Stack now 0 2 21 83 94 111 128
+Entering state 147
+Next token is token END_OF_INPUT ()
+Reducing stack by rule 46 (line 305):
+-> $$ = nterm having_clause ()
+Stack now 0 2 21 83 94 111 128 147
+Entering state 166
+Next token is token END_OF_INPUT ()
+Reducing stack by rule 48 (line 310):
+-> $$ = nterm opt_order_clause ()
+Stack now 0 2 21 83 94 111 128 147 166
+Entering state 184
+Next token is token END_OF_INPUT ()
+Error: popping nterm opt_order_clause ()
+Stack now 0 2 21 83 94 111 128 147 166
+Error: popping nterm having_clause ()
+Stack now 0 2 21 83 94 111 128 147
+Error: popping nterm group_clause ()
+Stack now 0 2 21 83 94 111 128
+Error: popping nterm where_clause ()
+Stack now 0 2 21 83 94 111
+Error: popping nterm join_table_list ()
+Stack now 0 2 21 83 94
+Error: popping token FROM ()
+Stack now 0 2 21 83
+Error: popping nterm select_item_list ()
+Stack now 0 2 21
+Error: popping nterm select_options ()
+Stack now 0 2
+Error: popping token SELECT_SYM ()
+Stack now 0
+Cleanup: discarding lookahead token END_OF_INPUT ()
+Stack now 0
+ERROR: syntax error
