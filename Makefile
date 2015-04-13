@@ -8,7 +8,7 @@ LEXFILE=sql_lex
 YACCFILE=sql_yacc
 
 $(PRG):$(OBJ)
-	$(CC) $(CC_FLAG) -o sql_parse $(OBJ)
+	$(CC) $(CC_FLAG) -o $@ $(OBJ)
 
 sql_parser.o:sql_parser.cpp sql_common.h
 	$(CC) $(CC_FLAG) -c sql_parser.cpp
