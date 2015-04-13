@@ -1,0 +1,7 @@
+tags
+.log
+.o
+log
+sql_yacc.cpp
+sql_yacc.hpp
+sql_lex.cpp
