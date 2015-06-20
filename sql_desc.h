@@ -28,20 +28,21 @@ class DB_item_list{
     void push(std::string *item){ items.push_back(item); }
 };
 
-enum class SQL_TYPE{
-  UNKOWN,
-  SELECT,
-  INSERT,
-  UPDATE,
-  DELETE,
-};
+
 
 class SQL{
   public:
-    SQL(): buffer(NULL), type(SQL_TYPE::UNKOWN){
+    enum SQL_TYPE{
+      TYPE_UNKOWN,
+      TYPE_SELECT,
+      TYPE_INSERT,
+      TYPE_UPDATE,
+      TYPE_DELETE,
+    };
+    SQL(): buffer(NULL), type(TYPE_UNKOWN){
       db_table_desc = new DB_table();
     };
-    SQL(Scanner *buffer):type(SQL_TYPE::UNKOWN) {
+    SQL(Scanner *buffer):type(TYPE_UNKOWN) {
       this->buffer = buffer;
       db_table_desc = new DB_table();
     }
